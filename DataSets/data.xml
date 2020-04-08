@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link href="http://arxiv.org/api/query?search_query%3Dall%3Aastro-ph%26id_list%3D%26start%3D0%26max_results%3D1" rel="self" type="application/atom+xml"/>
+  <title type="html">ArXiv Query: search_query=all:astro-ph&amp;id_list=&amp;start=0&amp;max_results=1</title>
+  <id>http://arxiv.org/api/OtNRrd17LnfMsMHhmJxoopjAfxA</id>
+  <updated>2020-03-18T00:00:00-04:00</updated>
+  <opensearch:totalResults xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">105383</opensearch:totalResults>
+  <opensearch:startIndex xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">0</opensearch:startIndex>
+  <opensearch:itemsPerPage xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">1</opensearch:itemsPerPage>
+  <entry>
+    <id>http://arxiv.org/abs/1912.12092v1</id>
+    <updated>2019-12-27T13:35:35Z</updated>
+    <published>2019-12-27T13:35:35Z</published>
+    <title>Bremsstrahlung emission from nuclear reactions in compact stars</title>
+    <summary>  Bremsstrahlung emission of photons during nuclear reactions inside dense
+stellar medium is investigated in the paper. For that, a new model of nucleus
+is developed, where nuclear forces combine nucleons as bound system in
+dependence on deep location inside compact star. A polytropic model of stars at
+index $n=3$ with densities characterized from white dwarf to neutron star is
+used. Bremsstrahlung formalism and calculations are well tested on existed
+experimental information for scattering of protons of light nuclei in Earth. We
+find the following. (1) In neutron stars a phenomenon of dissociation of
+nucleus is observed --- its disintegration on individual nucleons, starting
+from some critical distance between this nucleus and center of star with high
+density. We do not observe such a phenomenon in white dwarfs. (2) In the white
+dwarfs, influence of stellar medium imperceptibly affects on bremsstrahlung
+photons. Also, we have accurate description of bremsstrahlung photons in
+nuclear reactions in Sun. (3) For neutron stars, influence of stellar medium is
+essentially more intensive and it crucially changes the bremsstrahlung
+spectrum. The most intensive emission is from bowel of the star, while the
+weakest emission is from periphery.
+</summary>
+    <author>
+      <name>Sergei P. Maydanyuk</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Institute for Nuclear Research, National Academy of Sciences of Ukraine, Kyiv, Ukraine</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Kostiantyn A. Shaulskyi</name>
+      <arxiv:affiliation xmlns:arxiv="http://arxiv.org/schemas/atom">Taras Shevchenko National University of Kyiv, Ukraine</arxiv:affiliation>
+    </author>
+    <arxiv:comment xmlns:arxiv="http://arxiv.org/schemas/atom">16 pages, 7 captured figures, 1 Appendix</arxiv:comment>
+    <link href="http://arxiv.org/abs/1912.12092v1" rel="alternate" type="text/html"/>
+    <link title="pdf" href="http://arxiv.org/pdf/1912.12092v1" rel="related" type="application/pdf"/>
+    <arxiv:primary_category xmlns:arxiv="http://arxiv.org/schemas/atom" term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.SR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+  </entry>
+</feed>
