@@ -34,6 +34,7 @@ def time_extracting(time_from, time_until, path):
             if element.find(OAI+"header").find(OAI+"identifier") == None:
                 metadata_dict["identifier"].append("None")
             if element.find(OAI+"header").find(OAI+"datestamp") != None:
+                end_time = element.find(OAI+"header").find(OAI+"datestamp").text
                 metadata_dict["datestamp"].append(element.find(OAI+"header").find(OAI+"datestamp").text)
             if element.find(OAI+"header").find(OAI+"datestamp") == None:
                 metadata_dict["datestamp"].append("None")
