@@ -27,70 +27,75 @@ def time_extracting(time_from, time_until, path):
         tree = ET.parse(f)
         root = tree.getroot()
         count = 0
-        for element in root.find(OAI+'ListRecords').findall(OAI+'record'):
-            count += 1
-            if element.find(OAI+"header").find(OAI+"identifier") != None:
-                metadata_dict["identifier"].append(element.find(OAI+"header").find(OAI+"identifier").text)
-            if element.find(OAI+"header").find(OAI+"identifier") == None:
-                metadata_dict["identifier"].append("None")
-            if element.find(OAI+"header").find(OAI+"datestamp") != None:
-                metadata_dict["datestamp"].append(element.find(OAI+"header").find(OAI+"datestamp").text)
-            if element.find(OAI+"header").find(OAI+"datestamp") == None:
-                metadata_dict["datestamp"].append("None")
-            if element.find(OAI+"header").find(OAI+"setSpec") != None:
-                metadata_dict["setSpec"].append(element.find(OAI+"header").find(OAI+"setSpec").text)
-            if element.find(OAI+"header").find(OAI+"setSpec") == None:
-                metadata_dict["setSpec"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id") != None:
-                metadata_dict["id"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id") == None:
-                metadata_dict["id"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created") != None:
-                metadata_dict["created"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created") == None:
-                metadata_dict["created"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated") != None:
-                metadata_dict["updated"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated") == None:
-                metadata_dict["updated"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") != None:
-                authors_dict = {"keyname":[], "forenames":[]}
-                for author in element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author"):
-                    if author.find(arXiv+"keyname") != None:
-                        authors_dict["keyname"].append(author.find(arXiv+"keyname").text)
-                    if author.find(arXiv+"keyname") == None:
-                        authors_dict["keyname"].append("None")
-                    if author.find(arXiv+"forenames") != None:
-                        authors_dict["forenames"].append(author.find(arXiv+"forenames").text)
-                    if author.find(arXiv+"forenames") == None:
-                        authors_dict["forenames"].append("None")
-                metadata_dict["authors"].append(authors_dict)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") == None:
-                metadata_dict["authors"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title") != None:
-                metadata_dict["title"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title") == None:
-                metadata_dict["title"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories") != None:
-                metadata_dict["categories"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories") == None:
-                metadata_dict["categories"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments") != None:
-                metadata_dict["comments"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments") == None:
-                metadata_dict["comments"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref") != None:
-                metadata_dict["journal-ref"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref") == None:
-                metadata_dict["journal-ref"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi") != None:
-                metadata_dict["doi"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi") == None:
-                metadata_dict["doi"].append("None")
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") != None:
-                metadata_dict["abstract"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract").text)
-            if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") == None:
-                metadata_dict["abstract"].append("None")
+        if root.find(OAI+'ListRecords') == None:
+            print("there is no article in this time :( ")
+            print("you can see it by your eyes here --> %sfrom%suntil%s.xml" %(path, time_from, time_until))
+            return
+        if root.find(OAI+'ListRecords') != None:
+            for element in root.find(OAI+'ListRecords').findall(OAI+'record'):
+                count += 1
+                if element.find(OAI+"header").find(OAI+"identifier") != None:
+                    metadata_dict["identifier"].append(element.find(OAI+"header").find(OAI+"identifier").text)
+                if element.find(OAI+"header").find(OAI+"identifier") == None:
+                    metadata_dict["identifier"].append("None")
+                if element.find(OAI+"header").find(OAI+"datestamp") != None:
+                    metadata_dict["datestamp"].append(element.find(OAI+"header").find(OAI+"datestamp").text)
+                if element.find(OAI+"header").find(OAI+"datestamp") == None:
+                    metadata_dict["datestamp"].append("None")
+                if element.find(OAI+"header").find(OAI+"setSpec") != None:
+                    metadata_dict["setSpec"].append(element.find(OAI+"header").find(OAI+"setSpec").text)
+                if element.find(OAI+"header").find(OAI+"setSpec") == None:
+                    metadata_dict["setSpec"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id") != None:
+                    metadata_dict["id"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"id") == None:
+                    metadata_dict["id"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created") != None:
+                    metadata_dict["created"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"created") == None:
+                    metadata_dict["created"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated") != None:
+                    metadata_dict["updated"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"updated") == None:
+                    metadata_dict["updated"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") != None:
+                    authors_dict = {"keyname":[], "forenames":[]}
+                    for author in element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author"):
+                        if author.find(arXiv+"keyname") != None:
+                            authors_dict["keyname"].append(author.find(arXiv+"keyname").text)
+                        if author.find(arXiv+"keyname") == None:
+                            authors_dict["keyname"].append("None")
+                        if author.find(arXiv+"forenames") != None:
+                            authors_dict["forenames"].append(author.find(arXiv+"forenames").text)
+                        if author.find(arXiv+"forenames") == None:
+                            authors_dict["forenames"].append("None")
+                    metadata_dict["authors"].append(authors_dict)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") == None:
+                    metadata_dict["authors"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title") != None:
+                    metadata_dict["title"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"title") == None:
+                    metadata_dict["title"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories") != None:
+                    metadata_dict["categories"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"categories") == None:
+                    metadata_dict["categories"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments") != None:
+                    metadata_dict["comments"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"comments") == None:
+                    metadata_dict["comments"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref") != None:
+                    metadata_dict["journal-ref"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"journal-ref") == None:
+                    metadata_dict["journal-ref"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi") != None:
+                    metadata_dict["doi"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"doi") == None:
+                    metadata_dict["doi"].append("None")
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") != None:
+                    metadata_dict["abstract"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract").text)
+                if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") == None:
+                    metadata_dict["abstract"].append("None")
             
     with open(path+"from"+time_from+"until"+time_until+"count"+str(count)+".json", 'w') as f:
         json.dump(metadata_dict, f)
