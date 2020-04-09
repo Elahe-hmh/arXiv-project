@@ -1,6 +1,7 @@
 import urllib.request as libreq
 import xml.etree.ElementTree as ET
 import json
+import time
 
 OAI = "{http://www.openarchives.org/OAI/2.0/}"
 arXiv = "{http://arxiv.org/OAI/arXiv/}"
@@ -9,14 +10,52 @@ def main():
     path = input("Enter the path(example --> D:/MachineLearning/) --> ")
     choosing_variable = input("which one?\n1.title\n2.Author\n3.Abstract\n4.Comment\n5.Journal Reference\n6.Subject Category\n7.Report Number\n8.Id\n9.All of the above\n10.Time\n(example --> 1+2+7)\n --> ")
     if choosing_variable.find('10') != -1:
-        time_from = input("10.Time\nform(example --> 2015-04-01) --> ")
-        time_until = input("until --> ")
-        time_extracting(time_from, time_until, path)
+        temp = input('which one?\n1.month\n2.day\n (example --> 1) --> ')
+        if int(temp) == 1:
+            year_month = input("10.Time\nyear_month(example --> 2015-04) --> ")
+            how_many_days = int(input("how_many_days --> "))
+            month_time_extracting(year_month, how_many_days, path, temp)
+        if int(temp) == 2:
+            time_from = input("10.Time\ntime_from(example --> 2015-04) --> ")
+            time_until = input("time_until --> ")
+            day_time_extracting(time_from, time_until, path, temp)
+        else:
+            print("Wrong answer :(")
     return
 
-def time_extracting(time_from, time_until, path):
-    metadata_dict = {"identifier":[], "datestamp":[], "setSpec":[], "id":[], "created":[], "updated":[], "authors":[], "title":[], "categories":[], "comments":[], "journal-ref":[], "doi":[], "abstract":[]}
+def month_time_extracting(year_month, how_many_days, path, Temp):
     
+    Metadata_dict = {"identifier":[], "datestamp":[], "setSpec":[], "id":[], "created":[], "updated":[], "authors":[], "title":[], "categories":[], "comments":[], "journal-ref":[], "doi":[], "abstract":[]}
+    temp_dict = {}
+    Count = 0
+
+    for i in range(how_many_days):
+        if i < 9:
+            tempz = '-0'+str(i+1)
+        else:
+            tempz = '-'+str(i+1)
+        time.sleep(20)
+        temp_dict[str(i)], temp_count = day_time_extracting(year_month+tempz, year_month+tempz, path, Temp)
+        Count += temp_count
+        if temp_count != 0:
+            for key in list(Metadata_dict.keys()):
+                Metadata_dict[key].extend(list(temp_dict[str(i)][key]))
+
+        temp_dict[str(i)] = 0
+        print(year_month+tempz)
+    
+    with open(path+year_month+"count"+str(Count)+".json", 'w') as f:
+        json.dump(Metadata_dict, f)
+    
+    print("metadata of %i articles is here -->%s%scount%i.json"%(Count, path, year_month, Count))
+    
+    return
+        
+
+def day_time_extracting(time_from, time_until, path, temp):
+    
+    metadata_dict = {"identifier":[], "datestamp":[], "setSpec":[], "id":[], "created":[], "updated":[], "authors":[], "title":[], "categories":[], "comments":[], "journal-ref":[], "doi":[], "abstract":[]}
+
     with libreq.urlopen('http://export.arxiv.org/oai2?verb=ListRecords&set=physics&from=%s&until=%s&metadataPrefix=arXiv' %(time_from, time_until)) as url:
         r = url.read()
         
@@ -28,9 +67,12 @@ def time_extracting(time_from, time_until, path):
         root = tree.getroot()
         count = 0
         if root.find(OAI+'ListRecords') == None:
-            print("there is no article in this time :( ")
-            print("you can see it by your eyes here --> %sfrom%suntil%s.xml" %(path, time_from, time_until))
-            return
+            if int(temp) == 2:
+                print("there is no article in this time :( ")
+                print("you can see it by your eyes here --> %sfrom%suntil%s.xml" %(path, time_from, time_until))
+                return
+            else:
+                return metadata_dict, count
         if root.find(OAI+'ListRecords') != None:
             for element in root.find(OAI+'ListRecords').findall(OAI+'record'):
                 count += 1
@@ -96,11 +138,17 @@ def time_extracting(time_from, time_until, path):
                     metadata_dict["abstract"].append(element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract").text)
                 if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") == None:
                     metadata_dict["abstract"].append("None")
-            
-    with open(path+"from"+time_from+"until"+time_until+"count"+str(count)+".json", 'w') as f:
-        json.dump(metadata_dict, f)
-    print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%scount%i.json" %(count, path, time_from, time_until,path, time_from, time_until, count))
-    return
+    if int(temp) == 2:
+        with open(path+"from"+time_from+"until"+time_until+"count"+str(count)+".json", 'w') as f:
+            json.dump(metadata_dict, f)
+        print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%scount%i.json" %(count, path, time_from, time_until,path, time_from, time_until, count))
+        return
+    if int(temp) == 1:
+        with open(path+"from"+time_from+"until"+time_until+"count"+str(count)+".json", 'w') as f:
+            json.dump(metadata_dict, f)
+
+        return metadata_dict, count
+    
 
 main()
     
