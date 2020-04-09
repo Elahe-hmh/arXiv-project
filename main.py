@@ -95,7 +95,7 @@ def time_extracting(time_from, time_until, path):
             
     with open(path+"from"+time_from+"until"+time_until+".json", 'w') as f:
         json.dump(metadata_dict, f)
-    print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%s.json" %(count, path, time_from, time_until,path, time_from, time_until))
+    print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%scount%i.json" %(count, path, time_from, time_until,path, time_from, time_until, count))
     return
 main()
     
