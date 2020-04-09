@@ -34,7 +34,6 @@ def time_extracting(time_from, time_until, path):
             if element.find(OAI+"header").find(OAI+"identifier") == None:
                 metadata_dict["identifier"].append("None")
             if element.find(OAI+"header").find(OAI+"datestamp") != None:
-                end_time = element.find(OAI+"header").find(OAI+"datestamp").text
                 metadata_dict["datestamp"].append(element.find(OAI+"header").find(OAI+"datestamp").text)
             if element.find(OAI+"header").find(OAI+"datestamp") == None:
                 metadata_dict["datestamp"].append("None")
@@ -93,10 +92,11 @@ def time_extracting(time_from, time_until, path):
             if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"abstract") == None:
                 metadata_dict["abstract"].append("None")
             
-    with open(path+"from"+time_from+"until"+time_until+".json", 'w') as f:
+    with open(path+"from"+time_from+"until"+time_until+"count"+str(count)+".json", 'w') as f:
         json.dump(metadata_dict, f)
     print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%scount%i.json" %(count, path, time_from, time_until,path, time_from, time_until, count))
     return
+
 main()
     
             
