@@ -56,8 +56,14 @@ def time_extracting(time_from, time_until, path):
             if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") != None:
                 authors_dict = {"keyname":[], "forenames":[]}
                 for author in element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author"):
-                    authors_dict["keyname"].append(author.find(arXiv+"keyname").text)
-                    authors_dict["forenames"].append(author.find(arXiv+"forenames").text)
+                    if author.find(arXiv+"keyname") != None:
+                        authors_dict["keyname"].append(author.find(arXiv+"keyname").text)
+                    if author.find(arXiv+"keyname") == None:
+                        authors_dict["keyname"].append("None")
+                    if author.find(arXiv+"forenames") != None:
+                        authors_dict["forenames"].append(author.find(arXiv+"forenames").text)
+                    if author.find(arXiv+"forenames") == None:
+                        authors_dict["forenames"].append("None")
                 metadata_dict["authors"].append(authors_dict)
             if element.find(OAI+"metadata").find(arXiv+"arXiv").find(arXiv+"authors").findall(arXiv+"author") == None:
                 metadata_dict["authors"].append("None")
