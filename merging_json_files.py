@@ -7,10 +7,20 @@ def merging_json_files():
     Path = input("Enter the path that you want to save the merged json file(example --> D:/Machine Learning/merged.json) --> ")
     dict_list = []
     
-    for n in range(num):
-        path = input("Enter the path of %ith json file (example --> D:/Machine Learning/data.json) --> ")
-        r = pd.read_json(path)
-        dict_list.append(dict(r))
+    choosing_variable = input("all of them have the same path?[yes/no] :")
+    if choosing_variable == 'yes' :
+        path = input("enter the path of the files ( D:/Machine Learning/ ) :")
+        for n in range(num):
+            name = input("Enter the name of %ith json file (example --> data.json) --> " %(n+1))
+            r = pd.read_json(path+name)
+            dict_list.append(dict(r))
+    
+    if choosing_variable == 'no' :
+    
+        for n in range(num):
+            path = input("Enter the path of %ith json file (example --> D:/Machine Learning/data.json) --> " %(n+1))
+            r = pd.read_json(path)
+            dict_list.append(dict(r))
         
     if num > 0:
         temp = len(list(dict_list[0].keys()))
