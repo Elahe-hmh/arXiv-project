@@ -1,4 +1,6 @@
 import urllib.request as libreq
+import xml.etree.ElementTree as ET
+import json
 
 OAI = "{http://www.openarchives.org/OAI/2.0/}"
 arXiv = "{http://arxiv.org/OAI/arXiv/}"
@@ -24,8 +26,9 @@ def time_extracting(time_from, time_until, path):
     with open(path+"from"+time_from+"until"+time_until+".xml") as f:
         tree = ET.parse(f)
         root = tree.getroot()
-        OAI = root[0].tag[:root[0].tag.find('}')+1]
+        count = 0
         for element in root.find(OAI+'ListRecords').findall(OAI+'record'):
+            count += 1
             if element.find(OAI+"header").find(OAI+"identifier") != None:
                 metadata_dict["identifier"].append(element.find(OAI+"header").find(OAI+"identifier").text)
             if element.find(OAI+"header").find(OAI+"identifier") == None:
@@ -85,6 +88,7 @@ def time_extracting(time_from, time_until, path):
             
     with open(path+"from"+time_from+"until"+time_until+".json", 'w') as f:
         json.dump(metadata_dict, f)
+    print("metadata of %i articles from arxiv is in %s as xml file,from%suntil%s.xml, and its datas saved in a dictionary,{"'id'":list of all articles id,...(and other informations like this how)}, as a json file in %sfrom%suntil%s.json" %(count, path, time_from, time_until,path, time_from, time_until))
     return
 main()
     
