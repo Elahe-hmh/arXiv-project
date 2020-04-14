@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T23:51:28Z</responseDate>
+<request verb="ListRecords" until="2016-12-25" from="2016-12-25" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1206.2184</identifier>
+ <datestamp>2016-12-25</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1206.2184</id><created>2012-06-11</created><authors><author><keyname>Efthymiopoulos</keyname><forenames>Ilias</forenames></author><author><keyname>Fabich</keyname><forenames>Adrian</forenames></author></authors><title>The Very Low 1-9 GeV/c Tertiary Beam Extension of the H8 Beam Line of
+  CERN SPS</title><categories>physics.acc-ph</categories><report-no>CERN-AB---2005-036</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The H8 beam line on the North Area of CERN SPS is a multipurpose experimental
+secondary particle beam able to transport particles of various types (hadrons,
+electrons, muons and ions) in a large momentum range from 10 GeV/c up to the
+top SPS energy (400 or 450 GeV/C). During the 2003-2004 shutdown the beam line
+was modified in order to accommodate a new tertiary beam line, able to produce
+and transport particles in the momentum range of 1 to 9 GeV/c. Such low
+momentum hadron and electron particle beams are requested by the LHC
+experiments in order to calibrate various sub-detector systems. The design and
+first performance results from this new tertiary beam are described here.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1612.07703</identifier>
+ <datestamp>2016-12-25</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1612.07703</id><created>2016-12-22</created><authors><author><keyname>Mueller</keyname><forenames>Charles</forenames></author></authors><title>Searches for $\mathrm{t\bar{t}H}$ and $\mathrm{tHq}$ with
+  $\mathrm{H\rightarrow leptons}$</title><categories>hep-ex</categories><comments>9th International Workshop on Top Quark Physics Olomouc, Czech
+  Republic, September 19&#xc3;&#x83;&#xc2;&#xa2;&#xc3;&#x82;&#xc2;&#x80;&#xc3;&#x82;&#xc2;&#x93;23, 2016</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The latest results from searches for a Standard Model Higgs boson produced in
+association with a top quark pair ($\mathrm{t\bar{t}H}$) and single top quark
+(tHq) decaying to final states with multiple leptons are presented using
+datasets from the CMS and ATLAS experiments.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

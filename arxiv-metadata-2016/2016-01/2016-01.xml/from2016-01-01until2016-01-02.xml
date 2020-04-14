@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T21:21:41Z</responseDate>
+<request verb="ListRecords" until="2016-01-02" from="2016-01-01" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1105.6220</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1105.6220</id><created>2011-05-31</created><updated>2012-07-07</updated><authors><author><keyname>Tanaka</keyname><forenames>Ryokichi</forenames></author></authors><title>Hydrodynamic limit for weakly asymmetric simple exclusion processes in
+  crystal lattices</title><categories>math.PR math-ph math.MP</categories><comments>41 pages, 7 figures</comments><msc-class>60K35, 53C21</msc-class><journal-ref>Communications in Mathematical Physics, 2012, Volume 315, Number
+  3, pp 603-641</journal-ref><doi>10.1007/s00220-012-1574-0</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We investigate the hydrodynamic limit for weakly asymmetric simple exclusion
+processes in crystal lattices. We construct a suitable scaling limit by using a
+discrete harmonic map. As we shall observe, the quasi-linear parabolic equation
+in the limit is defined on a flat torus and depends on both the local structure
+of the crystal lattice and the discrete harmonic map. We formulate the local
+ergodic theorem on the crystal lattice by introducing the notion of local
+function bundle, which is a family of local functions on the configuration
+space. The ideas and methods are taken from the discrete geometric analysis to
+these problems. Results we obtain are extensions of ones by Kipnis, Olla and
+Varadhan to crystal lattices.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1109.5417</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1109.5417</id><created>2011-09-25</created><updated>2012-06-26</updated><authors><author><keyname>Matthews</keyname><forenames>William</forenames></author></authors><title>A linear program for the finite block length converse of
+  Polyanskiy-Poor-Verd\'u via non-signalling codes</title><categories>quant-ph</categories><comments>8 pages, 2 figures, submitted to IEEE Trans. Inf. T</comments><journal-ref>Information Theory, IEEE Transactions on, vol. 58, pp. 7036-7044
+  (2012)</journal-ref><doi>10.1109/TIT.2012.2210695</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Motivated by recent work on entanglement-assisted codes for sending messages
+over classical channels, the larger, easily characterised class of
+non-signalling codes is defined. Analysing the optimal performance of these
+codes yields an alternative proof of the finite block length converse of
+Polyanskiy, Poor and Verd\'u, and shows that they achieve this converse. This
+provides an explicit formulation of the converse as a linear program which has
+some useful features. For discrete memoryless channels, it is shown that
+non-signalling codes attain the channel capacity with zero error probability if
+and only if the dispersion of the channel is zero.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1210.4722</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1210.4722</id><created>2012-10-17</created><updated>2014-06-27</updated><authors><author><keyname>Matthews</keyname><forenames>William</forenames></author><author><keyname>Wehner</keyname><forenames>Stephanie</forenames></author></authors><title>Finite blocklength converse bounds for quantum channels</title><categories>quant-ph</categories><comments>15 pages, 4 figures (v2: improved notation; one mistake fixed;
+  results unchanged)</comments><journal-ref>Information Theory, IEEE Transactions on, vol. 60, pp. 7317-7329
+  (2014)</journal-ref><doi>10.1109/TIT.2014.2353614</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We derive upper bounds on the rate of transmission of classical information
+over quantum channels by block codes with a given blocklength and error
+probability, for both entanglement-assisted and unassisted codes, in terms of a
+unifying framework of quantum hypothesis testing with restricted measurements.
+Our bounds do not depend on any special property of the channel (such as
+memorylessness) and generalise both a classical converse of Polyanskiy, Poor,
+and Verd\'{u} as well as a quantum converse of Renner and Wang, and have a
+number of desirable properties. In particular our bound on
+entanglement-assisted codes is a semidefinite program and for memoryless
+channels its large blocklength limit is the well known formula for
+entanglement-assisted capacity due to Bennett, Shor, Smolin and Thapliyal.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1301.4457</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1301.4457</id><created>2013-01-18</created><updated>2013-07-19</updated><authors><author><keyname>Capossoli</keyname><forenames>Eduardo Folco</forenames></author><author><keyname>Boschi-Filho</keyname><forenames>Henrique</forenames></author></authors><title>Odd spin glueball masses and the odderon Regge trajectories from the
+  holographic hardwall model</title><categories>hep-th hep-ph</categories><comments>13 pages, 2 figures. Text improved. References added. Results
+  unchanged. This version matches the published one in PRD</comments><journal-ref>Phys. Rev. D 88, 026010 (2013)</journal-ref><doi>10.1103/PhysRevD.88.026010</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We use the holographic hardwall model to calculate the masses of light
+glueball states with odd spin and P= C= -1 associated with odderons.
+Considering Dirichlet and Neumann boundary conditions we obtain expressions for
+the odderon Regge trajectories consistent with those calculated using other
+approaches.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1312.6429</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1312.6429</id><created>2013-12-22</created><updated>2015-12-31</updated><authors><author><keyname>Moroz</keyname><forenames>O.</forenames></author></authors><title>Shear and bulk viscosities of the hadron gas within relaxation time
+  approximation and its test</title><categories>hep-ph physics.flu-dyn</categories><comments>5 pages, 2 figures; the latest version of the manuscript accepted to
+  Ukr. J. Phys, including new minor comments and changes</comments><journal-ref>Ukr. J. Phys. 58, 1127 (2013)</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We concentrate on calculation of the shear and bulk viscosities of the hadron
+gas. They define its dissipative dynamics and influence its experimentally
+measurable elliptic flow. Due to difficulty of this calculation the relaxation
+time approximation (RTA) was used in previous works. As those results have
+approached the realistic ones, there is a need to find out how accurate the RTA
+is. For this sake we calculate the viscosities in the RTA using cross sections
+extracted from the ultrarelativistic quantum molecular dynamics (UrQMD) model
+and compare them with the same ones calculated without the RTA. This allows us
+to find the estimates of errors due to the application of RTA in the
+calculations of the viscosities, which are valid also for other similar models.
+For instance, in the temperature region $100 MeV \lesssim T \lesssim 160 MeV$
+at zero chemical potentials the shear viscosity becomes smaller up to $1.57$
+times, or up to $1.45$ times if the averaged relaxation time is used. This has
+important consequences for interpretation of the previously made calculations
+of the viscosities and some other related calculations. Within the RTA, we also
+find estimation of the enhancement of the bulk viscosity of the hadron gas
+because of nonconservation of particle numbers. This is a little more extended
+version in compare to the published paper, where we were limited in paper's
+size and time.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1406.7142</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1406.7142</id><created>2014-06-27</created><updated>2014-09-08</updated><authors><author><keyname>Leung</keyname><forenames>Debbie</forenames></author><author><keyname>Matthews</keyname><forenames>William</forenames></author></authors><title>On the power of PPT-preserving and non-signalling codes</title><categories>quant-ph cs.IT math.IT</categories><comments>15 pages, 7 figures</comments><journal-ref>IEEE Transactions of Information Theory, 61(8): 4486-4499, 2015</journal-ref><doi>10.1109/TIT.2015.2439953</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We derive one-shot upper bounds for quantum noisy channel codes. We do so by
+regarding a channel code as a bipartite operation with an encoder belonging to
+the sender and a decoder belonging to the receiver, and imposing constraints on
+the bipartite operation. We investigate the power of codes whose bipartite
+operation is non-signalling from Alice to Bob, positive-partial transpose (PPT)
+preserving, or both, and derive a simple semidefinite program for the
+achievable entanglement fidelity. Using the semidefinite program, we show that
+the non-signalling assisted quantum capacity for memoryless channels is equal
+to the entanglement-assisted capacity. We also relate our PPT-preserving codes
+and the PPT-preserving entanglement distillation protocols studied by Rains.
+Applying these results to a concrete example, the 3-dimensional Werner-Holevo
+channel, we find that codes that are non-signalling and PPT-preserving can be
+strictly less powerful than codes satisfying either one of the constraints, and
+therefore provide a tighter bound for unassisted codes. Furthermore,
+PPT-preserving non-signalling codes can send one qubit perfectly over two uses
+of the channel, which has no quantum capacity. We discuss whether this can be
+interpreted as a form of superactivation of quantum capacity.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1408.3608</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1408.3608</id><created>2014-08-15</created><updated>2015-10-09</updated><authors><author><keyname>Esposito</keyname><forenames>Massimiliano</forenames></author><author><keyname>Ochoa</keyname><forenames>Maicol A.</forenames></author><author><keyname>Galperin</keyname><forenames>Michael</forenames></author></authors><title>On the nature of heat in strongly coupled open quantum systems</title><categories>cond-mat.stat-mech cond-mat.mes-hall</categories><comments>8 pages, 2 figures</comments><journal-ref>Phys. Rev. B 92, 235440 (2015)</journal-ref><doi>10.1103/PhysRevB.92.235440</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study heat transfers in a single level quantum dot strongly coupled to
+fermionic reservoirs and subjected to a time-dependent protocol modulating the
+dot energy as well as the dot-reservoir coupling strength. The dynamics is
+described using nonequilibrium Greens functions (NEGFs) evaluated to first
+order beyond quasi-static driving. We show that any heat definition expressed
+as an energy change in the reservoir energy plus any fraction of the
+system-reservoir interaction is not an exact differential when evaluated along
+reversible isothermal transformations, except when that fraction is zero.
+However, even in that latter case the reversible heat divided by temperature,
+namely the entropy, does not satisfy the third law of thermodynamics and
+diverges in the low temperature limit. Our results cast doubts on the
+possibility to define a thermodynamically consistent notion of heat expressed
+as the expectation value of some Hamiltonian terms.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1411.3428</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1411.3428</id><created>2014-11-12</created><updated>2015-12-30</updated><authors><author><keyname>Chang</keyname><forenames>Chao-Hsi</forenames></author><author><keyname>Fu</keyname><forenames>Hui-Feng</forenames></author><author><keyname>Wang</keyname><forenames>Guo-Li</forenames></author><author><keyname>Zhang</keyname><forenames>Jin-Mei</forenames></author></authors><title>Some of semileptonic and nonleptonic decays of $B_c$ meson in a
+  Bethe-Salpeter relativistic quark model</title><categories>hep-ph hep-ex</categories><comments>13 pages, 3 figures</comments><journal-ref>Sci China-Phys Mech Astron, 2015, 58: 071001</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The semileptonic decays $B_c^+\rightarrow P(V) +\ell^++\bar{\nu}_\ell$ and
+the nonleptonic decays $B_c^+\rightarrow P(V)+L$, where $P(V)$ denotes a
+pseudoscalar (vector) charmonium or ($\bar{b}s$)-meson, and $L$ denotes a light
+meson, are studied in the framework of improved instantaneous Bethe-Salpeter
+(BS) equation and the Mandelstam formula. The numerical results (width and
+branching ratio of the decays) are presented in tables, and in order to compare
+conveniently, those obtained by other approaches are also put in the relevant
+tables. Based on the fact that the ratio
+$\frac{\mathcal{BR}(B_c^+\rightarrow\psi(2S)\pi^+)}{\mathcal{BR}(B_c^+\rightarrow
+J/\psi \pi^+)}=0.24^{+0.023}_{-0.040}$ estimated here is in good agreement with
+the observation by the LHCb $\frac{\mathcal{BR}(B_c^+\rightarrow
+\psi(2S)\pi^+)}{\mathcal{BR}(B_c^+\rightarrow J/\psi
+\pi^+)}=0.250\pm0.068(\mathrm{stat})\pm0.014(\mathrm{syst})\pm0.006(\mathcal{B})$,
+one may conclude that with respect to the decays the present framework works
+quite well.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1411.7202</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1411.7202</id><created>2014-11-26</created><updated>2015-12-29</updated><authors><author><keyname>Zhao</keyname><forenames>Hui-Hua</forenames></author><author><keyname>Zhang</keyname><forenames>Li-Chun</forenames></author><author><keyname>Zhao</keyname><forenames>Ren</forenames></author></authors><title>Two-phase equilibrium properties in charged topological dilaton AdS
+  black holes</title><categories>gr-qc hep-th</categories><comments>17 pages, 6 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper we discuss phase transition of the charged topological dilaton
+AdS black holes by Maxwell equal area law. The two phases involved in the phase
+transition could be coexist and we depict the coexistence region in $P-v$
+diagrams. The two-phase equilibrium curves in $P-T$ diagrams are plotted, the
+Clapeyron equation for the black hole is derived, and the latent heat of
+isothermal phase transition is investigated. We also analyze of the parameters
+of the black hole that have an effect on the two phases coexistence. The
+results show that the black hole may go through a small-large phase transition
+similar to those of usual non-gravity thermodynamic systems.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1501.02599</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1501.02599</id><created>2015-01-12</created><updated>2015-12-31</updated><authors><author><keyname>Duetsch</keyname><forenames>Michael</forenames></author></authors><title>Massive vector bosons: is the geometrical interpretation as a
+  spontaneously broken gauge theory possible at all scales?</title><categories>hep-th math-ph math.MP</categories><comments>54 pages, some typos corrected</comments><journal-ref>Rev. Math. Phys. 27 (10), (2015), 15500245</journal-ref><doi>10.1142/S0129055X15500245</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The usual derivation of the Lagrangian of a model for massive vector bosons,
+by spontaneous symmetry breaking of a gauge theory, implies that the prefactors
+of the various interaction terms are uniquely determined functions of the
+coupling constant(s) and the masses. Since, under the renormalization group
+(RG) flow, different interaction terms get different loop-corrections, it is
+uncertain, whether these functions remain fixed under this flow. We investigate
+this question for the $U(1)$-Higgs-model to 1-loop order in the framework of
+Epstein-Glaser renormalization. Our main result reads: choosing the
+renormalization mass scale(s) in a way corresponding to the minimal subtraction
+scheme, the geometrical interpretation as a spontaneously broken gauge theory
+gets lost under the RG-flow. This holds also for the clearly stronger property
+of BRST-invariance of the Lagrangian. On the other hand we prove that physical
+consistency, which is a weak form of BRST-invariance of the time-ordered
+products, is maintained under the RG-flow.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1501.03460</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1501.03460</id><created>2015-01-14</created><updated>2015-12-31</updated><authors><author><keyname>Pshirkov</keyname><forenames>M. S.</forenames></author><author><keyname>Vasiliev</keyname><forenames>V. V.</forenames></author><author><keyname>Postnov</keyname><forenames>K. A.</forenames></author></authors><title>Gamma-ray halo around the M31 galaxy as seen by the Fermi LAT</title><categories>astro-ph.GA astro-ph.HE</categories><comments>5 pages, 5 figures. Pass 8 Reprocessed reconstruction and the 3FGL
+  catalogue is used in this version of the paper</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Theories of galaxy formation predict the existence of extended gas halo
+around spiral galaxies. If there are 10-100 nG magnetic fields at several ten
+kpc distances from the galaxies, extended galactic cosmic ray (CR) haloes could
+also exist. Galactic CRs can interact with the tenuous hot halo gas to produce
+observable gamma-rays. We have performed search for a gamma-ray halo around the
+M31 galaxy -- the closest large spiral galaxy. Our analysis of almost 7 years
+of the Fermi LAT data revealed the presence of a spatially extended diffuse
+emission excess around M31. The data can be fitted using the simplest
+morphology of a uniformly bright circle. The best fit gave a 4.7$\sigma$
+significance for a $0.9^{\circ}$ (12 kpc) halo with a photon flux of $\sim
+(3.2\pm1.0)\times 10^{-9} ~\mathrm{cm^{-2}s^{-1}}$ and a luminosity of
+$(4.0\pm1.5)\times 10^{38} ~\mathrm{erg~s^{-1}}$ in the energy range 0.3--100
+GeV. Our results also imply a low level of the flux from the disc of the M31
+galaxy $(3.3 \pm 1.0) \times 10^{-10}~\mathrm{cm^{-2}s^{-1}}$. The
+corresponding gamma-ray luminosity, $5\times10^{37} ~\mathrm{erg~s^{-1}}$ is
+several times smaller than the luminosity of the Milky Way. This difference
+could be explained by a lower star formation rate in M31: there are less CRs
+and the level of the ISM turbulence is lower, which in turn leads to a shorter
+time of CR containment.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1502.05554</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1502.05554</id><created>2015-02-19</created><updated>2015-12-31</updated><authors><author><keyname>Bonetti</keyname><forenames>Matteo</forenames></author><author><keyname>Barausse</keyname><forenames>Enrico</forenames></author></authors><title>Post-Newtonian constraints on Lorentz-violating gravity theories with a
+  MOND phenomenology</title><categories>gr-qc astro-ph.GA hep-ph</categories><comments>17 pages, 2 figures; includes corrections listed in erratum submitted
+  to PRD (i.e. typos corrected in a few equations; results unchanged)</comments><journal-ref>Phys. Rev. D 91, 084053 (2015)</journal-ref><doi>10.1103/PhysRevD.91.084053</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the post-Newtonian expansion of a class of Lorentz-violating gravity
+theories that reduce to khronometric theory (i.e. the infrared limit of Horava
+gravity) in high-acceleration regimes, and reproduce the phenomenology of the
+modified Newtonian dynamics (MOND) in the low-acceleration, non-relativistic
+limit. Like in khronometric theory, Lorentz symmetry is violated in these
+theories by introducing a dynamical scalar field (the &quot;khronon&quot;) whose gradient
+is enforced to be timelike. As a result, hypersurfaces of constant khronon
+define a preferred foliation of the spacetime, and the khronon can be thought
+of as a physical absolute time. The MOND phenomenology arises as a result of
+the presence, in the action, of terms depending on the acceleration of the
+congruence orthogonal to the preferred foliation. We find that if the theory is
+forced to reduce exactly to General Relativity (rather than to khronometric
+theory) in the high-acceleration regime, the post-Newtonian expansion breaks
+down at low accelerations, and the theory becomes strongly coupled.
+Nevertheless, we identify a sizeable region of the parameter space where the
+post-Newtonian expansion remains perturbative for all accelerations, and the
+theory passes both solar-system and pulsar gravity tests, besides producing a
+MOND phenomenology for the rotation curves of galaxies. We illustrate this
+explicitly with a toy model of a system containing only baryonic matter but no
+Dark Matter.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1503.05342</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1503.05342</id><created>2015-03-18</created><updated>2015-12-30</updated><authors><author><keyname>Dominy</keyname><forenames>Jason M.</forenames></author><author><keyname>Lidar</keyname><forenames>Daniel A.</forenames></author></authors><title>Beyond Complete Positivity</title><categories>quant-ph math-ph math.MP</categories><comments>9 pages, 1 figure</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We provide a general and consistent formulation for linear subsystem quantum
+dynamical maps, developed from a minimal set of postulates, primary among which
+is a relaxation of the usual, restrictive assumption of uncorrelated initial
+system-bath states. We describe the space of possibilities admitted by this
+formulation, namely that, far from being limited to only completely positive
+(CP) maps, essentially any $\mathbb{C}$-linear, Hermiticity-preserving,
+trace-preserving subsystem map can arise as a legitimate subsystem dynamical
+map from a joint unitary evolution of a system coupled to a bath. The price
+paid for this added generality is a trade-off between the set of admissible
+initial states and the allowed set of joint system-bath unitary evolutions. As
+an application we present a simple example of a non-CP map constructed as a
+subsystem dynamical map that violates some fundamental inequalities in quantum
+information theory, such as the quantum data processing inequality.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1504.06304</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1504.06304</id><created>2015-04-23</created><updated>2015-12-31</updated><authors><author><keyname>Jimenez-Delgado</keyname><forenames>P.</forenames></author><author><keyname>Hobbs</keyname><forenames>T. J.</forenames></author><author><keyname>Londergan</keyname><forenames>J. T.</forenames></author><author><keyname>Melnitchouk</keyname><forenames>W.</forenames></author></authors><title>Reply to Comment on &quot;New limits on intrinsic charm in the nucleon from
+  global analysis of parton distributions&quot;</title><categories>hep-ph hep-ex nucl-th</categories><comments>2 pages, to appear in PRL</comments><report-no>JLAB-THY-15-2031</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We reply to the Comment of Brodsky and Gardner on our paper &quot;New limits on
+intrinsic charm in the nucleon from global analysis of parton distributions&quot;
+[Phys. Rev. Lett. 114, 082002 (2015)]. We address a number of incorrect claims
+made about our fitting methodology, and elaborate how global QCD analysis of
+all available high-energy data provides no evidence for a large intrinsic charm
+component of the nucleon.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1505.00728</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1505.00728</id><created>2015-05-04</created><updated>2015-12-02</updated><authors><author><keyname>Patankar</keyname><forenames>Shreyas</forenames></author><author><keyname>Hinton</keyname><forenames>J. P.</forenames></author><author><keyname>Griesmar</keyname><forenames>Joel</forenames></author><author><keyname>Orenstein</keyname><forenames>J.</forenames></author><author><keyname>Dodge</keyname><forenames>J. S.</forenames></author><author><keyname>Kou</keyname><forenames>Xufeng</forenames></author><author><keyname>Pan</keyname><forenames>Lei</forenames></author><author><keyname>Wang</keyname><forenames>Kang L.</forenames></author><author><keyname>Bestwick</keyname><forenames>A. J.</forenames></author><author><keyname>Fox</keyname><forenames>E. J.</forenames></author><author><keyname>Goldhaber-Gordon</keyname><forenames>D.</forenames></author><author><keyname>Wang</keyname><forenames>Jing</forenames></author><author><keyname>Zhang</keyname><forenames>Shou-Cheng</forenames></author></authors><title>Resonant magneto-optic Kerr effect in the magnetic topological insulator
+  Cr:(Sb$_x$,Bi$_{1-x}$)$_2$Te$_3$</title><categories>cond-mat.mes-hall cond-mat.mtrl-sci</categories><comments>6 pages, 5 figures</comments><journal-ref>Phys. Rev. B 92, 214440 (2015)</journal-ref><doi>10.1103/PhysRevB.92.214440</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We report measurements of the polar Kerr effect, proportional to the
+out-of-plane component of the magnetization, in thin films of the magnetically
+doped topological insulator
+$(\text{Cr}_{0.12}\text{Bi}_{0.26}\text{Sb}_{0.62})_2\text{Te}_3$. Measurements
+of the complex Kerr angle, $\Theta_K$, were performed as a function of photon
+energy in the range $0.8\text{ eV}&lt;\hbar\omega&lt;3.0\text{ eV}$. We observed a
+peak in the real part of $\Theta_K(\omega)$ and zero crossing in the imaginary
+part that we attribute to resonant interaction with a spin-orbit avoided
+crossing located $\approx$ 1.6 eV above the Fermi energy. The resonant
+enhancement allows measurement of the temperature and magnetic field dependence
+of $\Theta_K$ in the ultrathin film limit, $d\geq2$ quintuple layers. We find a
+sharp transition to zero remanent magnetization at 6 K for $d&lt;8$~QL, consistent
+with theories of the dependence of impurity spin interactions on film thickness
+and their location relative to topological insulator surfaces.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1506.00595</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1506.00595</id><created>2015-06-01</created><updated>2015-12-31</updated><authors><author><keyname>Barnich</keyname><forenames>Glenn</forenames></author><author><keyname>Bekaert</keyname><forenames>Xavier</forenames></author><author><keyname>Grigoriev</keyname><forenames>Maxim</forenames></author></authors><title>Notes on conformal invariance of gauge fields</title><categories>hep-th</categories><comments>38 pages</comments><doi>10.1088/1751-8113/48/50/505402</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In Lagrangian gauge systems, the vector space of global reducibility
+parameters forms a module under the Lie algebra of symmetries of the action.
+Since the classification of global reducibility parameters is generically
+easier than the classification of symmetries of the action, this fact can be
+used to constrain the latter when knowing the former. We apply this strategy
+and its generalization for the non-Lagrangian setting to the problem of
+conformal symmetry of various free higher spin gauge fields. This scheme allows
+one to show that, in terms of potentials, massless higher spin gauge fields in
+Minkowski space and partially-massless fields in (A)dS space are not conformal
+for spin strictly greater than one, while in terms of curvatures, maximal-depth
+partially-massless fields in four dimensions are also not conformal, unlike the
+closely related, but less constrained, maximal-depth Fradkin--Tseytlin fields.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1506.01444</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1506.01444</id><created>2015-06-03</created><authors><author><keyname>Yoshida</keyname><forenames>Z.</forenames></author><author><keyname>Mahajan</keyname><forenames>S. M.</forenames></author></authors><title>Quantum spirals</title><categories>quant-ph cond-mat.quant-gas math-ph math.MP nlin.PS physics.flu-dyn</categories><msc-class>81T28, 81T08</msc-class><journal-ref>J. Phys. A: Math. Theor. 49 (2016), 055501</journal-ref><doi>10.1088/1751-8113/49/5/055501</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Quantum systems often exhibit fundamental incapability to entertain vortex.
+The Meissner effect, a complete expulsion of the magnetic field (the
+electromagnetic vorticity), for instance, is taken to be the defining attribute
+of the superconducting state. Superfluidity is another, close-parallel example;
+fluid vorticity can reside only on topological defects with a limited
+(quantized) amount. Recent developments in the Bose-Einstein condensates
+produced by particle traps further emphasize this characteristic. We show that
+the challenge of imparting vorticity to a quantum fluid can be met through a
+nonlinear mechanism operating in a hot fluid corresponding to a thermally
+modified Pauli-Schroedinger spinor field. In a simple field-free model, we show
+that the thermal effect, represented by a nonlinear, non-Hermitian Hamiltonian,
+in conjunction with spin vorticity, leads to new interesting quantum states; a
+spiral solution is explicitly worked out.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1506.05089</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1506.05089</id><created>2015-06-16</created><updated>2015-12-31</updated><authors><author><keyname>Malsom</keyname><forenames>Patrick</forenames></author><author><keyname>Pinski</keyname><forenames>Frank</forenames></author></authors><title>Rare Events, the Thermodynamic Action and the Continuous-Time Limit</title><categories>cond-mat.stat-mech</categories><comments>8 pages, 4 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We consider diffusion-like paths that are explored by a particle moving via a
+conservative force while being in thermal equilibrium with its surroundings. To
+probe rare transitions, we use the Onsager-Machlup (OM) functional as a path
+probability distribution function for double-ended paths that are constrained
+to start and stop at predesignated points after a fixed time. We explore the
+continuous-time limit where the OM functional has been commonly regularized by
+using the Ito-Girsanov change of measure. When used as a path measure, the
+Ito-Girsanov expression generates an ensemble of double-ended paths that are
+unphysical. We expose the underlying reasons why this continuous-time limit
+does not, and cannot, generate a thermodynamic ensemble of paths. Furthermore,
+we show that the concept of the Most Probable Path and the Thermodynamic action
+are incompatible with such measures for discrete or continuous time diffusion
+processes.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1506.07030</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1506.07030</id><created>2015-06-23</created><updated>2015-12-30</updated><authors><author><keyname>Yi-Xiang</keyname><forenames>Yu</forenames></author><author><keyname>Ye</keyname><forenames>Jinwu</forenames></author><author><keyname>Liu</keyname><forenames>W. M.</forenames></author><author><keyname>Zhang</keyname><forenames>CunLin</forenames></author></authors><title>Photon Berry phases, Instantons, Schrodinger Cats with oscillating
+  parities and crossover from $ U(1) $ to $ Z_2 $ limit in cavity QED systems</title><categories>physics.atom-ph cond-mat.quant-gas cond-mat.str-el physics.optics quant-ph</categories><comments>14 pages, REVTEX4-1, 8 Color figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this work, we study the $ U(1)/Z_2 $ Dicke model at a finite $ N $ by
+using the $ 1/J $ expansion and exact diagonization. This model includes the
+four standard quantum optics model as its various special limits. The $ 1/J $
+expansions is complementary to the strong coupling expansion used by the
+authors in arXiv:1512.08581 to study the same model in its dual $ Z_2/U(1) $
+representation. We identify 3 regimes of the system's energy levels: the
+normal, $ U(1) $ and quantum tunneling (QT) regime. The system's energy levels
+are grouped into doublets which consist of scattering states and Schrodinger
+Cats with even ( e ) and odd ( o ) parities in the $ U(1) $ and quantum
+tunneling (QT) regime respectively. In the QT regime, by the WKB method, we
+find the emergencies of bound states one by one as the interaction strength
+increases, then investigate a new class of quantum tunneling processes through
+the instantons between the two bound states in the compact photon phase. It is
+the Berry phase interference effects in the instanton tunneling event which
+leads to Schrodinger Cats oscillating with even and odd parities in both ground
+and higher energy bound states. We map out the energy level evolution from the
+$ U(1) $ to the QT regime and also discuss some duality relations between the
+energy levels in the two regimes. We also compute the photon correlation
+functions, squeezing spectrum, number correlation functions in both regimes
+which can be measured by various experimental techniques. The combinations of
+the results achieved here by $ 1/J $ expansion and those in arXiv:1512.08581 by
+strong coupling method lead to rather complete understandings of the $ U(1)/Z_2
+$ Dicke model at a finite $ N $ and any anisotropy parameter $ \beta $.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.01570</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.01570</id><created>2015-07-06</created><authors><author><keyname>Garzelli</keyname><forenames>M. V.</forenames></author><author><keyname>Moch</keyname><forenames>S.</forenames></author><author><keyname>Sigl</keyname><forenames>G.</forenames></author></authors><title>Lepton fluxes from atmospheric charm revisited</title><categories>hep-ph</categories><comments>40 pages, 24 figures</comments><report-no>DESY 15-107, MITP/15-049</report-no><journal-ref>JHEP 1510 (2015) 115</journal-ref><doi>10.1007/JHEP10(2015)115</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We update predictions for lepton fluxes from the hadroproduction of charm
+quarks in the scattering of primary cosmic rays with the Earth's atmosphere.
+The calculation of charm-pair hadroproduction applies the latest results from
+perturbative QCD through next-to-next-to-leading order and modern parton
+distributions, together with estimates on various sources of uncertainties. Our
+predictions for the lepton fluxes turn out to be compatible, within the
+uncertainty band, with recent results in the literature. However, by taking
+into account contributions neglected in previous works, our total uncertainties
+are much larger. The predictions are crucial for the interpretation of results
+from neutrino experiments like IceCube, when disentangling signals of neutrinos
+of astrophysical origin from the atmospheric background.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.06836</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.06836</id><created>2015-07-24</created><updated>2015-12-31</updated><authors><author><keyname>Arrighi</keyname><forenames>Pablo</forenames></author><author><keyname>Dowek</keyname><forenames>Gilles</forenames></author></authors><title>Discrete geodesics and cellular automata</title><categories>cs.DM gr-qc</categories><comments>13 pages, 3 figures</comments><msc-class>53C22, 68Q80, 37B15, 37N20, 83C27</msc-class><acm-class>G.1.0; F.1.1; J.2</acm-class><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  This paper proposes a dynamical notion of discrete geodesics, understood as
+straightest trajectories in discretized curved spacetime. The notion is
+generic, as it is formulated in terms of a general deviation function, but
+readily specializes to metric spaces such as discretized pseudo-riemannian
+manifolds. It is effective: an algorithm for computing these geodesics
+naturally follows, which allows numerical validation---as shown by computing
+the perihelion shift of a Mercury-like planet. It is consistent, in the
+continuum limit, with the standard notion of timelike geodesics in a
+pseudo-riemannian manifold. Whether the algorithm fits within the framework of
+cellular automata is discussed at length. KEYWORDS: Discrete connection,
+parallel transport, general relativity, Regge calculus.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.06974</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.06974</id><created>2015-07-24</created><updated>2015-12-30</updated><authors><author><keyname>Yeats</keyname><forenames>Karen</forenames></author></authors><title>A few $c_2$ invariants of circulant graphs</title><categories>math.CO math-ph math.MP</categories><comments>18 pages, minor corrections according to referee comments</comments><msc-class>05C31, 81T18</msc-class><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The $c_2$ invariant is an arithmetic graph invariant introduced by Schnetz
+and developed by Brown and Schnetz in order to better understand Feynman
+integrals.
+  This document looks at the special case where the graph in question is a
+4-regular circulant graph with one vertex removed; call such a graph a
+decompletion of a circulant graph. The $c_2$ invariant for the prime $2$ is
+computed in the case of the decompletion of circulant graphs $C_n(1,3)$ and
+$C_{2k+2}(1,k)$. For any prime $p$ and for the previous two families of
+circulant graphs along with the further families $C_n(1,4)$, $C_n(1,5)$,
+$C_n(1,6)$, $C_n(2,3)$, $C_n(2,4)$, $C_n(2,5)$, and $C_n(3,4)$, the same
+technique gives the $c_2$ invariant of the decompletions as the solution to a
+finite system of recurrence equations.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1508.00071</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1508.00071</id><created>2015-07-31</created><updated>2015-12-30</updated><authors><author><keyname>Aryanpour</keyname><forenames>Karan</forenames></author><author><keyname>Dutta</keyname><forenames>Tirthankar</forenames></author><author><keyname>Huynh</keyname><forenames>Uyen N. V.</forenames></author><author><keyname>Vardeny</keyname><forenames>Zeev Valy</forenames></author><author><keyname>Mazumdar</keyname><forenames>Sumit</forenames></author></authors><title>Theory of Primary Photoexcitations in Donor-Acceptor Copolymers</title><categories>cond-mat.mes-hall</categories><comments>6 pages, 4 figures, 4 pages of Supplemental Material including 4
+  figures</comments><journal-ref>Phys. Rev. Lett. 115, 267401 (2015)</journal-ref><doi>10.1103/PhysRevLett.115.267401</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We present a generic theory of primary photoexcitations in low band gap
+donor-acceptor conjugated copolymers. Because of the combined effects of strong
+electron correlations and broken symmetry, there is considerable mixing between
+a charge-transfer exciton and an energetically proximate triplet-triplet state
+with an overall spin singlet. The triplet-triplet state, optically forbidden in
+homopolymers, is allowed in donor-acceptor copolymers. For an intermediate
+difference in electron affinities of the donor and the acceptor, the
+triplet-triplet state can have stronger oscillator strength than the
+charge-transfer exciton. We discuss the possibility of intramolecular singlet
+fission from the triplet-triplet state, and how such fission can be detected
+experimentally.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.03164</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.03164</id><created>2015-09-10</created><updated>2015-11-24</updated><authors><author><keyname>Storey</keyname><forenames>P. J.</forenames></author><author><keyname>Zeippen</keyname><forenames>C. J.</forenames></author><author><keyname>Sochi</keyname><forenames>Taha</forenames></author></authors><title>Collision strengths and transition probabilities for Co II infrared
+  forbidden lines</title><categories>physics.atom-ph astro-ph.SR physics.comp-ph</categories><comments>9 pages, 4 figures, 7 tables</comments><journal-ref>MNRAS, Vol. 456, pp. 1974-1981, 2016</journal-ref><doi>10.1093/mnras/stv2785</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We calculate collision strengths and their thermally-averaged Maxwellian
+values for electron excitation and de-excitation between the fifteen lowest
+levels of singly-ionised cobalt, Co+, which give rise to emission lines in the
+near- and mid-infrared. Transition probabilities are also calculated and
+relative line intensities predicted for conditions typical of supernova ejecta.
+The diagnostic potential of the 10.52, 15.46 and 14.74 micro-metre transition
+lines is briefly discussed.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.08283</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.08283</id><created>2015-09-28</created><updated>2015-12-31</updated><authors><author><keyname>Yin</keyname><forenames>Tao</forenames></author><author><keyname>Cocks</keyname><forenames>Daniel</forenames></author><author><keyname>Hofstetter</keyname><forenames>Walter</forenames></author></authors><title>Polaronic effects in one- and two-band quantum systems</title><categories>cond-mat.quant-gas</categories><comments>23 pages, 7 figures</comments><journal-ref>Phys. Rev. A 92, 063635 (2015)</journal-ref><doi>10.1103/PhysRevA.92.063635</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this work we study the formation and dynamics of polarons in a system with
+a few impurities in a lattice immersed in a Bose-Einstein condensate (BEC).
+This system has been experimentally realized using ultracold atoms and optical
+lattices. Here we consider a two-band model for the impurity atoms, along with
+a Bogoliubov approximation for the BEC, with phonons coupled to impurities via
+both intra- and inter-band transitions. We decouple this Fr\&quot;ohlich-like term
+by an extended two-band Lang-Firsov polaron transformation using a variational
+method. The new effective Hamiltonian with two (polaron) bands differs from the
+original Hamiltonian by modified coherent transport, polaron energy shifts and
+induced long-range interaction. A Lindblad master equation approach is used to
+take into account residual incoherent coupling between polaron and bath. This
+polaronic treatment yields a renormalized inter-band relaxation rate compared
+to Fermi's Golden Rule. For a strongly coupled two-band Fr\&quot;ohlich Hamiltonian,
+the polaron is tightly dressed in each band and can not tunnel between them,
+leading to an inter-band self-trapping effect.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.08797</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.08797</id><created>2015-09-29</created><updated>2015-12-31</updated><authors><author><keyname>Robilotta</keyname><forenames>M. R.</forenames></author></authors><title>Electro-weak $\pi\pi$ form factor and $\pi\pi$ scattering: towards a
+  phenomenological tool</title><categories>hep-ph</categories><comments>revised version</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The weak two-pion form factor $F_V^{\pi\pi}$ is described as the product of a
+weak kernel $\cal{K}_W$ by a strong function $\Theta_{\pi\pi}^P$, determined
+directly from $\pi\pi$ scattering data. As the latter accounts at once for all
+effects associated with resonances, intermediate $K\bar{K}$ loops, and other
+possible inelasticities present in $\pi\pi$ scattering, the need of modeling is
+restricted to $\cal{K}_W$ only. The procedure proposed allows one to asses the
+weak kernel directly, which has a dominant cut beginning at the $K\bar{K}$
+threshold. Even the simplest vector-meson-dominance choice for $\cal{K}_W$
+already yields a good qualitative description of $F_V^{\pi\pi}$. The energy
+sector below $0.8$ GeV is quite well reproduced when a precise theoretical
+chiral perturbation $\pi\pi$ amplitude is used as input, together with the
+single free parameter $F_V G_V/F^2=1.20$. The inclusion of kaon loops, along
+well established lines and using few parameters, produces a good description of
+the form factor in the entire energy range allowed by $\tau$ decays. This
+indicates that the replacement of modeling by direct empirical scattering
+information can also be useful in the construction of theoretical tools to be
+used in analysesof hadronic heavy meson decay data.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.03372</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.03372</id><created>2015-10-12</created><updated>2015-12-23</updated><authors><author><keyname>Capossoli</keyname><forenames>Eduardo Folco</forenames></author><author><keyname>Boschi-Filho</keyname><forenames>Henrique</forenames></author></authors><title>Glueball spectra and Regge trajectories from a modified holographic
+  softwall model</title><categories>hep-ph hep-th</categories><comments>V.2: 14 pages. Text improved. New appendix. Results unchanged. To
+  appear in PLB</comments><journal-ref>Phys.Lett. B753 (2016) 419-423</journal-ref><doi>10.1016/j.physletb.2015.12.034</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this work we propose a modified holographic softwall model, analytically
+solvable, to calculate the masses of lightest scalar glueball and its radial
+excitations and of higher spin glueball states for both even and odd spins.
+From these results we obtain their respective Regge trajectories, associated
+with the pomeron for even spins and with the odderon for odd spins. These
+results are in agreement with those calculated using other approaches.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.03490</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.03490</id><created>2015-10-12</created><authors><author><keyname>Scheiner</keyname><forenames>Brett</forenames></author><author><keyname>Baalrud</keyname><forenames>Scott D.</forenames></author><author><keyname>Yee</keyname><forenames>Benjamin T.</forenames></author><author><keyname>Hopkins</keyname><forenames>Matthew M.</forenames></author><author><keyname>Barnat</keyname><forenames>Edward V.</forenames></author></authors><title>Theory of the Electron Sheath and Presheath</title><categories>physics.plasm-ph</categories><doi>10.1063/1.4939024</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Electron sheaths are commonly found near Langmuir probes collecting the
+electron saturation current. The common assumption is that the probe collects
+the random flux of electrons incident on the sheath, which tacitly implies that
+there is no electron presheath and that the flux collected is due to a velocity
+space truncation of the electron velocity distribution function (EVDF). This
+work provides a dedicated theory of electron sheaths, which suggests that they
+are not so simple. Motivated by EVDFs observed in Particle-In-Cell (PIC)
+simulations, a 1D model for the electron sheath and presheath is developed. In
+the model, under low temperature plasma conditions ($T_e\gg T_i$), an electron
+pressure gradient accelerates electrons in the presheath to a flow velocity
+that exceeds the electron thermal speed at the sheath edge. This pressure
+gradient generates large flow velocities compared to what would be generated by
+ballistic motion in response to the electric field. It is found that in many
+situations, under common plasma conditions, the electron presheath extends much
+further into the plasma than an analogous ion presheath. PIC simulations reveal
+that the ion density in the electron presheath is determined by a flow around
+the electron sheath and that this flow is due to 2D aspects of the sheath
+geometry. Simulations also indicate the presence of ion acoustic waves excited
+by the differential flow between electrons and ions in the presheath which
+result in sheath edge fluctuations. The 1D model and time averaged PIC
+simulations are compared and it is shown that the model provides a good
+description of the electron sheath and presheath.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.05090</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.05090</id><created>2015-10-17</created><updated>2015-12-31</updated><authors><author><keyname>Lin</keyname><forenames>De-Hone</forenames></author></authors><title>Transformation design approach to a fermionic spacetime cage</title><categories>hep-th</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  This paper is concerned with the application of a spacetime structure to a
+three-dimensional quantum system. There are three components. First, the main
+part of this paper presents the constraint conditions which build the relation
+of a spacetime structure and a form invariance solution to the covariant Dirac
+equation. The second is to devise a spacetime cage for fermions with chosen
+constraints. The third part discusses the feasibility of the cage with an
+experiment.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.07624</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.07624</id><created>2015-10-26</created><updated>2015-12-17</updated><authors><author><keyname>Zamudio-Bayer</keyname><forenames>V.</forenames></author><author><keyname>Hirsch</keyname><forenames>K.</forenames></author><author><keyname>Langenberg</keyname><forenames>A.</forenames></author><author><keyname>Lawicki</keyname><forenames>A.</forenames></author><author><keyname>Terasaki</keyname><forenames>A.</forenames></author><author><keyname>Issendorff</keyname><forenames>B. V.</forenames></author><author><keyname>Lau</keyname><forenames>J. T.</forenames></author></authors><title>Electronic ground states of Fe$_2^+$ and Co$_2^+$ as determined by x-ray
+  absorption and x-ray magnetic circular dichroism spectroscopy</title><categories>physics.chem-ph physics.atm-clus</categories><journal-ref>J. Chem. Phys. 143, 244318 (2015)</journal-ref><doi>10.1063/1.4939078</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The $^6\Pi$ electronic ground state of the Co$_2^+$ diatomic molecular cation
+has been assigned experimentally by x-ray absorption and x-ray magnetic
+circular dichroism spectroscopy in a cryogenic ion trap. Three candidates,
+$^6\Phi$, $^8\Phi$, and $^8\Gamma$, for the electronic ground state of Fe$_2^+$
+have been identified. These states carry sizable orbital angular momenta that
+disagree with theoretical predictions from multireference configuration
+interaction and density functional theory. Our results show that the ground
+states of neutral and cationic diatomic molecules of $3d$ transition elements
+cannot generally be assumed to be connected by a one-electron process.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.04236</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.04236</id><created>2015-11-13</created><updated>2015-12-31</updated><authors><author><keyname>Patra</keyname><forenames>Puneet Kumar</forenames></author></authors><title>Two-dimensional time-reversible ergodic maps with provisions for
+  dissipation</title><categories>cond-mat.stat-mech</categories><comments>Second version of time-reversible maps, 9 pages, 10 figures, written
+  for the 2015 Ian Snook prize</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A new discrete time-reversible map of a unit square onto itself is proposed.
+The map comprises of piecewise linear two-dimensional operations, and is able
+to represent the macroscopic features of both equilibrium and nonequilibrium
+dynamical systems. Our operations are analogous to sinusoidally driven shear in
+the two dimensions, and a radial compression/expansion of a point lying
+outside/inside a circle centered around origin. Depending upon the radius, the
+map transitions from being ergodic and nondissipative (like in equilibrium
+situations) to a limit cycle through intermediate multifractal situations (like
+in nonequilibrium situations). All dissipative cases of the proposed map
+suggest that the Kaplan -- Yorke dimension is smaller than the embedding
+dimension, a feature typically arising in nonequilibrium steady-states. The
+proposed map differs from the existing maps like the Baker's map and Arnold's
+cat map in the sense that (i) it is reversible, and (ii) it generates an
+intricate multifractal phase-space portrait.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.06926</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.06926</id><created>2015-11-21</created><updated>2015-12-30</updated><authors><author><keyname>Gor'kov</keyname><forenames>Lev P.</forenames></author><author><keyname>Kresin</keyname><forenames>V. Z.</forenames></author></authors><title>Pressure and high Tc superconductivity: applications to sulfur hydrides</title><categories>cond-mat.supr-con cond-mat.str-el</categories><comments>11 pages + Supplemental Materials</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The rapid variation of the superconductivity Tc in hydride sulfur (H3S) under
+high pressure [A. Drozdov et al, Nature 525, 73 (2015); M. Einaga et al, arXiv:
+1509.03156] in a vicinity Pcr=123GPa is interpreted in terms of the 1st order
+transition, possibly related to a CDW-instability with a non-zero structural
+vector. The superconductivity mechanisms in high-Tc phase be discussed,
+ordinary methods of calculating Tc are shown not applicable in H3S because,
+beside the acoustic branches, its phonon spectrum contains hydrogen modes with
+much higher frequency. A modified approach provides realistic Tc values. The
+isotope effect (change of Tc at the substitution of deuterium for hydrogen)
+owes its origin to the high frequency of phonons and is different in different
+phases. The decrease of Tc after reaching a maximum in high-T phase is due to
+the interaction with the second gap arising on a hole-like pocket. The
+phonon-mediated pairing on the latter is in a non-adiabatic regime of the
+frequency omega of hydrogen modes comparable to the Fermi energy.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.07262</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.07262</id><created>2015-11-23</created><authors><author><keyname>Broin</keyname><forenames>Cathal &#xd3;</forenames></author><author><keyname>Nikolopoulos</keyname><forenames>Lampros A. A.</forenames></author></authors><title>R-Matrix incorporating Time (RMT) method for H2+ in short and intense
+  laser fields</title><categories>physics.atom-ph</categories><journal-ref>Phys. Rev. A, 92, 2015, 063428</journal-ref><doi>10.1103/PhysRevA.92.063428</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this work we develop an approach for a molecular hydrogen ion (H2+) in the
+Born-Oppenheimer approximation while exposed to intense short-pulse radiation.
+Our starting point is the R-Matrix incorporating Time (RMT) formulation for
+atomic hydrogen [L. A. A. Nikolopoulos et al, Phys. Rev. A 78, 063420 (2008)]
+which has proven to be successful at treating multi-electron atomic systems
+efficiently and to high accuracy [L. R. Moore et al J. Mod. Opt. 58,1132,
+(2011)]. The present study on H2+ has been performed with a similar objective
+of developing an ab initio method for solving the Time-dependent Schr\&quot;odinger
+Equation (TDSE) for multi-electron diatomic molecules exposed to an external
+time-dependent potential field. The theoretical formulation is developed in
+detail for the molecular hydrogen ion where all the multi-electron and
+inter-nuclei complications are absent. As in the atomic case, the configuration
+space of the electron's coordinates are separated artificially over two
+regions; the inner (I) and outer (II) regions. In the region I the
+time-dependent wavefunction is expanded on the eigenstate basis corresponding
+to the molecule's Hamiltonian augmented by Bloch operators, while in region II
+a grid representation is used. We demonstrate the independence of our results
+on the introduced artificial boundary-surface by calculating observables that
+are directly accessed experimentally and also by showing gauge-dependent
+quantities are also invariant with the region I box size. We also compare with
+other theoretical works and emphasize cases where basis-set approaches are
+currently very computationally expensive or intractable in terms of
+computational resources.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.00430</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.00430</id><created>2015-12-01</created><authors><author><keyname>Voytas</keyname><forenames>P. A.</forenames></author><author><keyname>George</keyname><forenames>E. A.</forenames></author><author><keyname>Severin</keyname><forenames>G. W.</forenames></author><author><keyname>Zhan</keyname><forenames>L.</forenames></author><author><keyname>Knutson</keyname><forenames>L. D.</forenames></author></authors><title>Measurement of the Branching Ratio for the Beta Decay of $^{14}$O</title><categories>nucl-ex</categories><comments>8 pages, 4 figures</comments><journal-ref>Phys. Rev. C 92, 065502 (2015)</journal-ref><doi>10.1103/PhysRevC.92.065502</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We present a new measurement of the branching ratio for the decay of $^{14}$O
+to the ground state of $^{14}$N. The experimental result, $\lambda _0/\lambda
+_{\rm total} = (4.934 \pm 0.040\kern 1pt{\rm (stat.)} \pm 0.061\kern 1pt{\rm
+(syst.)}) \times 10^{-3}$, is significantly smaller than previous
+determinations of this quantity. The new measurement allows an improved
+determination of the partial halflife for the superallowed $0^+ \rightarrow
+0^+$ Fermi decay to the $^{14}$N first excited state, which impacts the
+determination of the $V_{ud}$ element of the CKM matrix. With the new
+measurement in place, the corrected $^{14}$O ${\cal F} t $ value is in good
+agreement with the average ${\cal F} t $ for other superallowed $0^+
+\rightarrow 0^+$ Fermi decays.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.01861</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.01861</id><created>2015-12-06</created><authors><author><keyname>Liao</keyname><forenames>Kai</forenames></author><author><keyname>Avgoustidis</keyname><forenames>A.</forenames></author><author><keyname>Li</keyname><forenames>Zhengxiang</forenames></author></authors><title>Is the Universe Transparent?</title><categories>astro-ph.CO</categories><comments>9 pages, 4 figures. Accepted for publication in PRD</comments><journal-ref>Phys. Rev. D 92, 123539 (2015)</journal-ref><doi>10.1103/PhysRevD.92.123539</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We present our study on cosmic opacity, which relates to changes in photon
+number as photons travel from the source to the observer. Cosmic opacity may be
+caused by absorption/scattering due to matter in the universe, or by
+extragalactic magnetic fields that can turn photons into unobserved particles
+(e.g. light axions, chameleons, gravitons, Kaluza-Klein modes), and it is
+crucial to correctly interpret astronomical photometric measurements like type
+Ia supernovae observations. On the other hand, the expansion rate at different
+epochs, i.e. the observational Hubble parameter data $H(z)$, are obtained from
+differential ageing of passively evolving galaxies or from baryon acoustic
+oscillations and thus are not affected by cosmic opacity. In this work, we
+first construct opacity-free luminosity distances from $H(z)$ determinations,
+taking correlations between different redshifts into consideration for our
+error analysis. Moreover, we let the light-curve fitting parameters, accounting
+for distance estimation in type Ia supernovae observations, free to ensure that
+our analysis is authentically cosmological-model-independent and gives a robust
+result. Any non-zero residuals between these two kinds of luminosity distances
+can be deemed as an indication of the existence of cosmic opacity. While a
+transparent universe is currently consistent with the data, our results show
+that strong constraints on opacity (and consequently on physical mechanisms
+that could cause it) can be obtained in a cosmological-model-independent
+fashion.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.03628</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.03628</id><created>2015-12-11</created><updated>2015-12-31</updated><authors><author><keyname>Wang</keyname><forenames>Y.</forenames></author><author><keyname>Wei</keyname><forenames>F. S.</forenames></author><author><keyname>Feng</keyname><forenames>X. S.</forenames></author><author><keyname>Xu</keyname><forenames>X. J.</forenames></author><author><keyname>Zhang</keyname><forenames>J.</forenames></author><author><keyname>Sun</keyname><forenames>T. R.</forenames></author><author><keyname>Zuo</keyname><forenames>P. B.</forenames></author></authors><title>Energy dissipation processes in solar wind turbulence</title><categories>physics.space-ph astro-ph.SR</categories><comments>6 pages, 5 figures, published in Astrophysical Journal Supplement
+  Series</comments><doi>10.1088/0067-0049/221/2/34</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Turbulence is a chaotic flow regime filled by irregular flows. The
+dissipation of turbulence is a fundamental problem in the realm of physics.
+Theoretically, dissipation cannot be ultimately achieved without collisions,
+and so how turbulent kinetic energy is dissipated in the nearly collisionless
+solar wind is a challenging problem. Wave particle interactions and magnetic
+reconnection are two possible dissipation mechanisms, but which mechanism
+dominates is still a controversial topic. Here we analyze the dissipation
+region scaling around a solar wind magnetic reconnection region. We find that
+the magnetic reconnection region shows a unique multifractal scaling in the
+dissipation range, while the ambient solar wind turbulence reveals a
+monofractal dissipation process for most of the time. These results provide the
+first observational evidences for the intermittent multifractal dissipation
+region scaling around a magnetic reconnection site, and they also have
+significant implications for the fundamental energy dissipation process.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.04911</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.04911</id><created>2015-12-15</created><updated>2015-12-31</updated><authors><author><keyname>Galich</keyname><forenames>Pavel</forenames></author><author><keyname>Rudykh</keyname><forenames>Stephan</forenames></author></authors><title>Manipulating P-and S-elastic waves in dielectric elastomers via external
+  electric stimuli</title><categories>cond-mat.soft</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We investigate elastic wave propagation in finitely deformed dielectric
+elastomers in the presence of an electrostatic field. To analyze the
+propagation of both longitudinal (P-) and transverse (S-) waves, we utilize
+compressible material models. We derive explicit expressions of the generalized
+acoustic tensor and phase velocities of elastic waves for the ideal and
+enriched dielectric elastomer models. We analyze the slowness curves of the
+elastic wave propagation, and find the P-S-mode disentangling phenomenon. In
+particular, P- and S- waves are separated by the application of an electric
+field. The divergence angle between P- and S-waves strongly depends on the
+applied electrostatic excitation. The influence of the electric field is
+sensitive to material models. Thus, for ideal dielectric model the in-plane
+shear velocity increases with an increase in electric field, while for the
+enriched model the velocity may decreases depending on material constants.
+Similarly, the divergence angle gradually increases with an increase in
+electric field, while for the enriched model, the angle may be bounded.
+Material compressibility affects the P-wave velocity, and, for relatively
+compressible materials, the slowness curves evolve from circular to elliptical
+shapes manifesting in an increase of the reflection angle of P-waves. As a
+results, the divergence angle decreases with an increase in material
+compressibility.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.05434</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.05434</id><created>2015-12-16</created><authors><author><keyname>Paliathanasis</keyname><forenames>Andronikos</forenames></author><author><keyname>Vakili</keyname><forenames>Babak</forenames></author></authors><title>Closed-form solutions of the Wheeler-DeWitt equation in a scalar-vector
+  field cosmological model by Lie symmetries</title><categories>gr-qc astro-ph.CO hep-th math-ph math.MP</categories><comments>14 pages, 2 figures; to appear in Gen. Rel. Grav</comments><journal-ref>Gen. Rel. Grav. 48, 13, (2016)</journal-ref><doi>10.1007/s10714-015-2010-5</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We apply as selection rule to determine the unknown functions of a
+cosmological model the existence of Lie point symmetries for the Wheeler-DeWitt
+equation of quantum gravity. Our cosmological setting consists of a flat
+Friedmann-Robertson-Walker metric having the scale factor $a(t)$, a scalar
+field with potential function $V(\phi)$ minimally coupled to gravity and a
+vector field of its kinetic energy is coupled with the scalar field by a
+coupling function $f(\phi)$. Then, the Lie symmetries of this dynamical system
+are investigated by utilizing the behavior of the corresponding minisuperspace
+under the infinitesimal generator of the desired symmetries. It is shown that
+by applying the Lie symmetry condition the form of the coupling function and
+also the scalar field potential function may be explicitly determined so that
+we are able to solve the Wheeler-DeWitt equation. Finally, we show how we can
+use the Lie symmetries in order to construct conservation laws and exact
+solutions for the field equations.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.07111</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.07111</id><created>2015-12-22</created><authors><author><keyname>Twedt</keyname><forenames>Kevin A.</forenames></author><author><keyname>Zou</keyname><forenames>Jie</forenames></author><author><keyname>Davanco</keyname><forenames>Marcelo</forenames></author><author><keyname>Srinivasan</keyname><forenames>Kartik</forenames></author><author><keyname>McClelland</keyname><forenames>Jabez J.</forenames></author><author><keyname>Aksyuk</keyname><forenames>Vladimir A.</forenames></author></authors><title>Imaging Nanophotonic Modes of Microresonators using a Focused Ion Beam</title><categories>physics.optics cond-mat.mes-hall</categories><comments>published online in Nature Photonics</comments><journal-ref>Nature Photon. 10, 35-39 (2016)</journal-ref><doi>10.1038/nphoton.2015.248</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Optical microresonators have proven powerful in a wide range of applications,
+including cavity quantum electrodynamics, biosensing, microfludics, and cavity
+optomechanics. Their performance depends critically on the exact distribution
+of optical energy, confined and shaped by the nanoscale device geometry.
+Near-field optical probes can image this distribution, but the physical probe
+necessarily perturbs the near field, which is particularly problematic for
+sensitive high quality factor resonances. We present a new approach to mapping
+nanophotonic modes that uses a controllably small and local optomechanical
+perturbation introduced by a focused lithium ion beam. An ion beam (radius
+about 50 nm) induces a picometer-scale dynamic deformation of the resonator
+surface, which we detect through a shift in the optical resonance wavelength.
+We map five modes of a silicon microdisk resonator (Q &gt; 20,000) with both high
+spatial and spectral resolution. Our technique also enables in-situ observation
+of ion implantation damage and relaxation dynamics in a silicon lattice.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.08901</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.08901</id><created>2015-12-30</created><authors><author><keyname>Pagnanini</keyname><forenames>L.</forenames></author><author><keyname>Battistelli</keyname><forenames>E. S.</forenames></author><author><keyname>Bellini</keyname><forenames>F.</forenames></author><author><keyname>Calvo</keyname><forenames>M.</forenames></author><author><keyname>Cardani</keyname><forenames>L.</forenames></author><author><keyname>Casali</keyname><forenames>N.</forenames></author><author><keyname>Castellano</keyname><forenames>M. G.</forenames></author><author><keyname>Colantoni</keyname><forenames>I.</forenames></author><author><keyname>Coppolecchia</keyname><forenames>A.</forenames></author><author><keyname>Cosmelli</keyname><forenames>C.</forenames></author><author><keyname>Cruciani</keyname><forenames>A.</forenames></author><author><keyname>De Bernardis</keyname><forenames>P.</forenames></author><author><keyname>Di Domizio</keyname><forenames>S.</forenames></author><author><keyname>D'Addabbo</keyname><forenames>A.</forenames></author><author><keyname>Martinez</keyname><forenames>M.</forenames></author><author><keyname>Masi</keyname><forenames>S.</forenames></author><author><keyname>Tomei</keyname><forenames>C.</forenames></author><author><keyname>Vignati</keyname><forenames>M.</forenames></author></authors><title>CALDER: cryogenic light detector for rare events search</title><categories>physics.ins-det hep-ex nucl-ex</categories><comments>XVI International Workshop on Neutrino Telescopes, Venice. in
+  PoS(NEUTEL2015)076</comments><journal-ref>PoS (NEUTEL 2015) 076</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The CALDER project aims at developing cryogenic light detectors with high
+sensitivity to UV and visible light, to be used for particle tagging in massive
+bolometers. Indeed the sensitivity of CUORE can be increased by a factor of 3,
+thanks to the reduction of the $\alpha$-background, obtained by detecting the
+Cherenkov light (100 eV) emitted by $\beta/\gamma$ events. Currently used light
+detectors have not the features required to address this task, so we decided to
+develop a new light detector using Kinetic Inductance Detector as a sensor.
+This approach is very challenging and requires an intensive R$\&amp;$D to be
+satisfied. The first results of this activity are shown in the following.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09140</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09140</id><created>2015-12-29</created><authors><author><keyname>Libin</keyname><forenames>E. E.</forenames></author><author><keyname>Chakhlov</keyname><forenames>S. V.</forenames></author><author><keyname>Trinca</keyname><forenames>D.</forenames></author></authors><title>Direct Method for Calculating the Inverse Radon Transform and Its
+  Applications</title><categories>physics.gen-ph physics.med-ph</categories><comments>16 pages</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The purpose of this report is a study of the algebraic approach possibilities
+to reconstruct images. This approach is reduced to solution of the large system
+of linear algebraic equations. We also point out some possible further
+improvements of the mathematical approaches studied.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09166</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09166</id><created>2015-12-30</created><authors><author><keyname>Jarv</keyname><forenames>Laur</forenames></author><author><keyname>Kuusk</keyname><forenames>Piret</forenames></author><author><keyname>Saal</keyname><forenames>Margus</forenames></author><author><keyname>Vilson</keyname><forenames>Ott</forenames></author></authors><title>The formalism of invariants in scalar-tensor and multiscalar-tensor
+  theories of gravitation</title><categories>gr-qc astro-ph.CO hep-th</categories><comments>6 pages; contributed to the proceedings of the 14th Marcel Grossmann
+  Meeting on General Relativity, parallel session AT1</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We give a brief summary of the formalism of invariants in general
+scalar-tensor and multiscalar-tensor gravities without derivative couplings. By
+rescaling of the metric and reparametrization of the scalar fields, the theory
+can be presented in different conformal frames and parametrizations. Due to
+this freedom in transformations, the scalar fields themselves do not carry
+independent physical meaning (in a generic parametrization). However, there are
+functions of the scalar fields and their derivatives which remain invariant
+under the transformations, providing a set of physical variables for the
+theory. We indicate how to construct such invariants and show how the
+observables like parametrized post-Newtonian parameters and characteristics of
+Friedmann-Lemaitre-Robertson-Walker cosmology can be neatly expressed in terms
+of the invariants.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09181</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09181</id><created>2015-12-30</created><authors><author><keyname>Baartman</keyname><forenames>Rick</forenames></author></authors><title>Space Charge Limits in the Dae$\delta$alus DIC Compact Cyclotron</title><categories>physics.acc-ph</categories><report-no>TRI-BN-15-15</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The Dae$\delta$alus DIC compact cyclotron is proposed to achieve an extracted
+current of 5 mA of singly-charged hydrogen molecules, even though unlike other
+compact cyclotrons, the extraction is not by stripping. The authors of the
+proposal consistently use perveance as a scaling argument that such high
+current is possible. The argument is shown to be incorrect and a realistic
+limit is calculated. This limit is likely about 0.2 mA and certainly no higher
+than 0.5 mA.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09196</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09196</id><created>2015-12-30</created><authors><author><keyname>Li</keyname><forenames>Yu</forenames></author><author><keyname>Liu</keyname><forenames>Xiqiang</forenames></author><author><keyname>Xin</keyname><forenames>Xiangpeng</forenames></author></authors><title>Explicit solutions, conservation laws of the extended (2+1)-dimensional
+  Jaulent-Miodek equation</title><categories>nlin.SI</categories><license>http://creativecommons.org/licenses/by/4.0/</license><abstract>  By applying the direct symmetry method, the symmetry reductions and some new
+group invariant solutions were obtained, We have derived some exact solutions
+by using the relationship between the new solutions and the old ones, which
+include Weierstrass periodic solutions, elliptic periodic solutions, triangular
+function solutions and so on. Also, in order to reflect the characteristics and
+properties of this solutions, we give figures of some solutions. In addition,
+we give the conservation laws of the extended (2+1)-dimensional Jaulent-Miodek
+equation. At last, we draw conclusions and discuss it.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09202</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09202</id><created>2015-12-30</created><authors><author><keyname>Dasgupta</keyname><forenames>Arnab</forenames></author><author><keyname>Mitra</keyname><forenames>Manimala</forenames></author><author><keyname>Borah</keyname><forenames>Debasish</forenames></author></authors><title>Minimal Left-Right Symmetry Confronted with the 750 GeV Di-photon Excess
+  at LHC</title><categories>hep-ph</categories><comments>19 pages, 5 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The recent results of 13 TeV ATLAS and CMS di-photon searches show an excess
+at di-photon invariant mass of 750 GeV. We look for possible explanation of
+this within minimal left right symmetric model (MLRSM). The possible candidate
+is a neutral Higgs of mass 750 GeV that can decay to di-photon via charged
+Higgs and right handed gauge boson loop. However, the cross-section is not
+consistent with the ATLAS and CMS results. We then discuss one possible
+variation of this model with universal seesaw for fermion masses that can
+explain this excess.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09203</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09203</id><created>2015-12-30</created><authors><author><keyname>Wang</keyname><forenames>Xiao-Yun</forenames></author><author><keyname>Guskov</keyname><forenames>Alexey</forenames></author></authors><title>Charmed hadron photoproduction at COMPASS</title><categories>hep-ph</categories><comments>Proceedings of the Second International Symposium on Physics of
+  Photons (ISPP 15), Lanzhou, China, July 2016</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Photoproduction of the charmonium-like state $Z_{c}(4200)$ and the charmed
+baryon $\Lambda_{c}^{\ast }(2940)$ is investigated with an effective Lagrangian
+approach and the Regge trajectories applying to the COMPASS experiment.
+Combining the experimental data from COMPASS and our theoretical model we
+estimate the upper limit of $\Gamma_{Z_{c}(4200)\rightarrow J/\psi \pi }$ to be
+of about 37 MeV. Moreover, the possibility to produce $\Lambda_{c}^{\ast
+}(2940)$ at COMPASS is discussed. It seems one can try to search for this
+hadron in the missing mass spectrum since the $t$-channel is dominating for the
+$\Lambda_{c}^{\ast }(2940)$ photoproduction.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09221</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09221</id><created>2015-12-31</created><authors><author><keyname>Wang</keyname><forenames>Zi-Liang</forenames></author><author><keyname>Deng</keyname><forenames>Jian-Bo</forenames></author></authors><title>A model of eternal accelerated expansion without particle horizon</title><categories>gr-qc</categories><comments>10 pages</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In our previous paper \cite{8}, we proposed a cosmological model from the
+emergence of space, which possesses a significant character of evaluating the
+vacuum energy from the Hubble constant and the age of universe. And one problem
+of this model is that there is no inflation in the early universe. In this
+paper, we aim at resolving this problem which leads us to a rather surprising
+conclusion that our cosmological model can avoid the horizon and flatness
+problems.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09242</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09242</id><created>2015-12-31</created><authors><author><keyname>Thamali</keyname><forenames>R. J. K. A.</forenames></author><author><keyname>Kumbalatara</keyname><forenames>A. A. K</forenames></author><author><keyname>Liyanage</keyname><forenames>D. D.</forenames></author><author><keyname>Ukwatta</keyname><forenames>Ajith</forenames></author><author><keyname>Hewage</keyname><forenames>Jinasena</forenames></author><author><keyname>Witharana</keyname><forenames>Sanjeeva</forenames></author></authors><title>Modelling and Understanding of Highly Energy Efficient Fluids</title><categories>physics.flu-dyn</categories><comments>Transactions of the Institution of Engineers Sri Lanka, Vol 1- Part B</comments><doi>10.13140/RG.2.1.4324.7449</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Conventional heat carrier liquids have demonstrated remarkable enhancement in
+heat and mass transfer when nanoparticles were suspended in them. These
+liquid-nanoparticle suspensions are now known as Nanofluids. However the
+relationship between nanoparticles and the degree of enhancement is still
+unclear, thus hindering the large scale manufacturing of them. Understanding of
+the energy and flow behaviour of nanofluids is therefore of wide interest in
+both academic and industrial context. In this paper we first model the heat
+transfer of a nanofluid in convection in a circular tube at macro-scale by
+using CFD code of OpenFoam. Then we zoon into nano-scale behaviour using the
+Molecular Dynamics (MD) simulation. In the latter we considered a system of
+water and Gold nanoparticles. A systematic increase of convective heat transfer
+was observed with increasing nanoparticle concentration. A maximum enhancement
+of 7.0% was achieved in comparison to base fluid water. This occurred when the
+gold volume fraction was 0.015. Subsequent MD simulations confirmed a dense
+water layer formed 2nm away from the gold nanoparticle boundary. It is
+speculated that the observed increase in thermal conductivity was principly
+caused by this dense water layer formed around each nanoparticle.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09243</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09243</id><created>2015-12-31</created><authors><author><keyname>Mehraban</keyname><forenames>Saeed</forenames></author></authors><title>Computational Complexity of Some Quantum Theories in $1+1$ Dimensions</title><categories>quant-ph cs.CC</categories><comments>The material presented here is based on the author's Master's thesis,
+  advised by Scott Aaronson, submitted to the department of electrical
+  engineering and computer science at MIT on August 28, 2015. Editions and
+  modifications has been made to the original thesis, also a new chapter,
+  chapter 4 is added</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the computational complexity of certain integrable quantum theories
+in 1+1 dimensions. We formalize a model of quantum computation based on these
+theories. In this model, distinguishable particles start out with known momenta
+and initial superposition of different configurations. Then the label of these
+particles are measured at the end. We prove that additive approximation to
+single amplitudes of these models can be obtained by the one-clean-qubit model,
+if no initial superpositions are allowed. However, if arbitrary initial states
+and non-adaptive intermediate measurements are allowed, we show that
+conditioned on infinite polynomial hierarchy assumption it is hard to sample
+from the output distribution of these models on a classical randomized
+computer. A classical analogue of this model is also formalized and its
+computational power is pinned down within the complexity classes below BPP and
+NP.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09246</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09246</id><created>2015-12-31</created><authors><author><keyname>Xu</keyname><forenames>Jun-Kui</forenames></author><author><keyname>Li</keyname><forenames>Wu-Yuan</forenames></author><author><keyname>Yan</keyname><forenames>Wei-Wei</forenames></author><author><keyname>Su</keyname><forenames>You-Wu</forenames></author><author><keyname>Li</keyname><forenames>Zong-Qiang</forenames></author><author><keyname>Wang</keyname><forenames>Mao</forenames></author><author><keyname>Pang</keyname><forenames>Cheng-Guo</forenames></author><author><keyname>Xu</keyname><forenames>Chong</forenames></author></authors><title>Neutron Dose measurement in the carbon ion therapy area at HIRFL (IMP)
+  as 12C ions with energies from 165 to 350MeV/u</title><categories>physics.med-ph physics.ins-det</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The neutron dose distributions on observation distances and on observation
+angles were measured using a Wendi-II neutron dose-meter at the deep tumor
+therapy terminal at HIRFL (Heavy Ion Research Facility in Lanzhou) as 12C ions
+with energies from 165 to 350 MeV/u bombarding on thick solid water targets
+with different thickness according to the ion energies. The experimental
+results were compared with those calculated by FLUKA code. It is found that the
+experimental data was in good agreement with the calculated results. The
+neutron energy spectra were also studied by using the FLUKA code. The results
+are valuable for the shielding design of high energy heavy ion medical machines
+and for the individual dose assessment.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09256</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09256</id><created>2015-12-31</created><authors><author><keyname>Lazariev</keyname><forenames>Andrii</forenames></author><author><keyname>Arroyo-Camejo</keyname><forenames>Silvia</forenames></author><author><keyname>Rahane</keyname><forenames>Ganesh</forenames></author><author><keyname>Kavatamane</keyname><forenames>Vinaya Kumar</forenames></author><author><keyname>Balasubramanian</keyname><forenames>Gopalakrishnan</forenames></author></authors><title>Dynamical sensitivity control of a single-spin quantum sensor</title><categories>quant-ph</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The Nitrogen-Vacancy (NV) defect in diamond is a unique quantum system that
+offers precision sensing of nanoscale physical quantities beyond the current
+state-of-the-art. Here we present a method to controllably encode the
+interactions in the population of the spin states, thereby introducing a way to
+control the sensitivity of a single spin as a continuum in contrast to
+free-evolution based methods. By adopting this feature we demonstrate
+high-accuracy NV magnetometry without 2pi ambiguities, enhance the dynamic
+range by a factor of 4*10^3 achieve interaction times exceeding 2 ms in
+off-the-shelf diamond. We perform nuclear spin-noise spectroscopy in the
+frequency domain by dynamically controlling the NV spin's sensitivity piecewise
+and in a smooth manner thereby precluding harmonic artefacts and undesired
+interactions. On a broader perspective dynamical sensitivity control provides
+an elegant handle on the inherent dynamics of quantum systems, while offering
+decisive advantages for NV centre applications notably in quantum controls and
+single molecule NMR/MRI.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09259</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09259</id><created>2015-12-31</created><authors><author><keyname>Dimitrijevic</keyname><forenames>Dragoljub D.</forenames></author><author><keyname>Djordjevic</keyname><forenames>Goran S.</forenames></author><author><keyname>Milosevic</keyname><forenames>Milan</forenames></author></authors><title>Classicalization and Quantization of Tachyon-like Matter on
+  (non)Archimedean Spaces</title><categories>gr-qc</categories><journal-ref>Romanian Reports in Physics, Volume 68, Number 1, 2016</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We consider a class of tachyon-like potentials, inspired by string theory,
+D-brane dynamics and cosmology in the context of classical and quantum
+mechanics. Motivated by the trans-Plankcian problem in the very early stage of
+cosmological evolution of the Universe, we consider the theoretical role of
+DBI-type tachyon scalar field, defined over the field of real as well as
+$p$-adic numbers, i.e. archemedean and nonarchimedean spaces. To simplify the
+equation of motion for the scalar field, canonical transformations are defined
+and engaged. The corresponding quantum propagators in the Feynman path integral
+approach on real and nonarchimedean spaces are calculated and discussed, as are
+possibilities for a quantum adelic generalization and its application.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09265</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09265</id><created>2015-12-31</created><authors><author><keyname>Brown</keyname><forenames>Francis</forenames></author></authors><title>Periods and Feynman amplitudes</title><categories>math-ph hep-ph math.MP</categories><comments>Talk given at the ICMP, Santiago de Chile, July 2015</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Feynman amplitudes in perturbation theory form the basis for most predictions
+in particle collider experiments. The mathematical quantities which occur as
+amplitudes include values of the Riemann zeta function and relate to
+fundamental objects in number theory and algebraic geometry. This talk reviews
+some of the recent developments in this field, and explains how new ideas from
+algebraic geometry have led to much progress in our understanding of
+amplitudes. In particular, the idea that certain transcendental numbers, such
+as $\pi$, can be viewed as a representation of a group, provides a powerful
+framework to study amplitudes which reveals many hidden structures.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09269</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09269</id><created>2015-12-31</created><authors><author><keyname>Zhao</keyname><forenames>Liangyuan</forenames></author><author><keyname>Yin</keyname><forenames>Zhenqiang</forenames></author><author><keyname>Wang</keyname><forenames>Shuang</forenames></author><author><keyname>Chen</keyname><forenames>Wei</forenames></author><author><keyname>Chen</keyname><forenames>Hua</forenames></author><author><keyname>Guo</keyname><forenames>Guangcan</forenames></author><author><keyname>Han</keyname><forenames>Zhengfu</forenames></author></authors><title>Measurement-Device-Independent Quantum Coin Tossing</title><categories>quant-ph</categories><comments>Close to the published version</comments><journal-ref>Physical Review A 92, 062327(2015)</journal-ref><doi>10.1103/PhysRevA.92.062327</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Quantum coin tossing (QCT) is an important primitive of quantum cryptography
+and has received continuous interest. However, in practical QCT, Bob's
+detectors can be subjected to detector-side channel attacks launched by
+dishonest Alice, which will possibly make the protocol completely insecure.
+Here, we report a simple strategy of a detector-blinding attack based on a
+recent experiment. To remove all the detector side channels, we present a
+solution of measurement-device-independent QCT (MDI-QCT). This method is
+similar to the idea of MDI quantum key distribution (QKD). MDI-QCT is loss
+tolerant with single-photon sources and has the same bias as the original
+loss-tolerant QCT under a coherent attack. Moreover, it provides the potential
+advantage of doubling the secure distance for some special cases. Finally,
+MDI-QCT can also be modified to fit the weak coherent-state sources. Thus,
+based on the rapid development of practical MDI-QKD, our proposal can be
+implemented easily.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09270</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09270</id><created>2015-12-31</created><authors><author><keyname>Maghrabi</keyname><forenames>Abdullrahnan</forenames></author><author><keyname>Enizy</keyname><forenames>Mohammed Al</forenames></author><author><keyname>Aldosari</keyname><forenames>A</forenames></author><author><keyname>Almuteri</keyname><forenames>M</forenames></author></authors><title>A Small Multi-Wire Telescope for High Energy Cosmic Ray Muon Detection</title><categories>physics.ins-det hep-ex</categories><comments>15 pages; 10 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Different types of ground-based detectors have been developed and deployed
+around the world to monitor and study CR variations. We have designed,
+constructed and operated a three layer small (20x20 cm2) multiwire proportional
+chamber MWPC telescope for cosmic ray muon observations. In this paper, the
+technical aspects of this detector will be briefly discussed. The abilities of
+the telescope in detecting high nergy cosmic ray muons (primaries higher than
+20 GeV) were established. The telescope performs well in this sense and showed
+comparable results with a 1 m2 scintillator detector.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09283</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09283</id><created>2015-12-31</created><authors><author><keyname>Sogami</keyname><forenames>Ikuo S.</forenames><affiliation>Department of Physics, Kyoto Sangyo University and Yukawa Institute of Theoretical Physics, Kyoto University</affiliation></author></authors><title>Unified description of quarks and leptons in a multi-spinor field
+  formalism</title><categories>hep-ph</categories><comments>to appear in Proceedings of the 18th Bled Workshop &quot;What Comes Beyond
+  Standard Models&quot;</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Multi-spinor fields which behave as triple-tensor products of the Dirac
+spinors and form reducible representations of the Lorentz group describe three
+families of ordinary quarks and leptons in the visible sector and an additional
+family of exotic dark quarks and leptons in the dark sector of the Universe.
+Apart from the ordinary set of the gauge and Higgs fields in the visible
+sector, another set of gauge and Higgs fields belonging to the dark sector are
+assumed to exist. Two sectors possess channels of communication through gravity
+and a bi-quadratic interaction between the two types of Higgs fields. A
+candidate for the main component of the dark matter is a stable dark hadron
+with spin 3/2, and the upper limit of its mass is estimated to be 15.1
+GeV/c$^2$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09284</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09284</id><created>2015-12-31</created><authors><author><keyname>Bediaga</keyname><forenames>I.</forenames></author><author><keyname>Magalh&#xe3;es</keyname><forenames>P. C.</forenames></author></authors><title>Final state interaction on $B^+ \to \pi^-\pi^+\pi^+$</title><categories>hep-ph hep-ex</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The large localized CP asymmetries observed by LHCb in three-body charmless
+decays of $B$ mesons brings new challenge for experimentalists and their
+traditional models to fit data. With higher statistics, rescattering and
+three-body effects, previously ignored on data analysis, become more visible.
+The time is ripe to use better theoretical assumptions as an ingredient in
+order to improve the analysis. In this paper we address the issue of
+rescattering effects in the charmless three-body decays of $B$ mesons. In
+particular, we study the case of the $B^+ \to \pi^-\pi^+\pi^+$ decay and show
+that the presence of hadronic loops shifts the P-wave phase near threshold to
+below zero, and modify the position of the $\rho$-meson peak and it width, in
+the Dalitz plot.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09309</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09309</id><created>2015-12-31</created><authors><author><keyname>Andersen</keyname><forenames>J&#xf8;rgen Ellegaard</forenames></author><author><keyname>Chekhov</keyname><forenames>Leonid O.</forenames></author><author><keyname>Norbury</keyname><forenames>Paul</forenames></author><author><keyname>Penner</keyname><forenames>Robert C.</forenames></author></authors><title>Topological recursion for Gaussian means and cohomological field
+  theories</title><categories>math-ph hep-th math.AG math.GT math.MP</categories><comments>32 pages, 6 figures. arXiv admin note: substantial text overlap with
+  arXiv:1501.05867</comments><msc-class>05A15 (Primary), 14N10, 32G15 (Secondary)</msc-class><journal-ref>Theor. Math. Phys. Vol 185(3) (2015) 1685-1717</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We use the explicit relation between genus filtrated $s$-loop means of the
+Gaussian matrix model and terms of the genus expansion of the
+Kontsevich--Penner matrix model (KPMM), which is the generating function for
+volumes of discretized (open) moduli spaces $M_{g,s}^{disc}$ (discrete
+volumes), to express Gaussian means in all genera as polynomials in special
+times weighted by ancestor invariants of an underlying cohomological field
+theory. We translate topological recursion of the Gaussian model into recurrent
+relations for coefficients of this expansion proving their integrality and
+positivity. As an application, we find the coefficients in the first subleading
+order for ${\mathcal M}_{g,1}$ for all $g$ in three ways: by using the refined
+Harer--Zagier recursion, by exploiting the Givental-type decomposition of KPMM,
+and by an explicit diagram counting.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09322</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09322</id><created>2015-12-31</created><authors><author><keyname>Pietrzyk</keyname><forenames>Monika E.</forenames></author><author><keyname>Kanattsikov</keyname><forenames>Igor V.</forenames></author></authors><title>Generalized Short Pulse Equation for Propagation of Few-Cycle Pulses in
+  Metamaterials</title><categories>physics.optics</categories><comments>4 pages</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We show that propagation of ultrashort (few-cycle) pulses in nonlinear Drude
+metamaterials with both electric and magnetic Kerr nonlinearities is described
+by coupled generalized Short Pulse Equations. The resulting system of equations
+generalizes to the case of metamaterials both the Short Pulse Equation and its
+vector generalizations which describe the few-cycle pulses in dielectric
+optical fibers beyond the slowly varying envelope approximation leading to the
+nonlinear Schroedinger equation.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09323</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09323</id><created>2015-12-31</created><authors><author><keyname>Nikolova</keyname><forenames>Dessislava</forenames></author><author><keyname>Calhoun</keyname><forenames>David M.</forenames></author><author><keyname>Liu</keyname><forenames>Yang</forenames></author><author><keyname>Rumley</keyname><forenames>Sebastien</forenames></author><author><keyname>Novack</keyname><forenames>Ari</forenames></author><author><keyname>Baehr-Jones</keyname><forenames>Tom</forenames></author><author><keyname>Hochberg</keyname><forenames>Michael</forenames></author><author><keyname>Bergman</keyname><forenames>Keren</forenames></author></authors><title>A highly scalable fully non-blocking silicon photonic switch fabric</title><categories>physics.optics</categories><comments>25 pages, 8 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Large port count spatial optical switches will facilitate flexible and energy
+efficient data movement in future data communications systems, especially if
+they are capable of nanosecond-order reconfiguration times. In this work, we
+demonstrate an 8x8 microring-based silicon photonic switch with software
+controlled switching. The proposed switch architecture is modular as it
+assembles multiple identical components with multiplexing/demultiplexing
+functionalities. The switch is fully non-blocking, has path independent
+insertion loss, low crosstalk and is straightforward to control. A scalability
+analysis shows that this architecture can scale to very large port counts. This
+work represents the first demonstration of real-time firmware controlled
+switching with silicon photonics devices integrated at the chip scale.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09326</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09326</id><created>2015-12-31</created><authors><author><keyname>Fern&#xe1;ndez</keyname><forenames>Francisco M.</forenames></author></authors><title>On two exactly-solvable one-dimensional Hamiltonians with PT symmetry</title><categories>quant-ph</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We provide an explanation to the behaviour of the spectra of two
+exactly-solvable one-dimensional Hamiltonians with PT symmetry proposed
+earlier. We calculate the branch points at which pairs of eigenvalues coalesce
+and discuss the perturbation series.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09337</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09337</id><created>2015-12-31</created><authors><author><keyname>Ryabov</keyname><forenames>Pavel</forenames></author><author><keyname>Sokolov</keyname><forenames>Sergei</forenames></author><author><keyname>Kharlamova</keyname><forenames>Irina</forenames></author></authors><title>Explicit determination of certain periodic motions of a generalized
+  two-field gyrostat</title><categories>nlin.SI</categories><comments>13 pages, 2 figures</comments><msc-class>70E17, 70G40, 70H06, 70E40</msc-class><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The case of motion of a generalized two-field gyrostat found by V.V.Sokolov
+and A.V.Tsiganov is known as a Liouville integrable Hamiltonian system with
+three degrees of freedom. We find a set of points at which the momentum map has
+rank 1. This set consists of special periodic motions which correspond to the
+singular points of a bifurcation diagram on an iso-energetic surface. For such
+motions the phase variables can be expressed in terms of algebraic functions of
+a single auxiliary variable. These algebraic functions satisfy a differential
+equation integrable in elliptic functions of time. It is shown that the
+corresponding points in the three-dimensional space of the constants of the
+integrals belong to the intersection of two sheets of the discriminant surface
+of the Lax curve.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09355</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09355</id><created>2015-12-31</created><authors><author><keyname>Pocanic</keyname><forenames>Dinko</forenames><affiliation>PEN Collaboration</affiliation></author></authors><title>Allowed rare pion and muon decays as tests of the Standard Model</title><categories>nucl-ex hep-ex hep-ph</categories><comments>10 pages, 6 figures, to appear in the proceedings of NuFact15, XVIIth
+  International Workshop on Neutrino Factories and Future Neutrino Facilities,
+  Centro Brasileiro de Pesquisas F\'isicas, Rio de Janeiro, Brazil, 10-15
+  August 2015</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Simple dynamics, few available decay channels, and extremely well controlled
+radiative and loop corrections, make pion and muon decays a sensitive means for
+testing the underlying symmetries, the universality of weak fermion couplings,
+as well as for study of pion structure and chiral dynamics. We review the
+current state of experimental study of the allowed rare decays of charged
+pions: (a) electronic, $\pi^+ \to e^+\nu_e$, or $\pi_{e2}$, (b) radiative,
+$\pi^+ \to e^+\nu_e\gamma$, or $\pi_{e2\gamma}$, and (c) semileptonic,
+$\pi^+\to \pi^0 e^+ \nu$, or $\pi_{e3}$, as well as muon radiative decay,
+$\mu^+\to e^+ \nu_{\text{e}}\bar{\nu}_{\mu}\gamma$. Taken together, these data
+present an internally consistent picture that also agrees well with Standard
+Model (SM) predictions. However, even following the great strides of the recent
+decades, experimental accuracy is lagging far behind that of the theoretical
+description for all above processes. We review the implications of the present
+state of knowledge and prospects for further improvement in the near term.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09365</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09365</id><created>2015-12-31</created><authors><author><keyname>Poplawski</keyname><forenames>Nikodem J.</forenames></author></authors><title>Kinetization of scalar field by torsion</title><categories>gr-qc</categories><comments>3 pages</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We show that a scalar field without a kinetic term in the Lagrangian density,
+coupled to a covariant divergence of the torsion vector in the Einstein-Cartan
+theory of gravity, becomes kinetic in its general-relativistic equivalent
+formulation. Dynamical scalar fields may therefore be emergent.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09366</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09366</id><created>2015-12-31</created><authors><author><keyname>Turek</keyname><forenames>Ond&#x159;ej</forenames></author></authors><title>On quantum graph filters with flat passbands</title><categories>math-ph math.MP</categories><comments>18 pages, 4 figures</comments><msc-class>81Q35, 81Q93, 81U40, 81U15</msc-class><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We examine transmission through a quantum graph vertex to which auxiliary
+edges with constant potentials are attached. We find a characterization of
+vertex couplings for which the transmission probability from a given &quot;input&quot;
+line to a given &quot;output&quot; line shows a flat passband. The bandwidth is
+controlled directly by the potential on the auxiliary edges. Vertices with such
+couplings can thus serve as controllable band-pass filters. The paper extends
+earlier works on the topic. The result also demonstrates the effectivity of the
+$ST$-form of boundary conditions for a study of scattering in quantum graph
+vertices.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09372</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09372</id><created>2015-12-30</created><authors><author><keyname>Yang</keyname><forenames>Bo</forenames></author><author><keyname>Manz</keyname><forenames>Thomas A.</forenames></author></authors><title>Computationally Designed Zirconium Organometallic Catalyst for Direct
+  Epoxidation of Alkenes without Allylic H Atoms: Aromatic Linkage Eliminates
+  Formation of Inert Octahedral Complexes</title><categories>physics.chem-ph</categories><comments>41 pages, 16 figures, 6 tables</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We used density functional theory to computationally design a Zr
+organometallic catalyst for selectively oxidizing substrates using molecular
+oxygen as oxidant without coreductant. Each selective oxidation cycle involves
+four general steps: (a) a peroxo or weakly adsorbed O2 group releases an O atom
+to substrate to form substrate oxide and an oxo group, (b) an oxygen molecule
+adds to the oxo group to generate an eta2-ozone group, (c) the eta2-ozone group
+rearranges to form an eta3-ozone group, and (d) the eta3-ozone group releases
+an O atom to substrate to form substrate oxide and regenerate the peroxo or
+weakly adsorbed O2 group. This catalyst could potentially be synthesized via
+the condensation reaction Zr(N(R)R')4 + 2
+C6H4-1,6-(N(C6H3-2',6'-(CH(CH3)2)2)OH)2 --&gt;
+Zr(C6H4-1,6-(N(C6H3-2',6'-(CH(CH3)2)2)O)2)2 [aka Zr_Benzol catalyst] + 4
+N(R)(R')H where R and R' are CH3, CH2CH3, or other alkyl groups. For direct
+ethylene epoxidation, the computed enthalpic energetic span (i.e., effective
+activation energy for the entire catalytic cycle) is 27.1 kcal/mol, which is
+one of the lowest values for catalysts studied to date. We study reaction
+mechanisms and the stability of different catalyst forms as a function of the
+oxygen atom chemical potential. Notably, an aromatic linkage in each ligand
+prevents this catalyst from deactivating to form an inactive octahedral-like
+structure that contains the same atoms as the dioxo complex, Zr(Ligand)2(O)2.
+Due to a side reaction that can transfer an allylic H atom from alkene to
+catalyst, this catalyst is useful for directly epoxidizing alkenes such as
+ethylene that do not contain allylic H atoms. To better understand the reaction
+chemistry, we computed net atomic charges and bond orders for the two
+catalytically relevant reaction cycles. These results quantify electron
+transfer and bond forming and breaking during the catalytic process.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.09373</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.09373</id><created>2015-12-07</created><authors><author><keyname>Skordas</keyname><forenames>Efthimios S.</forenames></author></authors><title>Bulk moduli of PbS$_{x}$Se$_{1-x}$, PbS$_{x}$Te$_{1-x}$ and
+  PbSe$_{x}$Te$_{1-x}$ from a thermodynamical model compared to generalized
+  gradient approximation approach</title><categories>cond-mat.mtrl-sci</categories><comments>16 pages, 1 figure, 3 tables. It has been accepted for publication in
+  Materials Science in Semiconductor Processing</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Very recently, first-principle technique of full-potential linearized
+augmented plane-wave method, by using for exchange-correlation potential the
+generalized gradient approximation (GGA), was employed for the study of the
+lead chalcogenide semiconductors' alloys PbS$_{x}$Se$_{1-x}$,
+PbS$_{x}$Te$_{1-x}$ and PbSe$_{x}$Te$_{1-x}$. These density functional
+calculations led to the determination of structural, electronic and optical
+properties, including the values of lattice constants and bulk moduli as a
+function of composition. Here, we investigate the latter properties, but by
+employing a thermodynamical model which has been suggested for the formation
+and migration of defects in solids including several recent applications in
+semiconductors. The following crucial difference emerges when comparing the
+present results with those deduced by density functional calculations: Among
+the alloys studied, GGA calculations identify that PbS$_{x}$Te$_{1-x}$ exhibits
+the most evident non-linear variation of the bulk modulus versus the
+composition, while according to the thermodynamical model such an evident
+non-linear behavior -and maybe somewhat stronger- is also expected for
+PbSe$_{x}$Te$_{1-x}$. A tentative origin of this diversity is discussed.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:cond-mat/0202214</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>cond-mat/0202214</id><created>2002-02-13</created><authors><author><keyname>Kim</keyname><forenames>Yong-Hoon</forenames><affiliation>Theoretische Chemie, TU Muenchen</affiliation></author><author><keyname>Staedele</keyname><forenames>Martin</forenames><affiliation>Infineon Technologies AG</affiliation></author><author><keyname>Goerling</keyname><forenames>Andreas</forenames><affiliation>Theoretische Chemie, TU Muenchen</affiliation></author></authors><title>Optical excitations of Si by time-dependent density-functional theory
+  based on the exact-exchange Kohn-Sham band structure</title><categories>cond-mat.mtrl-sci</categories><comments>6 pages, 2 figures; contribution to &quot;DFT 2001&quot;, Sep. 10-14, San
+  Lorenzo de El Escorial, Spain; to be published in Int. J. Quantum. Chem</comments><journal-ref>Int. J. Quantum Chem. 91, 257-262 (2003)</journal-ref><doi>10.1002/qua.10411</doi><abstract>  We calculate the imaginary part of the frequency-dependent dielectric
+function of bulk silicon by applying time-dependent density-functional theory
+based on the exact-exchange (EXX) Kohn-Sham (KS) band structure and the
+adiabatic local-density approximation (ALDA) kernel. The position of the E2
+absorption peak calculated with the EXX band structure at the
+independent-particle level is in excellent agreement with experiments, which
+demonstrates the good quality of EXX `KS quasiparticles'. The excitonic E1 peak
+that is missing at the independent-particle level remains absent if
+two-particle interaction effects are taken into account within the
+time-dependent LDA, demonstrating the incapability of the ALDA kernel to
+describe excitonic effects.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:cond-mat/0208093</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>cond-mat/0208093</id><created>2002-08-06</created><authors><author><keyname>Kim</keyname><forenames>Yong-Hoon</forenames></author><author><keyname>Goerling</keyname><forenames>Andreas</forenames></author></authors><title>Excitonic optical spectrum of semiconductors obtained by time-dependent
+  density-functional theory with the exact-exchange kernel</title><categories>cond-mat.mtrl-sci</categories><comments>5 pages, 2 figures. 4-page version will be published in Phys. Rev.
+  Lett</comments><journal-ref>Phys. Rev. Lett. 89, 096402 (2002)</journal-ref><doi>10.1103/PhysRevLett.89.096402</doi><abstract>  Applying the novel exact-exchange (EXX) Kohn-Sham method within
+time-dependent density-functional theory, we obtained the optical absorption
+spectrum of bulk silicon in good agreement with experiments including excitonic
+features. Analysis of the EXX kernel shows that inclusion of the Coulomb
+coupling of electron-hole pairs and the correct long-wavelength behavior in the
+kernel is crucial for the proper description of excitonic effects in
+semiconductors.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:physics/9911030</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>physics/9911030</id><created>1999-11-14</created><authors><author><keyname>Lee</keyname><forenames>In-Ho</forenames></author><author><keyname>Kim</keyname><forenames>Yong-Hoon</forenames></author><author><keyname>Martin</keyname><forenames>Richard</forenames></author></authors><title>One-way multigrid method in electronic structure calculations</title><categories>physics.comp-ph cond-mat.mtrl-sci</categories><comments>10 pages, 2 figures, to appear in Phys. Rev. B, Rapid Communications</comments><journal-ref>Phys. Rev. B 61, 4397-4400 (2000)</journal-ref><doi>10.1103/PhysRevB.61.4397</doi><abstract>  We propose a simple and efficient one-way multigrid method for
+self-consistent electronic structure calculations based on iterative
+diagonalization. Total energy calculations are performed on several different
+levels of grids starting from the coarsest grid, with wave functions
+transferred to each finer level. The only changes compared to a single grid
+calculation are interpolation and orthonormalization steps outside the original
+total energy calculation and required only for transferring between grids. This
+feature results in a minimal amount of code change, and enables us to employ a
+sophisticated interpolation method and noninteger ratio of grid spacings.
+Calculations employing a preconditioned conjugate gradient method are presented
+for two examples, a quantum dot and a charged molecular system. Use of three
+grid levels with grid spacings 2h, 1.5h, and h decreases the computer time by
+about a factor of 5 compared to single level calculations.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:physics/9911031</identifier>
+ <datestamp>2016-01-01</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>physics/9911031</id><created>1999-11-14</created><authors><author><keyname>Kim</keyname><forenames>Yong-Hoon</forenames></author><author><keyname>Lee</keyname><forenames>In-Ho</forenames></author><author><keyname>Martin</keyname><forenames>Richard M.</forenames></author></authors><title>Object-oriented construction of a multigrid electronic-structure code
+  with Fortran 90</title><categories>physics.comp-ph cond-mat.mtrl-sci</categories><comments>24 pages, 6 figures, to appear in Comput. Phys. Comm</comments><journal-ref>Comput. Phys. Commun. 131, 10-25 (2000)</journal-ref><doi>10.1016/S0010-4655(00)00056-4</doi><abstract>  We describe the object-oriented implementation of a higher-order
+finite-difference density-functional code in Fortran 90. Object-oriented models
+of grid and related objects are constructed and employed for the implementation
+of an efficient one-way multigrid method we have recently proposed for the
+density-functional electronic-structure calculations. Detailed analysis of
+performance and strategy of the one-way multigrid scheme will be presented.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

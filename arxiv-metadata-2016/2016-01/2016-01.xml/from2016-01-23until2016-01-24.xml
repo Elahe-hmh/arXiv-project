@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T21:29:08Z</responseDate>
+<request verb="ListRecords" until="2016-01-24" from="2016-01-23" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1601.05587</identifier>
+ <datestamp>2016-01-24</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1601.05587</id><created>2016-01-21</created><authors><author><keyname>Charapitsa</keyname><forenames>Siarhei V.</forenames></author><author><keyname>Sytova</keyname><forenames>Svetlana N.</forenames></author><author><keyname>Makhomet</keyname><forenames>Andrey A.</forenames></author><author><keyname>Guguchkina</keyname><forenames>Tatiana I.</forenames></author><author><keyname>Markovsky</keyname><forenames>Mikhail G.</forenames></author><author><keyname>Yakuba</keyname><forenames>Yurii F.</forenames></author><author><keyname>Kotov</keyname><forenames>Yurii N.</forenames></author></authors><title>Method &quot;Ethanol as Internal Standard&quot; for determination of volatile
+  compounds in alcohol products by gas chromatography in daily practice</title><categories>physics.chem-ph</categories><comments>29 p., 11 figures, 10 tables. arXiv admin note: text overlap with
+  arXiv:1406.6358</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Recently proposed new method &quot;Ethanol as Internal Standard&quot; for determination
+of volatile compounds in alcohol products by gas chromatography (GC) is
+investigated from different sides including method testing on prepared standard
+solutions like cognac and brandy, different ethanol-water solutions and
+certified reference material CRM LGC5100 Whisky-Congeners. Analysis of obtained
+results of experimental study from four different laboratories shows that
+relative bias between the experimentally measured concentrations calculated in
+accordance with proposed method and the values of concentrations assigned
+during the preparation by gravimetric method for all analyzed compounds does
+not exceed 10 %. It is shown that relative response factors (RRF) between
+analyzed volatile compounds and ethanol do not depend on time of analysis and
+are constant for every model of GC. It is shown the possibility to use
+predetermined RRF in daily practice of testing laboratories and to implement
+this new method in the international standards of measurement procedure.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

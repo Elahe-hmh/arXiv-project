@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T23:33:15Z</responseDate>
+<request verb="ListRecords" until="2016-11-06" from="2016-11-06" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1504.04447</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1504.04447</id><created>2015-04-17</created><authors><author><keyname>Chaudhuri</keyname><forenames>A.</forenames></author><author><keyname>Ghosh</keyname><forenames>T. K.</forenames></author><author><keyname>Banerjee</keyname><forenames>K.</forenames></author><author><keyname>Bhattacharya</keyname><forenames>S.</forenames></author><author><keyname>Sadhukhan</keyname><forenames>Jhilam</forenames></author><author><keyname>Bhattacharya</keyname><forenames>C.</forenames></author><author><keyname>Kundu</keyname><forenames>S.</forenames></author><author><keyname>Meena</keyname><forenames>J. K.</forenames></author><author><keyname>Mukherjee</keyname><forenames>G.</forenames></author><author><keyname>Pandey</keyname><forenames>R.</forenames></author><author><keyname>Rana</keyname><forenames>T. K.</forenames></author><author><keyname>Roy</keyname><forenames>P.</forenames></author><author><keyname>Roy</keyname><forenames>T.</forenames></author><author><keyname>Srivastava</keyname><forenames>V.</forenames></author><author><keyname>Bhattacharya</keyname><forenames>P.</forenames></author></authors><title>Direct Evidence of Washing out of Nuclear Shell Effects</title><categories>nucl-ex nucl-th</categories><comments>7 pages, 7 figures, Physical Review C (in press)</comments><doi>10.1103/PhysRevC.91.044620</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Constraining excitation energy at which nuclear shell effect washes out has
+important implications on the production of super heavy elements and many other
+fields of nuclear physics research. We report the fission fragment mass
+distribution in alpha induced reaction on an actinide target for wide
+excitation range in close energy interval and show direct evidence that nuclear
+shell effect washes out at excitation energy ~40 MeV. Calculation shows that
+second peak of the fission barrier also vanishes around similar excitation
+energy.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1504.05855</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1504.05855</id><created>2015-04-22</created><authors><author><keyname>Alloul</keyname><forenames>Henri</forenames></author></authors><title>Strongly Correlated Electrons in Solids</title><categories>cond-mat.str-el</categories><comments>8 pages , 4 figures published in Scholarpedia</comments><journal-ref>Strongly Correlated Electrons in Solids, Scholarpedia, 9(7):32067
+  (2014)</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Most emergent properties of the materials discovered since the 1980s are
+related to the existence of electron-electron interactions which are large with
+respect to the kinetic energies and could not be thoroughly studied before. The
+occurrence of metal insulator transitions, of exotic magnetic and/or
+superconducting properties in many new compounds have stimulated a large series
+of ex- perimental and theoretical developments to grasp their physical
+significance. We present here a simple introduction to the elementary aspects
+of the physics of electron-electron interactions, which could be a starting
+point for typical undergraduate students.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.05264</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.05264</id><created>2015-07-19</created><authors><author><keyname>Ma</keyname><forenames>Yingjin</forenames></author><author><keyname>Wen</keyname><forenames>Jing</forenames></author><author><keyname>Ma</keyname><forenames>Haibo</forenames></author></authors><title>Density-Matrix Renormalization Group Algorithm with Multi-Level Active
+  Space</title><categories>cond-mat.str-el physics.chem-ph</categories><journal-ref>J. Chem. Phys. 143, 034105 (2015)</journal-ref><doi>10.1063/1.4926833</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The density-matrix renormalization group (DMRG) method, which can deal with a
+large active space composed of tens of orbitals, is nowadays widely used as an
+efficient addition to traditional complete active space (CAS)-based approaches.
+In this paper, we present the DMRG algorithm with a multi-level (ML) control of
+the active space based on chemical intuition-based hierarchical orbital
+ordering, which is called as ML-DMRG with its self-consistent field variant
+ML-DMRG-SCF. Ground and excited state calculations of H2O, N2, indole, and Cr2
+with comparisons to DMRG references using fixed number of kept states (M)
+illustrate that MLtype DMRG calculations can obtain noticeable efficiency
+gains. It is also shown that the orbital re-ordering based on hierarchical
+multiple active subspaces may be beneficial for reducing computational time for
+not only ML-DMRG calculations but also DMRG ones with fixed M values.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.06924</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.06924</id><created>2015-07-24</created><authors><author><keyname>Antoniadis</keyname><forenames>Ignatios</forenames></author><author><keyname>Knoops</keyname><forenames>Rob</forenames></author></authors><title>MSSM soft terms from supergravity with gauged R-symmetry in de Sitter
+  vacuum</title><categories>hep-ph hep-th</categories><doi>10.1016/j.nuclphysb.2015.11.010</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We work out the phenomenology of a model of supersymmetry breaking in the
+presence of a tiny (tunable) positive cosmological constant, proposed by the
+authors in arXiv:1403.1534. It utilises a single chiral multiplet with a gauged
+shift symmetry, that can be identified with the string dilaton (or an
+appropriate compactification modulus). The model is coupled to the MSSM,
+leading to calculable soft supersymmetry breaking masses and a distinct low
+energy phenomenology that allows to differentiate it from other models of
+supersymmetry breaking and mediation mechanisms.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.04963</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.04963</id><created>2015-10-16</created><updated>2016-02-07</updated><authors><author><keyname>Smith</keyname><forenames>Bennett E.</forenames></author><author><keyname>Zhou</keyname><forenames>Xuezhe</forenames></author><author><keyname>Roder</keyname><forenames>Paden B.</forenames></author><author><keyname>Abramson</keyname><forenames>Evan H.</forenames></author><author><keyname>Pauzauskie</keyname><forenames>Peter J.</forenames></author></authors><title>Recovery of Si-IV nanowires from extreme GPa pressure</title><categories>cond-mat.mtrl-sci</categories><doi>10.1063/1.4948576</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We use Raman spectroscopy in tandem with transmission electron microscopy and
+DFT simulations to show that extreme (GPa) pressure converts the phase of
+silicon nanowires from cubic (Si-I) to hexagonal (Si-IV) while preserving the
+nanowire's cylindrical morphology. In situ Raman scattering of the TO mode
+demonstrates the high-pressure Si-I to Si-II phase transition near 9 GPa. Raman
+signal of the TO phonon shows a decrease in intensity in the range 9 to 14 GPa.
+Then, at 17 GPa, it is no longer detectable, indicating a second phase change
+(Si-II to Si-V) in the 14 to 17 GPa range. Recovery of exotic phases in
+individual silicon nanowires from diamond anvil cell experiments reaching 17
+GPa is also shown. Raman measurements indicate Si-IV as the dominant phase in
+pressurized nanowires after decompression. Transmission electron microscopy and
+electron diffraction confirm crystalline Si-IV domains in individual nanowires.
+Computational electromagnetic simulations suggest that heating from the Raman
+laser probe is negligible and that near-hydrostatic pressure is the primary
+driving force for the formation of hexagonal silicon nanowires.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.05678</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.05678</id><created>2015-10-19</created><authors><author><keyname>Herbut</keyname><forenames>Fedor</forenames></author></authors><title>Does Unitary Measurement Theory Lead to an Everettian Interpretation?</title><categories>quant-ph</categories><comments>35 pages, no figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Quantum-mechanical interpretation-related implications of the theory of
+unitary premeasurement [1] on complete measurement (objectification or collapse
+included) are investigated in the present article with a view to give an
+affirmative answer to the question in the title. It is argued that both Bohr's
+and von Neumann's ideas lead to those of Everett. Hence, the latter can be, in
+some sense, considered to be a continuation and elaboration of both former
+approaches. The importance of the idea of relativeness in Everett's theory is
+emphasized. To free the relative-state theory from its roots both of
+classicalness and of subjective observation in the argument of this study, the
+general or unfolded version of Everett's theory is sketched.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.07432</identifier>
+ <datestamp>2016-11-06</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.07432</id><created>2015-10-26</created><authors><author><keyname>Jin</keyname><forenames>Yuwei</forenames></author><author><keyname>Cristescu</keyname><forenames>Simona M.</forenames></author><author><keyname>Harren</keyname><forenames>Frans J. M.</forenames></author><author><keyname>Mandon</keyname><forenames>Julien</forenames></author></authors><title>Vernier effect within a versatile femtosecond optical parametric
+  oscillator for broad-tunable, high-repetition-rate oscillator</title><categories>physics.optics</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Within a synchronously pumped optical parametric oscillator (SPOPO), the
+inherent synchronism between the pump and the resonating signal is the magic to
+partly transfer the coherence property of the pump to the signal. In our
+demonstration, Vernier effect is observed within a femtosecond SPOPO by simply
+detuning the FSR of the cavity, generating signal pulses at tunable repetition
+rate from several GHz to 1 THz with a maximum 22.58 nm full width half maximum
+(FWHM) bandwidth supporting 160 fs pulses covering the C- and L-bands of the
+telecom wavelength region. This technique offers a simple method of active
+filtering of dense frequency comb lines instead of using Fabry-P\'erot (FP)
+cavities with complex locking system for astro-comb generation. Beside, as a
+promising source for frequency combs with tunable and large comb-spacing, it
+offers potential opportunities for applications such as high speed coherent
+data transmission, line-by-line pulse shaping, optical clocks and precision
+metrology.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

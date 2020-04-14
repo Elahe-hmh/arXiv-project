@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T22:50:51Z</responseDate>
+<request verb="ListRecords" until="2016-08-12" from="2016-08-12" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1302.2931</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1302.2931</id><created>2013-02-12</created><updated>2016-08-10</updated><authors><author><keyname>Izosimov</keyname><forenames>Anton</forenames></author></authors><title>Flat bi-Hamiltonian structures and invariant densities</title><categories>math.DG math-ph math.MP nlin.SI</categories><comments>10 pages; Lett Math Phys (2016)</comments><doi>10.1007/s11005-016-0875-1</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A bi-Hamiltonian structure is a pair of Poisson structures $\mathcal P$,
+$\mathcal Q$ which are compatible, meaning that any linear combination $\alpha
+\mathcal P + \beta \mathcal Q$ is again a Poisson structure. A bi-Hamiltonian
+structure $(\mathcal P, \mathcal Q)$ is called flat if $\mathcal P$ and
+$\mathcal Q$ can be simultaneously brought to a constant form in a neighborhood
+of a generic point. We prove that a generic bi-Hamiltonian structure $(\mathcal
+P, \mathcal Q)$ on an odd-dimensional manifold is flat if and only if there
+exists a local density which is preserved by all vector fields Hamiltonian with
+respect to $\mathcal P$, as well as by all vector fields Hamiltonian with
+respect to $\mathcal Q$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1305.7516</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1305.7516</id><created>2013-05-26</created><updated>2016-08-10</updated><authors><author><keyname>Sverdlov</keyname><forenames>Roman</forenames></author></authors><title>Connection between GRW &quot;spontaneous collapse&quot; and Mensky's &quot;restricted
+  path integral&quot; models</title><categories>physics.gen-ph</categories><comments>10 pages, no figures</comments><journal-ref>Foundations of Physics, 46(7), 825-835 2016</journal-ref><doi>10.1007/s10701-016-0004-0</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper we will show how Mensky's model of &quot;restricted path integrals&quot;
+can be derived from GRW &quot;spontaneous collapse&quot; model.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1307.5880</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1307.5880</id><created>2013-07-19</created><updated>2016-08-10</updated><authors><author><keyname>Sverdlov</keyname><forenames>Roman</forenames></author></authors><title>Mensky's path integral and photon mass</title><categories>physics.gen-ph</categories><comments>26 pages, no figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  It is commonly assumed that zero and non-zero photon mass would lead to
+qualitatively different physics. For example, massless photon has two
+polarization degrees of freedom, while massive photon at least three. This
+feature seems counter-intuitive. In this paper we will show that if we change
+propagator by setting $i \epsilon$ (needed to avoid poles) to a finite value,
+and also introduce it in a way that breaks Lawrentz symmetry, then we would
+obtain the continuous transition we desire once the speed of the photons is
+&quot;large enough&quot; with respect to &quot;preferred&quot; frame. The two transverse
+polarization degrees of freedom will be long lived, while longitudinal will be
+short lived. Their lifetime will be near-zero if $m \ll \sqrt{\epsilon}$, which
+is where the properties of two circular polarizations arize. The $i \epsilon$
+corresponds to the intensity of Mensky's &quot;continuous measurement&quot; and the short
+lifetime of the longitudinal photons can be understood as the &quot;conversion&quot; of
+quantum degrees of freedom (photons) into &quot;classical&quot; ones by the measurement
+device (thus getting rid of the former). While the &quot;classical&quot; trajectory of
+the longitudinal photons does arize, it plays no physical role due to quantum
+Zeno effect: intuitively, it is similar to an electron being kept at a ground
+state due to continuous measurement.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1307.8007</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1307.8007</id><created>2013-07-30</created><updated>2016-08-11</updated><authors><author><keyname>Boche</keyname><forenames>Holger</forenames></author><author><keyname>Cai</keyname><forenames>Minglai</forenames></author><author><keyname>Deppe</keyname><forenames>Christian</forenames></author><author><keyname>N&#xf6;tzel</keyname><forenames>Janis</forenames></author></authors><title>Classical-Quantum Arbitrarily Varying Wiretap Channel: Ahlswede
+  dichotomy, Positivity, Resources, Super Activation</title><categories>cs.IT math.IT quant-ph</categories><journal-ref>Quantum Information Processing, August 2016, pp. 1-43</journal-ref><doi>10.1007/s11128-016-1384-y</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We establish Ahlswede dichotomy for arbitrarily varying classical-quantum
+wiretap channels. This means that either the deterministic secrecy capacity of
+an arbitrarily varying classical-quantum wiretap channel is zero or it equals
+its randomness-assisted secrecy capacity. We analyze the secrecy capacity of
+arbitrarily varying classical-quantum wiretap channels when the sender and the
+receiver use various resources. It turns out that having randomness, common
+randomness, and correlation as resources are very helpful for achieving a
+positive deterministic secrecy capacity of arbitrarily varying
+classical-quantum wiretap channels. We prove the phenomenon super-activation
+for arbitrarily varying classical-quantum wiretap channels, i.e., if we use two
+arbitrarily varying classical-quantum wiretap channels, both with zero
+deterministic secrecy capacity together, they allow perfect secure
+transmission.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1410.6906</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1410.6906</id><created>2014-10-25</created><updated>2015-05-12</updated><authors><author><keyname>Silenko</keyname><forenames>Alexander J.</forenames></author></authors><title>Spin precession of a particle with an electric dipole moment:
+  contributions from classical electrodynamics and from the Thomas effect</title><categories>hep-ph gr-qc</categories><comments>12 pages, final version</comments><journal-ref>Physica Scripta 90, 065303 (2015)</journal-ref><doi>10.1088/0031-8949/90/6/065303</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The new derivation of the equation of the spin precession is given for a
+particle possessing electric and magnetic dipole moments. Contributions from
+classical electrodynamics and from the Thomas effect are explicitly separated.
+A fully covariant approach is used. The final equation is expressed in a very
+simple form in terms of the fields in the instantaneously accompanying frame.
+The Lorentz transformations of the electric and magnetic dipole moments and of
+the spin are derived from basic equations of classical electrodynamics. For
+this purpose, the Maxwell equations in matter are used and the result is
+confirmed by other methods. An antisymmetric four-tensor is correctly
+constructed from the electric and magnetic dipole moments.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1502.07291</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1502.07291</id><created>2015-02-25</created><updated>2015-04-17</updated><authors><author><keyname>Martinello</keyname><forenames>M.</forenames></author><author><keyname>Checchin</keyname><forenames>M.</forenames></author><author><keyname>Grassellino</keyname><forenames>A.</forenames></author><author><keyname>Crawford</keyname><forenames>A. C.</forenames></author><author><keyname>Melnychuk</keyname><forenames>O.</forenames></author><author><keyname>Romanenko</keyname><forenames>A.</forenames></author><author><keyname>Sergatskov</keyname><forenames>D. A.</forenames></author></authors><title>Magnetic Flux Dynamics in Horizontally Cooled Superconducting Cavities</title><categories>physics.acc-ph</categories><journal-ref>J. Appl. Phys. 118, 044505 (2015)</journal-ref><doi>10.1063/1.4927519</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Previous studies on magnetic flux expulsion as a function of cooling details
+have been performed for superconducting niobium cavities with the cavity beam
+axis placed parallel respect to the helium cooling flow, and findings showed
+that for sufficient cooling thermogradients all magnetic flux could be expelled
+and very low residual resistance could be achieved. In this paper we
+investigate the flux trapping and its impact on radio frequency surface
+resistance when the resonators are positioned perpendicularly to the helium
+cooling flow, which is representative of how superconducting radio-frequency
+(SRF) cavities are cooled in an accelerator. We also extend the studies to
+different directions of applied magnetic field surrounding the resonator.
+Results show that in the cavity horizontal configuration there is a different
+impact of the various field components on the final surface resistance, and
+that several parameters have to be considered to understand flux dynamics. A
+newly discovered phenomenon of concentration of flux lines at the cavity top
+leading to cavity equator temperature rise is presented.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1504.05194</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1504.05194</id><created>2015-04-20</created><updated>2016-08-10</updated><authors><author><keyname>Schwab</keyname><forenames>Josiah</forenames></author><author><keyname>Quataert</keyname><forenames>Eliot</forenames></author><author><keyname>Bildsten</keyname><forenames>Lars</forenames></author></authors><title>Thermal Runaway During the Evolution of ONeMg Cores towards
+  Accretion-Induced Collapse</title><categories>astro-ph.SR astro-ph.HE</categories><comments>20 pages, 17 figures, 2 tables; published in MNRAS, updated to
+  reflect published erratum</comments><doi>10.1093/mnras/stv1804</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the evolution of degenerate electron cores primarily composed of the
+carbon burning products oxygen, neon, and magnesium (hereafter ONeMg cores)
+that are undergoing compression. Electron capture reactions on A=20 and A=24
+isotopes reduce the electron fraction and heat the core. We develop and use a
+new capability of the Modules for Experiments in Stellar Astrophysics (MESA)
+stellar evolution code that provides a highly accurate implementation of these
+key reactions. These new accurate rates and the ability of MESA to perform
+extremely small spatial zoning demonstrates a thermal runaway in the core
+triggered by the temperature and density sensitivity of the Ne-20 electron
+capture reactions. Both analytics and numerics show that this thermal runaway
+does not trigger core convection, but rather leads to a centrally concentrated
+(r &lt; km) thermal runaway that will subsequently launch an oxygen deflagration
+wave from the center of the star. We use MESA to perform a parameter study that
+quantifies the influence of the magnesium mass fraction, the central
+temperature, the compression rate, and uncertainties in the electron capture
+reaction rates on the ONeMg core evolution. This allows us to establish a lower
+limit on the central density at which the oxygen deflagration wave initiates of
+$\rho_c &gt; 8.5 \times 10^9\, \textrm{g cm}^{-3}$. Based on previous work and
+order-of-magnitude calculations, we expect objects which ignite oxygen at or
+above these densities to collapse and form a neutron star. Calculations such as
+these are an important step in producing more realistic progenitor models for
+studies of the signature of accretion-induced collapse.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1506.02593</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1506.02593</id><created>2015-06-08</created><updated>2016-08-01</updated><authors><author><keyname>Nayak</keyname><forenames>Gouranga C.</forenames></author></authors><title>Proof of NRQCD Factorization at All Order in Coupling Constant in Heavy
+  Quarkonium Production</title><categories>hep-ph hep-lat nucl-th</categories><comments>Final Version, Accepted for Publication in Eur. Phys. J. C, 37 Pages
+  Latex</comments><journal-ref>Eur. Phys. J. C (2016) 76:448</journal-ref><doi>10.1140/epjc/s10052-016-4297-0</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Recently the proof of factorization in heavy quarkonium production in NRQCD
+color octet mechanism is given at next-to-next-to-leading order (NNLO) in
+coupling constant by using diagrammatic method of QCD. In this paper we prove
+factorization in heavy quarkonium production in NRQCD color octet mechanism at
+all order in coupling constant by using path integral method of QCD. Our proof
+is valid to all powers in the heavy quark relative velocity. We find that the
+gauge invariance and the factorization at all order in coupling constant
+require gauge-completed non-perturbative NRQCD matrix elements that were
+introduced previously to prove factorization at NNLO.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.06584</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.06584</id><created>2015-07-23</created><updated>2016-08-11</updated><authors><author><keyname>Metsaev</keyname><forenames>R. R.</forenames></author></authors><title>Light-cone AdS/CFT-adapted approach to AdS fields/currents, shadows, and
+  conformal fields</title><categories>hep-th</categories><comments>LaTeX-2e, 38+8 pages v2: Conclusion below eq.(7.54) and footnote 26
+  added. Typos in eqs.(2.47) and (6.25) corrected</comments><report-no>FIAN-TD-2015-06</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Light-cone gauge formulation of fields in AdS space and conformal field
+theory in flat space adapted for the study of AdS/CFT correspondence is
+developed. Arbitrary spin mixed-symmetry fields in AdS space and arbitrary spin
+mixed-symmetry currents, shadows, and conformal fields in flat space are
+considered on an equal footing. For the massless and massive fields in AdS and
+the conformal fields in flat space, simple light-cone gauge actions leading to
+decoupled equations of motion are found. For the currents and shadows, simple
+expressions for all 2-point functions are also found. We demonstrate that
+representation of conformal algebra generators on space of currents, shadows,
+and conformal fields can be built in terms of spin operators entering the
+light-cone gauge formulation of AdS fields. This considerably simplifies the
+study of AdS/CFT correspondence. Light-cone gauge actions for totally symmetric
+arbitrary spin long conformal fields in flat space are presented. We apply our
+approach to the study of totally antisymmetric (one-column) and mixed-symmetry
+(two-column) fields in AdS space and currents, shadows, and conformal fields in
+flat space.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1507.08916</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1507.08916</id><created>2015-07-31</created><updated>2016-08-10</updated><authors><author><keyname>Endres</keyname><forenames>Michael G.</forenames></author><author><keyname>Shindler</keyname><forenames>Andrea</forenames></author><author><keyname>Tiburzi</keyname><forenames>Brian C.</forenames></author><author><keyname>Walker-Loud</keyname><forenames>Andre</forenames></author></authors><title>Massive photons: an infrared regularization scheme for lattice QCD+QED</title><categories>hep-lat hep-ph nucl-th</categories><comments>6 pages, 4 figures, 2 tables; significant revisions to abstract and
+  main text; revised presentation of results for clarity (results unchanged);
+  acknowledgements updated; matches published version</comments><report-no>MIT-CTP/4691, JLAB-THY-15-2112, NT@WM-15-12</report-no><journal-ref>Phys. Rev. Lett. 117, 072002 (2016)</journal-ref><doi>10.1103/PhysRevLett.117.072002</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Standard methods for including electromagnetic interactions in lattice
+quantum chromodynamics calculations result in power-law finite-volume
+corrections to physical quantities. Removing these by extrapolation requires
+costly computations at multiple volumes. We introduce a photon mass to
+alternatively regulate the infrared, and rely on effective field theory to
+remove its unphysical effects. Electromagnetic modifications to the hadron
+spectrum are reliably estimated with a precision and cost comparable to
+conventional approaches that utilize multiple larger volumes. A significant
+overall cost advantage emerges when accounting for ensemble generation. The
+proposed method may benefit lattice calculations involving multiple charged
+hadrons, as well as quantum many-body computations with long-range Coulomb
+interactions.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1508.02189</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1508.02189</id><created>2015-08-10</created><authors><author><keyname>Peyskens</keyname><forenames>Fr&#xe9;d&#xe9;ric</forenames></author><author><keyname>Dhakal</keyname><forenames>Ashim</forenames></author><author><keyname>Van Dorpe</keyname><forenames>Pol</forenames></author><author><keyname>Thomas</keyname><forenames>Nicolas Le</forenames></author><author><keyname>Baets</keyname><forenames>Roel</forenames></author></authors><title>Surface enhanced Raman spectroscopy using a single mode
+  nanophotonic-plasmonic platform</title><categories>physics.optics cond-mat.mes-hall</categories><comments>Submitted to Nature Photonics</comments><doi>10.1021/acsphotonics.5b00487</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Surface Enhanced Raman Spectroscopy (SERS) is a well-established technique
+for enhancing Raman signals. Recently photonic integrated circuits have been
+used, as an alternative to microscopy based excitation and collection, to probe
+SERS signals from external metallic nanoparticles. However, in order to develop
+quantitative on-chip SERS sensors, integration of dedicated nanoplasmonic
+antennas and waveguides is desirable. Here we bridge this gap by demonstrating
+for the first time the generation of SERS signals from integrated bowtie
+nanoantennas, excited and collected by a single mode waveguide, and rigorously
+quantify the enhancement process. The guided Raman power generated by a
+4-Nitrothiophenol coated bowtie antenna shows an 8 x 10^6 enhancement compared
+to the free-space Raman scattering. An excellent correspondence is obtained
+between the theoretically predicted and observed absolute Raman power. This
+work paves the way towards fully integrated lab-on-a-chip systems where the
+single mode SERS-probe can be combined with other photonic, fluidic or
+biological functionalities.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.02369</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.02369</id><created>2015-09-08</created><authors><author><keyname>Galisova</keyname><forenames>Lucia</forenames></author></authors><title>Thermodynamics of the exactly solvable spin-electron tetrahedral chain</title><categories>cond-mat.stat-mech cond-mat.str-el</categories><comments>3 pages, 5 figures, contribution to proceedings of The Eleventh
+  International School on Theoretical Physics Symmetry and Structural
+  Properties of Condensed Matter (SSPCM14) in Rzesz\'ow, Poland</comments><journal-ref>Acta Phys. Pol. A 128 (2015) 156-158</journal-ref><doi>10.12693/APhysPolA.128.156</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  An exactly solvable spin-electron tetrahedral chain, where the Ising spins
+localized at nodal lattice sites regularly alternate with three equivalent
+lattice sites available for one mobile electron is considered. The system with
+ferromagnetic interaction between the Ising spins and electrons exhibits an
+enhanced magnetocaloric effect (MCE) in the limit $H/|J|\to 0$ when the entropy
+is very small, whereas the system with antiferromagnetic interaction between
+the Ising spins and electrons exhibits an enhanced MCE around the field $H/J=1$
+when the entropy is sufficiently close to the value $S/2N =
+\ln[(1+\sqrt{5})/2]$. We study the thermodynamics of the system in these field
+regions.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.06367</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.06367</id><created>2015-09-21</created><updated>2016-08-10</updated><authors><author><keyname>Bousquet</keyname><forenames>Gabriel D.</forenames></author><author><keyname>Triantafyllou</keyname><forenames>Michael S.</forenames></author><author><keyname>Slotine</keyname><forenames>Jean-Jacques E.</forenames></author></authors><title>Asymptotic Solution to the Rayleigh Problem of Dynamic Soaring</title><categories>physics.bio-ph</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Albatrosses can travel a thousand kilometers daily over the oceans. This feat
+is achieved through dynamic soaring, a non-flapping flight strategy where
+propulsive energy is extracted from horizontal wind shears. Dynamic soaring has
+been described as a sequence of half-turns connecting upwind climbs and
+downwind dives through the surface shear layer. We analytically and numerically
+investigate the aerodynamically optimal flight trajectory for varying shear
+thicknesses. Contrary to current thinking, but consistent with GPS recordings
+of flying albatrosses, in thin shears the optimal trajectory is composed of
+small angle arcs. Essentially, the albatross is a flying sailboat, sequentially
+acting as sail and keel, and most efficient when remaining crosswind. Our
+analysis constitutes a general framework for dynamic soaring, and more broadly
+energy extraction in complex winds.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1509.06491</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1509.06491</id><created>2015-09-22</created><updated>2016-08-11</updated><authors><author><keyname>De</keyname><forenames>Sanchari</forenames></author><author><keyname>Chakrabarty</keyname><forenames>Somenath</forenames></author></authors><title>Wien's Displacement Law in Rindler Space</title><categories>gr-qc astro-ph.SR</categories><comments>9 Pages REVTEX file, a new section is added, conclusion part is
+  rewritten</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this article we have developed the formalisms for the modified form of
+Wien displacement laws for both the gas of electromagnetic waves and a gas of
+de Broglie waves in Rindler space. In the case of de Broglie waves we assume
+both fermion type and boson type materials. Following the classic work of Wien,
+we assume that the wall of the enclosure containing the photon gas or the gas
+of de Broglie waves, is expanding adiabatically with a uniform acceleration.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1510.03215</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1510.03215</id><created>2015-10-12</created><updated>2016-08-11</updated><authors><author><keyname>Benassi</keyname><forenames>Costanza</forenames></author><author><keyname>Lees</keyname><forenames>Benjamin</forenames></author><author><keyname>Ueltschi</keyname><forenames>Daniel</forenames></author></authors><title>Correlation inequalities for the quantum XY model</title><categories>math-ph math.MP</categories><comments>9 pages</comments><msc-class>82B10, 82B20, 82B26</msc-class><journal-ref>J. Stat. Phys. 164, 1157-1166 (2016)</journal-ref><doi>10.1007/s10955-016-1580-2</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We show the positivity or negativity of truncated correlation functions in
+the quantum XY model with spin 1/2 (at any temperature) and spin 1 (in the
+ground state). These Griffiths-Ginibre inequalities of the second kind
+generalise an earlier result of Gallavotti.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.00531</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.00531</id><created>2015-11-02</created><updated>2016-06-15</updated><authors><author><keyname>Lim</keyname><forenames>Charles Ci Wen</forenames></author></authors><title>Optimality of semiquantum nonlocality in the presence of high
+  inconclusive rates</title><categories>quant-ph</categories><comments>8 pages + 3 figures. Presented in the 1st International Workshop on
+  Trustworthy Quantum Information, 6/28-7/2, University of Michigan, Ann Arbor,
+  Michigan, US; Similar to published version (references to quantum steering
+  added)</comments><journal-ref>Phys. Rev. A 93, 020101(R) (2016)</journal-ref><doi>10.1103/PhysRevA.93.020101</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Quantum nonlocality is a counterintuitive phenomenon that lies beyond the
+purview of causal influences. Recently, Bell inequalities have been generalized
+to the case of quantum inputs, leading to a powerful family of semi-quantum
+Bell inequalities that are capable of detecting any entangled state. Here, we
+focus on a different problem and investigate how the local-indistinguishability
+of quantum inputs and postselection may affect the requirements to detect
+semi-quantum nonlocality. To this end, we consider a semi-quantum nonlocal game
+based on locally-indistinguishable qubit inputs and derive its postselected
+local and quantum bounds by using a novel connection to the
+local-distinguishability of quantum states. Interestingly, we find that the
+postselected local bound is independent of the measurement efficiency and that
+the Bell violation increases with lower measurement efficiencies.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.02083</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.02083</id><created>2015-11-06</created><authors><author><keyname>Boyer</keyname><forenames>Timothy H.</forenames></author></authors><title>Classical Zero-Point Radiation and Relativity: The Problem of Atomic
+  Collapse Revisited</title><categories>physics.class-ph</categories><comments>15 pages</comments><journal-ref>Foundations of Physics 46, 880-890 (2016)</journal-ref><doi>10.1007/s10701-016-0008-9</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The physicists of the early 20th century were unaware of two aspects which
+are vital to understanding some aspects of modern physics within classical
+theory. The two aspects are: 1) the presence of classical electromagnetic
+zero-point radiation, and 2) the importance of special relativity. In classes
+in modern physics today, the problem of atomic collapse is still mentioned in
+the historical context of the early 20th century. However, the classical
+problem of atomic collapse is currently being treated in the presence of
+classical zero-point radiation where the problem has been transformed. The
+presence of classical zero-point radiation indeed keeps the electron from
+falling into the Coulomb potential center. However, the old collapse problem
+has been replaced by a new problem where the zero-point radiation may give too
+much energy to the electron so as to cause self-ionization. Special relativity
+may play a role in understanding this modern variation on the atomic collapse
+problem, just as relativity has proved crucial for a classical understanding of
+blackbody radiation.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1511.07473</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1511.07473</id><created>2015-11-20</created><updated>2016-08-11</updated><authors><author><keyname>Salehi</keyname><forenames>Mohsen</forenames></author></authors><title>High-speed FSK Modulator Using Switched-capacitor Resonators</title><categories>physics.ins-det</categories><comments>This article has been administratively withdrawn because of
+  authorship dispute and retraction by the journal</comments><doi>10.1002/cta.2157</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper, an ultra-fast frequency shift-keying (FSK) modulation
+technique based on switched capacitor resonators is presented. It is
+demonstrated that switching a reactive component such as a capacitor, in a
+high-Q resonator with proper switching signal can preserve the stored energy
+and shift it to a different frequency. Switching boundaries are found by
+continuity of electric charge and magnetic flux. It is shown that if switching
+time is synchronous with zero crossing of the voltage signal across the
+switched capacitor, impulsive components can be avoided and continuity of
+electric charge is satisfied without energy dissipation. We use this property
+to realize a fast binary frequency-shift keying (FSK) modulator with only a
+single RF source. In this technique, the modulation rate is independent of the
+resonator bandwidth and can be as high as the lower carrier frequency.
+Experimental results are presented to validate the simulations.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.01765</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.01765</id><created>2015-12-06</created><updated>2016-08-10</updated><authors><author><keyname>Antognini</keyname><forenames>Aldo</forenames></author></authors><title>Muonic atoms and the nuclear structure</title><categories>physics.atom-ph</categories><comments>ICOLS 2015, Singapore. arXiv admin note: text overlap with
+  arXiv:1509.03235</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  High-precision laser spectroscopy of atomic energy levels enables the
+measurement of nuclear properties. Sensitivity to these properties is
+particularly enhanced in muonic atoms which are bound systems of a muon and a
+nucleus. Exemplary is the measurement of the proton charge radius from muonic
+hydrogen performed by the CREMA collaboration which resulted in an order of
+magnitude more precise charge radius as extracted from other methods but at a
+variance of 7 standard deviations. Here, we summarize the role of muonic atoms
+for the extraction of nuclear charge radii, we present the status of the so
+called &quot;proton charge radius puzzle&quot;, and we sketch how muonic atoms can be
+used to infer also the magnetic nuclear radii, demonstrating again an
+interesting interplay between atomic and particle/nuclear physics.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.04029</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.04029</id><created>2015-12-13</created><updated>2016-08-11</updated><authors><author><keyname>Najarbashi</keyname><forenames>G.</forenames></author><author><keyname>Seifi</keyname><forenames>B.</forenames></author></authors><title>Quantum phase transition in the Dzyaloshinskii-Moriya interaction with
+  inhomogeneous magnetic field: Geometric approach</title><categories>quant-ph</categories><comments>24 pages, 7 figures. arXiv admin note: text overlap with
+  arXiv:quant-ph/0212133 by other authors</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper, we generalize the results of S. Oh (Physics Letters A. 644-647
+\textbf{373 }) to Dzyaloshinski-Moriya model under nonuniform external magnetic
+field to investigate the relation between entanglement, geometric phase (or
+Berry phase) and quantum phase transition. We use quaternionic representation
+to relate the geometric phase to the quantum phase transition. For small values
+of DM parameter, the Berry phase is more appropriate than the concurrence
+measure, while for large values, the concurrence is a good indicator to show
+the phase transition. On the other hand, by increasing the DM interaction the
+phase transition occurs for large values of anisotropy parameter. In addition,
+for small values of magnetic field the concurrence measure is appropriate
+indicator for quantum phase transition, but for large values of magnetic field
+the Berry phase shows a sharp changes in the phase transition points. The
+results show that the Berry phase and concurrence form a complementary system
+from phase transition point of view.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.06680</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.06680</id><created>2015-12-21</created><updated>2016-08-11</updated><authors><author><keyname>Akashi</keyname><forenames>Ryosuke</forenames></author><author><keyname>Sano</keyname><forenames>Wataru</forenames></author><author><keyname>Arita</keyname><forenames>Ryotaro</forenames></author><author><keyname>Tsuneyuki</keyname><forenames>Shinji</forenames></author></authors><title>Possible &quot;Magn\'eli&quot; phases and self-alloying in the superconducting
+  sulfur hydride</title><categories>cond-mat.supr-con</categories><comments>11 pages, 10 figures. ver2: Tc calculation and Xray simulation added</comments><journal-ref>Phys. Rev. Lett. 117, 075503 (2016)</journal-ref><doi>10.1103/PhysRevLett.117.075503</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We theoretically give an infinite number of metastable crystal structures for
+the superconducting sulfur hydride H$_{x}$S under pressure. It has been thought
+that theoretically predicted structures of H$_{2}$S and H$_{3}$S exhibit low
+and high $T_{\rm c}$ in the experiment, respectively. The newly found
+structures are long-period modulated crystals where slab-like H$_{2}$S and
+H$_{3}$S regions intergrow in a microscopic scale. The extremely small
+formation enthalpy for the H$_{2}$S--H$_{3}$S boundary indicated with the
+first-principles calculations suggests possible alloying of these phases
+through formation of local H$_{3}$S regions. The modulated structures and
+gradual alloying transformations between them not only explain the peculiar
+pressure dependence of $T_{\rm c}$ in sulfur hydride observed experimentally,
+but also could prevail in the experimental samples under various compression
+schemes.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1512.08794</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1512.08794</id><created>2015-12-29</created><updated>2016-01-07</updated><authors><author><keyname>Fargion</keyname><forenames>D.</forenames></author><author><keyname>Oliva</keyname><forenames>P.</forenames></author><author><keyname>Ucci</keyname><forenames>G.</forenames></author></authors><title>Why not any tau double bang in Icecube, yet?</title><categories>astro-ph.HE astro-ph.IM hep-ph</categories><comments>11 pages, 3 figures</comments><report-no>C14-05-26.7</report-no><journal-ref>PoS FRAPWS2014 (2016) 028, ISSN: 18248039</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  High Energy Neutrino Astronomy has been revealed by a sudden change in the
+flavor composition around maximal energies since three years of recording in
+ice km detector. However these discover didn' t led to any clear promised
+Neutrino Astronomy land yet. No correlation with hard gamma sources was found.
+Moreover the astrophysical spectra expected at Fermi value, seem to converge to
+a softer value, also required to avoid any Glashow resonant neutrino signal. We
+suggest a main solution within a composite flux ruled by prompt atmospheric
+neutrinos. Nevertheless the recent discover of twentyone crossing muons at
+hundreds TeVs had shown a first narrow overlapped doublet and a correlated
+track with a peculiar hard UHECR event clustering pointing to a well known
+microjet in bynary precession; these first connections hint for a non
+negligible astrophysical component making neutrino astronomy anyway already
+more than a hope.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1601.00180</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1601.00180</id><created>2016-01-02</created><updated>2016-08-11</updated><authors><author><keyname>Li</keyname><forenames>Xiang</forenames></author><author><keyname>Hu</keyname><forenames>Yi-Ming</forenames></author><author><keyname>Fan</keyname><forenames>Yi-Zhong</forenames></author><author><keyname>Wei</keyname><forenames>Da-Ming</forenames></author></authors><title>GRB/GW association: Long-short GRB candidates, time-lag, measuring
+  gravitational wave velocity and testing Einstein's equivalence principle</title><categories>astro-ph.HE gr-qc</categories><comments>12 pages, 3 figures, published in The Astrophysical Journal</comments><journal-ref>The Astrophysical Journal, Volume 827 (2016), Number 1, 75</journal-ref><doi>10.3847/0004-637X/827/1/75</doi><license>http://creativecommons.org/licenses/by-nc-sa/4.0/</license><abstract>  Short-duration gamma-ray bursts (SGRBs) are widely believed to be powered by
+the mergers of compact binaries, such as binary neutron stars or possibly
+neutron star-black hole binaries. Though the prospect of detecting SGRBs with
+gravitational wave (GW) signals by the advanced Laser Interferometer
+Gravitational-Wave Observatory (LIGO)/VIRGO network is promising, no known SGRB
+has been found within the expected advanced LIGO/VIRGO sensitivity range for
+binary neutron star systems. We find, however, that the two long-short GRBs
+(GRB 060505 and GRB 060614) may be within the horizon of advanced GW detectors.
+In the upcoming era of GW astronomy, the merger origin of some long-short GRBs,
+as favored by the macronova signature displayed in GRB 060614, can be
+unambiguously tested. The model-dependent time lags between the merger and the
+onset of the prompt emission of the GRB are estimated. The comparison of such
+time lags between model predictions and the real data expected in the era of
+the GW astronomy would be helpful in revealing the physical processes taking
+place at the central engine (including the launch of the relativistic outflow,
+the emergence of the outflow from the dense material ejected during the merger,
+and the radiation of gamma rays). We also show that the speed of GWs, with or
+without a simultaneous test of Einstein's equivalence principle, can be
+directly measured to an accuracy of $\sim 3\times 10^{-8}~{\rm cm~s^{-1}}$ or
+even better in the advanced LIGO/VIRGO era. The Astrophysical Journal, Volume
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1601.05101</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1601.05101</id><created>2016-01-19</created><updated>2016-08-11</updated><authors><author><keyname>Ingalls</keyname><forenames>James G.</forenames></author><author><keyname>Krick</keyname><forenames>J. E.</forenames></author><author><keyname>Carey</keyname><forenames>S. J.</forenames></author><author><keyname>Stauffer</keyname><forenames>John R.</forenames></author><author><keyname>Lowrance</keyname><forenames>Patrick J.</forenames></author><author><keyname>Grillmair</keyname><forenames>Carl J.</forenames></author><author><keyname>Buzasi</keyname><forenames>Derek</forenames></author><author><keyname>Deming</keyname><forenames>Drake</forenames></author><author><keyname>Diamond-Lowe</keyname><forenames>Hannah</forenames></author><author><keyname>Evans</keyname><forenames>Thomas M.</forenames></author><author><keyname>Morello</keyname><forenames>G.</forenames></author><author><keyname>Stevenson</keyname><forenames>Kevin B.</forenames></author><author><keyname>Wong</keyname><forenames>Ian</forenames></author><author><keyname>Capak</keyname><forenames>Peter</forenames></author><author><keyname>Glaccum</keyname><forenames>William</forenames></author><author><keyname>Laine</keyname><forenames>Seppo</forenames></author><author><keyname>Surace</keyname><forenames>Jason</forenames></author><author><keyname>Storrie-Lombardi</keyname><forenames>Lisa</forenames></author></authors><title>Repeatability and Accuracy of Exoplanet Eclipse Depths Measured with
+  Post-Cryogenic Spitzer</title><categories>astro-ph.IM astro-ph.EP</categories><comments>Astronomical Journal, Accepted 2016 May 26; 33 Pages; 19 figures</comments><journal-ref>AJ, 152, 44 (2016)</journal-ref><doi>10.3847/0004-6256/152/2/44</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We examine the repeatability, reliability, and accuracy of differential
+exoplanet eclipse depth measurements made using the InfraRed Array Camera
+(IRAC) on the Spitzer Space Telescope during the post-cryogenic mission. We
+have re-analyzed an existing 4.5 {\mu}m data set, consisting of 10 observations
+of the XO-3b system during secondary eclipse, using seven different techniques
+for removing correlated noise. We find that, on average, for a given technique,
+the eclipse depth estimate is repeatable from epoch to epoch to within 156
+parts per million (ppm). Most techniques derive eclipse depths that do not vary
+by more than a factor 3 of the photon noise limit. All methods but one
+accurately assess their own errors: for these methods, the individual
+measurement uncertainties are comparable to the scatter in eclipse depths over
+the 10 epoch sample. To assess the accuracy of the techniques as well as to
+clarify the difference between instrumental and other sources of measurement
+error, we have also analyzed a simulated data set of 10 visits to XO-3b, for
+which the eclipse depth is known. We find that three of the methods (BLISS
+mapping, Pixel Level Decorrelation, and Independent Component Analysis) obtain
+results that are within three times the photon limit of the true eclipse depth.
+When averaged over the 10 epoch ensemble, 5 out of 7 techniques come within 60
+ppm of the true value. Spitzer exoplanet data, if obtained following current
+best practices and reduced using methods such as those described here, can
+measure repeatable and accurate single eclipse depths, with close to
+photon-limited results.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1601.05497</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1601.05497</id><created>2016-01-20</created><updated>2016-08-10</updated><authors><author><keyname>Cai</keyname><forenames>Rong-Gen</forenames></author><author><keyname>Guo</keyname><forenames>Zong-Kuan</forenames></author><author><keyname>Yang</keyname><forenames>Tao</forenames></author></authors><title>Dodging the cosmic curvature to probe the constancy of the speed of
+  light</title><categories>astro-ph.CO gr-qc</categories><comments>10 pages, several corrections and updates to match the published
+  version</comments><journal-ref>JCAP08(2016)016</journal-ref><doi>10.1088/1475-7516/2016/08/016</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We develop a new model-independent method to probe the constancy of the speed
+of light $c$. In our method, the degeneracy between the cosmic curvature and
+the speed of light can be eliminated, which makes the test more natural and
+general. Combining the independent observations of Hubble parameter $H(z)$ and
+luminosity distance $d_L(z)$, we use the model-independent smoothing technique,
+Gaussian processes, to reconstruct them and then detect variation of the speed
+of light. We find no signal of deviation from the present value of the speed of
+light $c_0$. Moreover, to demonstrate the improvement in probing the constancy
+of the speed of light from future experiments, we produce a series of simulated
+data. The Dark Energy Survey will be able to detect $\Delta c /c_0 \sim 1\%$ at
+$\sim 1.5\sigma$ confidence level and $\Delta c /c_0 \sim 2\%$ at $\sim
+3\sigma$ confidence level. If the errors are reduced to one-tenth of the
+expected DES ones, it can detect a $\Delta c /c_0 \sim 0.1\%$ variation at
+$\sim 2\sigma$ confidence level.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1602.00625</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1602.00625</id><created>2016-02-01</created><updated>2016-07-28</updated><authors><author><keyname>Brown</keyname><forenames>Ana M.</forenames></author><author><keyname>Sundararaman</keyname><forenames>Ravishankar</forenames></author><author><keyname>Narang</keyname><forenames>Prineha</forenames></author><author><keyname>Goddard</keyname><forenames>William A.</forenames><suffix>III</suffix></author><author><keyname>Atwater</keyname><forenames>Harry A.</forenames></author></authors><title>Ab initio phonon coupling and optical response of hot electrons in
+  plasmonic metals</title><categories>physics.comp-ph cond-mat.mtrl-sci physics.optics</categories><comments>10 pages with 12 figures. SI includes tabulation of temperature and
+  frequency dependent dielectric functions</comments><journal-ref>Phys. Rev. B 94, 075120 (2016)</journal-ref><doi>10.1103/PhysRevB.94.075120</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Ultrafast laser measurements probe the non-equilibrium dynamics of excited
+electrons in metals with increasing temporal resolution. Electronic structure
+calculations can provide a detailed microscopic understanding of hot electron
+dynamics, but a parameter-free description of pump-probe measurements has not
+yet been possible, despite intensive research, because of the phenomenological
+treatment of electron-phonon interactions. We present ab initio predictions of
+the electron-temperature dependent heat capacities and electron-phonon coupling
+coefficients of plasmonic metals. We find substantial differences from
+free-electron and semi-empirical estimates, especially in noble metals above
+transient electron temperatures of 2000 K, because of the previously-neglected
+strong dependence of electron-phonon matrix elements on electron energy. We
+also present first-principles calculations of the electron-temperature
+dependent dielectric response of hot electrons in plasmonic metals, including
+direct interband and phonon-assisted intraband transitions, facilitating
+complete theoretical predictions of the time-resolved optical probe signatures
+in ultrafast laser experiments.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1602.03126</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1602.03126</id><created>2016-02-08</created><updated>2016-08-11</updated><authors><author><keyname>Riquelme</keyname><forenames>Mario</forenames></author><author><keyname>Quataert</keyname><forenames>Eliot</forenames></author><author><keyname>Verscharen</keyname><forenames>Daniel</forenames></author></authors><title>PIC Simulations of the Effect of Velocity Space Instabilities on
+  Electron Viscosity and Thermal Conduction</title><categories>physics.plasm-ph astro-ph.HE</categories><comments>10 pages, 8 figures</comments><doi>10.3847/0004-637X/824/2/123</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In low-collisionality plasmas, velocity-space instabilities are a key
+mechanism providing an effective collisionality for the plasma. We use
+particle-in-cell (PIC) simulations to study the interplay between electron and
+ion-scale velocity-space instabilities and their effect on electron pressure
+anisotropy, viscous heating, and thermal conduction. The adiabatic invariance
+of the magnetic moment in low-collisionality plasmas leads to pressure
+anisotropy, $p_{\perp,j} &gt; p_{||,j}$, if the magnetic field $\vec{B}$ is
+amplified ($p_{\perp,j}$ and $p_{||,j}$ denote the pressure of species $j$
+[electron, ion] perpendicular and parallel to $\vec{B}$). If the resulting
+anisotropy is large enough, it can in turn trigger small-scale plasma
+instabilities. Our PIC simulations explore the nonlinear regime of the mirror,
+ion-cyclotron, and electron whistler instabilities, through continuous
+amplification of the magnetic field $|\vec{B}|$ by an imposed shear in the
+plasma. In the regime $1 \lesssim \beta_j \lesssim 20$ ($\beta_j \equiv 8\pi
+p_j/|\vec{B}|^2$), the saturated electron pressure anisotropy, $\Delta
+p_e/p_{||,e}$, is determined mainly by the (electron-lengthscale) whistler
+marginal stability condition, with a modest factor of $\sim 1.5-2$ decrease due
+to the trapping of electrons by the mirrors. We explicitly calculate the mean
+free path of the electrons and ions along the mean magnetic field and provide a
+simple physical prescription for the mean free path and thermal conductivity in
+low-collisionality $\beta_j \gtrsim 1$ plasmas. Our results imply that
+velocity-space instabilities likely decrease the thermal conductivity of plasma
+in the outer parts of massive, hot, galaxy clusters. We also discuss the
+implications of our results for electron heating and thermal conduction in
+low-collisionality accretion flows onto black holes, including Sgr A* in the
+Galactic Center.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1602.04460</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1602.04460</id><created>2016-02-14</created><updated>2016-08-10</updated><authors><author><keyname>Li</keyname><forenames>Xiang</forenames></author><author><keyname>Zhang</keyname><forenames>Fu-Wen</forenames></author><author><keyname>Yuan</keyname><forenames>Qiang</forenames></author><author><keyname>Jin</keyname><forenames>Zhi-Ping</forenames></author><author><keyname>Fan</keyname><forenames>Yi-Zhong</forenames></author><author><keyname>Liu</keyname><forenames>Si-Ming</forenames></author><author><keyname>Wei</keyname><forenames>Da-Ming</forenames></author></authors><title>Implications of the Tentative Association between GW150914 and a {\it
+  Fermi}-GBM Transient</title><categories>astro-ph.HE astro-ph.CO gr-qc</categories><comments>6 emulateapj pages including 2 eps figures, the version published in
+  ApJL</comments><journal-ref>The Astrophysical Journal Letters, 827: L16 (2016)</journal-ref><doi>10.3847/2041-8205/827/1/L16</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The merger-driven Gamma-ray Bursts (GRBs) and their associated gravitational
+wave (GW) radiation, if both successfully detected, have some far-reaching
+implications, including for instance: (i) The statistical comparison of the
+physical properties of the short/long-short GRBs with and without GW detection
+can test the general origin model; (ii) Revealing the physical processes taking
+place at the central engine; (iii) Measuring the velocity of the Gravitational
+wave directly/accurately. In this work we discuss these implications in the
+case of possible association of GW150914/ GBM transient 150914. We compared GBM
+transient 150914 with other SGRBs and found that such an event {may be} a
+distinct outlier in some statistical diagrams, possibly due to its specific
+binary-black-hole merger origin. However, the presence of a &quot;new&quot; group of
+SGRBs with &quot;unusual&quot; physical parameters is also possible. If the outflow of
+GBM transient 150914 was launched by the accretion onto the nascent black hole,
+the magnetic activity rather than the neutrino process is likely responsible
+for the energy extraction and the accretion disk mass is estimated to be $\sim
+10^{-5}~M_\odot$. The GW150914/GBM transient 150914 association, {if confirmed,
+would} provide the first opportunity to directly measure the GW velocity and
+its departure from the speed of the light {should be within} a factor of $\sim
+10^{-17}$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1602.04534</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1602.04534</id><created>2016-02-14</created><updated>2016-08-10</updated><authors><author><keyname>Zhou</keyname><forenames>Di</forenames></author></authors><title>Anomalous Sound Velocity and Dielectric Shift in Glass: a
+  Renormalization Technique for Mechanical and Dielectric Susceptibilities from
+  Generic Coupled Block Model</title><categories>cond-mat.dis-nn</categories><comments>This paper has been withdrawn by the author, because the
+  renormalization equation lacks a detailed discussion of the sign of the glass
+  non-elastic susceptibility, which may lead to a qualitatively different
+  conclusion compared to the current result in this paper</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Glass sound velocity shift was observed to be longarithmically temperature
+dependent in both relaxation and resonance regimes: $\Delta c/c=\mathcal{C}\ln
+T$. It does not monotonically increase with temperature from $T=0$K, but to
+reach a maximum around a few Kelvin. Different from tunneling-two-level-system
+(TTLS) which gives the slope ratio between relaxation and resonance regimes
+$\mathcal{C}^{\rm rel }:\mathcal{C}^{\rm res }=-\frac{1}{2}:1$, we develop a
+generic coupled block model to give $\mathcal{C}^{\rm rel }:\mathcal{C}^{\rm
+res }=-1:1$, which agrees well with the majority of experimental measurements.
+We use electric dipole-dipole interaction to carry out a similar behavior for
+glass dielectric constant shift $\Delta \epsilon/\epsilon=\mathcal{C}\ln T$.
+The slope ratio between relaxation and resonance regimes is $\mathcal{C}^{\rm
+rel}:\mathcal{C}^{\rm res}=1:-1$ which agrees with dielectric measurements
+quite well. By developing a renormalization procedure for non-elastic
+stress-stress and dielectric susceptibilities, we prove these universalities
+essentially come from $1/r^3$ long range interactions, independent of
+materials' microscopic properties.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1603.00450</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1603.00450</id><created>2016-03-01</created><updated>2016-08-11</updated><authors><author><keyname>Hanakata</keyname><forenames>Paul Z.</forenames></author><author><keyname>Carvalho</keyname><forenames>Alexandra</forenames></author><author><keyname>Campbell</keyname><forenames>David K.</forenames></author><author><keyname>Park</keyname><forenames>Harold S.</forenames></author></authors><title>Polarization and valley switching in monolayer group-IV
+  monochalcogenides</title><categories>cond-mat.mtrl-sci</categories><journal-ref>Physical Review B 94 (3), 035304 (2016)</journal-ref><doi>10.1103/PhysRevB.94.035304</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Group-IV monochalcogenides are a family of two-dimensional puckered materials
+with an orthorhombic structure that is comprised of polar layers. In this
+article, we use first principles calculations to show the multistability of
+monolayer SnS and GeSe, two prototype materials where the direction of the
+puckering can be switched by application of tensile stress or electric field.
+Furthermore, the two inequivalent valleys in momentum space, which are dictated
+by the puckering orientation, can be excited selectively using linearly
+polarized light, and this provides an additional tool to identify the
+polarization direction. Our findings suggest that SnS and GeSe monolayers may
+have observable ferroelectricity and multistability, with potential
+applications in information storage.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1603.02395</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1603.02395</id><created>2016-03-08</created><authors><author><keyname>Nagao</keyname><forenames>Kazuma</forenames></author><author><keyname>Danshita</keyname><forenames>Ippei</forenames></author></authors><title>Damping of the Higgs and Nambu-Goldstone modes of superfluid Bose gases
+  at finite temperatures</title><categories>cond-mat.quant-gas</categories><comments>17 pages, 7 figures</comments><report-no>YITP-16-34</report-no><journal-ref>Progress of Theoretical and Experimental Physics, 063I01 (2016)</journal-ref><doi>10.1093/ptep/ptw061</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study collective modes of superfluid Bose gases in optical lattices at
+commensurate fillings. We focus on the vicinity of the quantum phase transition
+to the Mott insulator, where there exists the Higgs amplitude mode in addition
+to the Nambu-Goldstone phase mode associated with the spontaneous U(1) symmetry
+breaking. We analyze finite-temperature effects on the damping of the
+collective modes by using an effective spin-1 model and the field theoretical
+methods based on the finite-temperature Green's function. We calculate the
+damping rates up to 1-loop order and evaluate them analytically and
+numerically. We show that the damping rate of the Higgs mode increases with
+increasing the temperature but it remains underdamped up to a typical
+temperature achieved in experiments. Moreover, we find that the Nambu-Goldstone
+mode attenuates via a Landau damping process resulting from interactions with
+the Higgs mode and it can be overdamped at the typical temperature in a certain
+parameter region.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1603.05672</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1603.05672</id><created>2016-03-17</created><authors><author><keyname>Fallek</keyname><forenames>Spencer</forenames></author><author><keyname>Herold</keyname><forenames>Creston</forenames></author><author><keyname>McMahon</keyname><forenames>Brian</forenames></author><author><keyname>Maller</keyname><forenames>Kara</forenames></author><author><keyname>Brown</keyname><forenames>Kenneth</forenames></author><author><keyname>Amini</keyname><forenames>Jason</forenames></author></authors><title>Transport Implementation of the Bernstein-Vazirani Algorithm with Ion
+  Qubits</title><categories>quant-ph physics.atom-ph</categories><journal-ref>New J. Phys.18(2016)083030</journal-ref><doi>10.1088/1367-2630/18/8/083030</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Using trapped ion quantum bits in a scalable microfabricated surface trap, we
+perform the Bernstein-Vazirani algorithm. Our architecture relies upon ion
+transport and can readily be expanded to larger systems. The algorithm is
+demonstrated using two- and three-ion chains. For three ions, an improvement is
+achieved compared to a classical system using the same number of oracle
+queries. For two ions and one query, we correctly determine an unknown bit
+string with probability 97.6(8)%. For three ions, we succeed with probability
+80.9(3)%.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.00725</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.00725</id><created>2016-04-03</created><updated>2016-06-20</updated><authors><author><keyname>Ch&#xe1;vez-Carlos</keyname><forenames>J.</forenames></author><author><keyname>Bastarrachea-Magnani</keyname><forenames>M. A.</forenames></author><author><keyname>Lerma-Hern&#xe1;ndez</keyname><forenames>S.</forenames></author><author><keyname>Hirsch</keyname><forenames>J. G.</forenames></author></authors><title>Classical chaos in atom-field systems</title><categories>nlin.CD cond-mat.quant-gas quant-ph</categories><comments>13 pages, 17 figures</comments><journal-ref>Phys. Rev. E 94, 022209 (2016)</journal-ref><doi>10.1103/PhysRevE.94.022209</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The relation between the onset of chaos and critical phenomena, like Quantum
+Phase Transitions (QPT) and Excited-State Quantum Phase transitions (ESQPT), is
+analyzed for atom-field systems. While it has been speculated that the onset of
+hard chaos is associated with ESQPT based in the resonant case, the
+off-resonant cases show clearly that both phenomena, ESQPT and chaos, respond
+to different mechanisms. The results are supported in a detailed numerical
+study of the dynamics of the semiclassical Hamiltonian of the Dicke model. The
+appearance of chaos is quantified calculating the largest Lyapunov exponent for
+a wide sample of initial conditions in the whole available phase space for a
+given energy. The percentage of the available phase space with chaotic
+trajectories is evaluated as a function of energy and coupling between the
+qubit and bosonic part, allowing to obtain maps in the space of coupling and
+energy, where ergodic properties are observed in the model. Different sets of
+Hamiltonian parameters are considered, including resonant and off-resonant
+cases.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01305</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01305</id><created>2016-04-05</created><updated>2016-08-11</updated><authors><author><keyname>Bury</keyname><forenames>Marcin</forenames></author><author><keyname>Deak</keyname><forenames>Michal</forenames></author><author><keyname>Kutak</keyname><forenames>Krzysztof</forenames></author><author><keyname>Sapeta</keyname><forenames>Sebastian</forenames></author></authors><title>Single and double inclusive forward jet production at the LHC at
+  $\sqrt{s}$ = 7 and 13 TeV</title><categories>hep-ph hep-ex</categories><comments>14 pages, 5 figures, version accepted for PLB</comments><report-no>IFJPAN-IV-2016-6; CERN-TH-2016-077</report-no><journal-ref>Physics Letters B, Volume 760, 10 September 2016, Pages 594-601</journal-ref><doi>10.1016/j.physletb.2016.07.041</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We provide a description of the transverse momentum spectrum of single
+inclusive forward jets produced at the LHC, at the center-of-mass energies of 7
+and 13 TeV, using the high energy factorization (HEF) framework. We
+subsequently study double inclusive forward jet production and, in particular,
+we calculate contributions to azimuthal angle distributions coming from double
+parton scattering. We also compare our results for double inclusive jet
+production to those obtained with the Pythia Monte Carlo generator. This
+comparison confirms that the HEF resummation acts like an initial state parton
+shower. It also points towards the need to include final state radiation
+effects in the HEF formalism.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01381</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01381</id><created>2016-03-22</created><authors><author><keyname>Koshev</keyname><forenames>N. A.</forenames></author><author><keyname>Koshev</keyname><forenames>A. N.</forenames></author><author><keyname>Kuzina</keyname><forenames>V. V.</forenames></author></authors><title>Voltammetry: mathematical modelling and Inverse Problem</title><categories>physics.comp-ph</categories><comments>12 pages, 3 figures, 2 tables</comments><journal-ref>Chemometrics and Intelligent Laboratory Systems, Vol.157, 2016,
+  pp.78-84</journal-ref><doi>10.1016/j.chemolab.2016.06.022</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We propose the fast semi-analytical method of modelling the polarization
+curves in the voltammetric experiment. The method is based on usage of the
+special func- tions and shows a big calculation speed and a high accuracy and
+stability. Low computational needs of the proposed algorithm allow us to state
+the set of Inverse Problems of voltammetry for the reconstruction of metal ions
+concentrations or the other parameters of the electrolyte under investigation.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01438</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01438</id><created>2016-04-05</created><authors><author><keyname>Gutierrez</keyname><forenames>Nicolas</forenames></author></authors><title>Inclusive production of X$\rightarrow b\bar{b}$ plus a recoil for the
+  LHC Run-II</title><categories>hep-ph</categories><comments>6 pages, 7 figures</comments><journal-ref>EPL (Europhysics Letters), 115 (2016) 11002</journal-ref><doi>10.1209/0295-5075/115/11002</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  This letter presents a study of the inclusive production of X$\rightarrow
+b\bar{b}$ plus a recoil, using simulated samples of $pp$ collisions at
+$\sqrt{s}=14$ TeV for an integrated luminosity in the range between 30
+fb$^{-1}$ to 3 ab$^{-1}$. The case for experiments to include un-prescaled
+$b$-tag multijet triggers for this topology is made and the ideal jet
+thresholds are discussed. The sensitivity to Standard Model Higgs with a
+transverse momentum of at least 200 GeV is evaluated with respect to a
+continuous background, dominated by multijet processes. The mass of
+$b$-jet-pairs is analysed, quoting sensitivity to cross-sections in the range
+of 1 to 2 pb, for 100 fb$^{-1}$, covering the Higgs production cross section of
+1.8 pb. The trigger strategy presented in this letter is compared to triggers
+already in use, showing an increase on the signal efficiency for masses below
+200 GeV and a performance comparable to a logic OR of all the currently
+available akin triggers for higher masses. The robustness of the expected
+sensitivity against systematic uncertainties is estimated by considering
+various typical sources, such as those on the fitting parameters of the
+continuous background, shape uncertainties affecting the signal acceptance and
+the background modelling. The accuracy of a Higgs production cross section
+measurements is also discussed, quoting sensitivity to deviations of 50% for
+100 fb$^{-1}$ and 10% for 3 ab$^{-1}$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01456</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01456</id><created>2016-04-05</created><updated>2016-08-11</updated><authors><author><keyname>Rollins</keyname><forenames>Jameson Graef</forenames></author></authors><title>Distributed State Machine Supervision for Long-baseline
+  Gravitational-wave Detectors</title><categories>astro-ph.IM gr-qc</categories><comments>Version 2: 11 pages, 9 figures. Submitted to Review of Scientific
+  Instruments</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The Laser Interferometer Gravitational-wave Observatory (LIGO) consists of
+two identical yet independent, widely-separated, long-baseline
+gravitational-wave detectors. Each Advanced LIGO detector consists of complex
+optical-mechanical systems isolated from the ground by multiple layers of
+active seismic isolation, all controlled by hundreds of fast, digital, feedback
+control systems. This article describes a novel state machine-based automation
+platform developed to handle the automation and supervisory control challenges
+of these detectors. The platform, called \textit{Guardian}, consists of
+distributed, independent, state machine automaton nodes organized
+hierarchically for full detector control. User code is written in standard
+Python and the platform is designed to facilitate the fast-paced development
+process associated with commissioning the complicated Advanced LIGO
+instruments. While developed specifically for the Advanced LIGO detectors,
+Guardian is a generic state machine automation platform that is useful for
+experimental control at all levels, from simple table-top setups to large-scale
+multi-million dollar facilities.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01488</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01488</id><created>2016-04-06</created><updated>2016-04-07</updated><authors><author><keyname>Dutta</keyname><forenames>T.</forenames></author><author><keyname>De Munshi</keyname><forenames>D.</forenames></author><author><keyname>Yum</keyname><forenames>D.</forenames></author><author><keyname>Rebhi</keyname><forenames>R.</forenames></author><author><keyname>Mukherjee</keyname><forenames>M.</forenames></author></authors><title>An exacting transition probability measurement - a direct test of atomic
+  many-body theories</title><categories>physics.atom-ph</categories><comments>9 pages, 5 figures</comments><journal-ref>Sci Rep 6, 29772 (2016)</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A new protocol for measuring the branching fraction of hydrogenic atoms with
+only statistically limited uncertainty is proposed and demonstrated for the
+decay of the P$_{3/2}$ level of the barium ion, with precision below $0.5\%$.
+Heavy hydrogenic atoms like the barium ion are test beds for fundamental
+physics such as atomic parity violation and they also hold the key to
+understanding nucleo-synthesis in stars. To draw definitive conclusion about
+possible physics beyond the standard model by measuring atomic parity violation
+in the barium ion it is necessary to measure the dipole transition
+probabilities of low-lying excited states with precision better than $1\%$.
+Furthermore, enhancing our understanding of the $\it{barium-puzzle}$ in barium
+stars requires branching fraction data for proper modelling of
+nucleo-synthesis. Our measurements are the first to provide a direct test of
+quantum many-body calculations on the barium ion with precision below one
+percent and more importantly with no known systematic uncertainties. The unique
+measurement protocol proposed here can be easily extended to any decay with
+more than two channels and hence paves the way for measuring the branching
+fractions of other hydrogenic atoms with no significant systematic
+uncertainties.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01535</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01535</id><created>2016-04-06</created><updated>2016-07-28</updated><authors><author><keyname>Li</keyname><forenames>Ran</forenames></author><author><keyname>Tian</keyname><forenames>Yu</forenames></author><author><keyname>Zhang</keyname><forenames>Hongbao</forenames></author><author><keyname>Zhao</keyname><forenames>Junkun</forenames></author></authors><title>Zero Temperature Holographic Superfluids with Two Competing Orders</title><categories>hep-th gr-qc</categories><comments>19 pages, 9 figures. Refs added. Version to appear in PRD</comments><journal-ref>Phys. Rev. D 94, 046003 (2016)</journal-ref><doi>10.1103/PhysRevD.94.046003</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We initiate the investigation of the zero temperature holographic superfluids
+with two competing orders, where besides the vacuum phase, two one band
+superfluid phases, the coexistent superfluid phase has also been found in the
+AdS soliton background for the first time. We construct the complete phase
+diagram in the $e-\mu$ plane by numerics, which is consistent with our
+qualitative analysis. Furthermore, we calculate the corresponding optical
+conductivity and sound speed by the linear response theory. The onset of pole
+of optical conductivity at $\omega=0$ indicates that the spontaneous breaking
+phase always represents the superfluid phase, and the residue of pole is
+increased with the chemical potential, which is consistent with the fact that
+the particle density is essentially the superfluid density for zero temperature
+superfluids. In addition, the resulting sound speed demonstrates the
+non-smoothness at the critical points as the order parameter of condensate,
+which indicates that the phase transitions can also be identified by the
+behavior of sound speed. Moreover, as expected from the boundary conformal
+field theory, the sound speed saturates to $\frac{1}{\sqrt{2}}$ at the large
+chemical potential limit for our two band holographic superfluid model.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.01714</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.01714</id><created>2016-04-06</created><updated>2016-04-08</updated><authors><author><keyname>Chen</keyname><forenames>Kai</forenames></author><author><keyname>Lin</keyname><forenames>Weiwei</forenames></author><author><keyname>Chien</keyname><forenames>C. L.</forenames></author><author><keyname>Zhang</keyname><forenames>Shufeng</forenames></author></authors><title>Temperature Dependence of Angular Momentum Transport Across Interfaces</title><categories>cond-mat.mtrl-sci</categories><doi>10.1103/PhysRevB.94.054413</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Angular momentum transport in magnetic multilayered structures plays a
+central role in spintronic physics and devices. The angular momentum currents
+or spin currents are carried by either quasi-particles such as electrons and
+magnons, or by macroscopic order parameters such as local magnetization of
+ferromagnets. Based on the generic interface exchange interaction, we develop a
+microscopic theory that describes interfacial spin conductance for various
+interfaces among non-magnetic metals, ferromagnetic and antiferromagnetic
+insulators. Spin conductance and its temperature dependence are obtained for
+different spin batteries including spin pumping, temperature gradient and spin
+Hall effect. As an application of our theory, we calculate the spin current in
+a trilayer made of a ferromagnetic insulator, an antiferromagnetic insulator
+and a non-magnetic heavy metal. The calculated results on the temperature
+dependence of spin conductance quantitatively agree with the existing
+experiments.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.02385</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.02385</id><created>2016-04-08</created><updated>2016-08-11</updated><authors><author><keyname>Breton</keyname><forenames>Dominique</forenames></author><author><keyname>De Cacqueray</keyname><forenames>Victor</forenames></author><author><keyname>Delagnes</keyname><forenames>&#xc9;ric</forenames></author><author><keyname>Grabas</keyname><forenames>Herv&#xe9;</forenames></author><author><keyname>Maalmi</keyname><forenames>Jihane</forenames></author><author><keyname>Minafra</keyname><forenames>Nicola</forenames></author><author><keyname>Royon</keyname><forenames>Christophe</forenames></author><author><keyname>Saimpert</keyname><forenames>Matthias</forenames></author></authors><title>Measurements of timing resolution of ultra-fast silicon detectors with
+  the SAMPIC waveform digitizer</title><categories>physics.ins-det hep-ex</categories><comments>31 pages, 15 figures, accepted by Nuclear Inst. and Methods in
+  Physics Research, A</comments><doi>10.1016/j.nima.2016.08.019</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The SAMpler for PICosecond time (SAMPIC) chip has been designed by a
+collaboration including CEA/IRFU/SEDI, Saclay and CNRS/LAL/SERDI, Orsay. It
+benefits from both the quick response of a time to digital converter and the
+versatility of a waveform digitizer to perform accurate timing measurements.
+Thanks to the sampled signals, smart algorithms making best use of the pulse
+shape can be used to improve time resolution. A software framework has been
+developed to analyse the SAMPIC output data and extract timing information by
+using either a constant fraction discriminator or a fast cross-correlation
+algorithm. SAMPIC timing capabilities together with the software framework have
+been tested using pulses generated by a signal generator or by a silicon
+detector illuminated by a pulsed infrared laser. Under these ideal experimental
+conditions, the SAMPIC chip has proven to be capable of timing resolutions down
+to 4 ps with synthesized signals and 40 ps with silicon detector signals.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.02798</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.02798</id><created>2016-04-11</created><authors><author><keyname>Wimmer</keyname><forenames>Sebastian</forenames></author><author><keyname>Chadova</keyname><forenames>Kristina</forenames></author><author><keyname>Seemann</keyname><forenames>Marten</forenames></author><author><keyname>K&#xf6;dderitzsch</keyname><forenames>Diemo</forenames></author><author><keyname>Ebert</keyname><forenames>Hubert</forenames></author></authors><title>A fully relativistic description of spin-orbit torques by means of
+  linear response theory</title><categories>cond-mat.mtrl-sci cond-mat.mes-hall</categories><comments>12 pages, 6 tables, 3 figures</comments><journal-ref>Phys. Rev. B 94, 054415 (2016)</journal-ref><doi>10.1103/PhysRevB.94.054415</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Symmetry and magnitude of spin-orbit torques (SOT), i.e., current-induced
+torques on the magnetization of systems lacking inversion symmetry, are
+investigated in a fully relativistic linear response framework based on the
+Kubo formalism. By applying all space-time symmetry operations contained in the
+magnetic point group of a solid to the relevant response coefficient, the
+torkance expressed as torque-current correlation function, restrictions to the
+shape of the direct and inverse response tensors are obtained. These are shown
+to apply to the corresponding thermal analogues as well, namely the direct and
+inverse thermal SOT in response to a temperature gradient or heat current.
+Using an implementation of the Kubo-Bastin formula for the torkance into a
+first-principles multiple-scattering Green's function framework and accounting
+for disorder effects via the so-called coherent potential approximation (CPA),
+all contributions to the SOT in pure systems, dilute as well as concentrated
+alloys can be treated on equal footing. This way, material specific values for
+all torkance tensor elements in the fcc (111) trilayer alloy system Pt |
+Fe$_x$Co$_{1-x}$ | Cu are obtained over a wide concentration range and
+discussed in comparison to results for electrical and spin conductivity, as
+well as to previous work - in particular concerning symmetry w.r.t.
+magnetization reversal and the nature of the various contributions.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.05690</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.05690</id><created>2016-04-19</created><updated>2016-08-11</updated><authors><author><keyname>Miranda</keyname><forenames>O. G.</forenames></author><author><keyname>Tortola</keyname><forenames>M.</forenames></author><author><keyname>Valle</keyname><forenames>J. W. F.</forenames></author></authors><title>New ambiguity in probing CP violation in neutrino oscillations</title><categories>hep-ph hep-ex</categories><comments>6 pages, 6 figures, matches published version</comments><report-no>IFIC/16-21</report-no><journal-ref>Phys. Rev. Lett. 117, 061804 (2016)</journal-ref><doi>10.1103/PhysRevLett.117.061804</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  If neutrinos get mass via the seesaw mechanism the mixing matrix describing
+neutrino oscillations can be effectively non-unitary. We show that in this case
+the neutrino appearance probabilities involve a new CP phase, phi, associated
+to non-unitarity. This leads to an ambiguity in extracting the &quot;standard&quot;
+three--neutrino phase delta_CP, which can survive even after neutrino and
+antineutrino channels are combined. Its existence should be taken into account
+in the planning of any oscillation experiment aiming at a robust measurement of
+delta_CP.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.06437</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.06437</id><created>2016-04-21</created><updated>2016-05-03</updated><authors><author><keyname>Braun</keyname><forenames>Andreas P.</forenames></author><author><keyname>Watari</keyname><forenames>Taizan</forenames></author></authors><title>Heterotic-Type IIA Duality and Degenerations of K3 Surfaces</title><categories>hep-th</categories><comments>76 pages, 8 figures; v2: minor changes</comments><report-no>IPMU16-0055</report-no><journal-ref>JHEP 1608 (2016) 034</journal-ref><doi>10.1007/JHEP08(2016)034</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the duality between four-dimensional N=2 compactifications of
+heterotic and type IIA string theories. Via adiabatic fibration of the duality
+in six dimensions, type IIA string theory compactified on a K3-fibred
+Calabi-Yau threefold has a potential heterotic dual compactification. This
+adiabatic picture fails whenever the K3 fibre degenerates into multiple
+components over points in the base of the fibration. Guided by monodromy, we
+identify such degenerate K3 fibres as solitons generalizing the NS5-brane in
+heterotic string theory. The theory of degenerations of K3 surfaces can then be
+used to find which solitons can be present on the heterotic side. Similar to
+small instanton transitions, these solitons escort singular transitions between
+different Calabi-Yau threefolds. Starting from well-known examples of
+heterotic--type IIA duality, such transitions can take us to type IIA
+compactifications with unknown heterotic duals.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1604.08176</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1604.08176</id><created>2016-04-27</created><updated>2016-08-11</updated><authors><author><keyname>Kaniewski</keyname><forenames>J&#x119;drzej</forenames></author></authors><title>Analytic and nearly optimal self-testing bounds for the
+  Clauser-Horne-Shimony-Holt and Mermin inequalities</title><categories>quant-ph</categories><comments>4 pages, 2 figures. v2: fixed an inconsistency in specifying the
+  extraction channel, improved presentation; v3: published version</comments><journal-ref>Phys. Rev. Lett. 117, 070402 (2016)</journal-ref><doi>10.1103/PhysRevLett.117.070402</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Self-testing refers to the phenomenon that certain extremal quantum
+correlations (almost) uniquely identify the quantum system under consideration.
+For instance observing the maximal violation of the CHSH inequality certifies
+that the two parties share a singlet. While self-testing results are known for
+several classes of states, in many cases they are only applicable if the
+observed statistics are almost perfect, which makes them unsuitable for
+practical applications. Practically relevant self-testing bounds are much less
+common and moreover they all result from a single numerical method (with one
+exception which we discuss in detail). In this work we present a new technique
+for proving analytic self-testing bounds of practically relevant robustness. We
+obtain improved bounds for the case of self-testing the singlet using the CHSH
+inequality (in particular we show that non-trivial fidelity with the singlet
+can be achieved as long as the violation exceeds $\beta^{*} = (16 + 14
+\sqrt{2})/17 \approx 2.11$). In case of self-testing the tripartite GHZ state
+using the Mermin inequality we derive a bound which not only improves on
+previously known results but turns out to be tight. We discuss other scenarios
+to which our technique can be immediately applied.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.00649</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.00649</id><created>2016-05-02</created><updated>2016-08-11</updated><authors><author><keyname>Kopp</keyname><forenames>Michael</forenames></author><author><keyname>Skordis</keyname><forenames>Constantinos</forenames></author><author><keyname>Thomas</keyname><forenames>Dan B.</forenames></author></authors><title>An extensive investigation of the Generalised Dark Matter model</title><categories>astro-ph.CO gr-qc</categories><comments>37 pages, 10 figures, minor changes to match to match Phys. Rev. D
+  94, 043512 (2016)</comments><journal-ref>Phys. Rev. D 94, 043512 (2016)</journal-ref><doi>10.1103/PhysRevD.94.043512</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The Cold Dark Matter (CDM) model, wherein the dark matter is treated as a
+pressureless perfect fluid, provides a good fit to galactic and cosmological
+data. With the advent of precision cosmology, it should be asked whether this
+simplest model needs to be extended, and whether doing so could improve our
+understanding of the properties of dark matter. One established
+parameterisation for generalising the CDM fluid is the Generalised Dark Matter
+(GDM) model, in which dark matter is an imperfect fluid with pressure and shear
+viscosity that fulfill certain closure equations. We investigate these closure
+equations and the three new parametric functions they contain: the background
+equation of state w, the speed of sound c_s^2 and the viscosity c_{vis}^2.
+Taking these functions to be constant parameters, we analyse an exact solution
+of the perturbed Einstein equations in a GDM-dominated universe and discuss the
+main effects of the three parameters on the Cosmic Microwave Background (CMB).
+Our analysis suggests that the CMB alone is not able to distinguish between the
+GDM sound speed and viscosity parameters, but that other observables, such as
+the matter power spectrum, are required to break this degeneracy. We also
+consider other descriptions of imperfect fluids that have a non-perturbative
+definition and relate these to the GDM model. In particular, we consider scalar
+fields, an effective field theory (EFT) of fluids, an EFT of Large Scale
+Structure, non-equilibrium thermodynamics and tightly-coupled fluids. These
+descriptions could be used to extend the GDM model into the nonlinear regime of
+structure formation, which is necessary if the wealth of data available on
+those scales is to be employed in constraining the model. We also derive the
+initial conditions for adiabatic and isocurvature perturbations and provide the
+result in a form ready for implementation in Einstein-Boltzmann solvers.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.01891</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.01891</id><created>2016-05-06</created><authors><author><keyname>Bilardello</keyname><forenames>Marco</forenames></author><author><keyname>Donadi</keyname><forenames>Sandro</forenames></author><author><keyname>Vinante</keyname><forenames>Andrea</forenames></author><author><keyname>Bassi</keyname><forenames>Angelo</forenames></author></authors><title>Bounds on collapse models from cold-atom experiments</title><categories>quant-ph</categories><comments>16 pages, 14 figures</comments><journal-ref>Physica A: Statistical Mechanics and its Applications, 462,
+  764-782 (2016)</journal-ref><doi>10.1016/j.physa.2016.06.134</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The spontaneous localization mechanism of collapse models induces a Brownian
+motion in all physical systems. This effect is very weak, but experimental
+progress in creating ultracold atomic systems can be used to detect it. In this
+paper, we considered a recent experiment [1], where an atomic ensemble was
+cooled down to picokelvins. Any Brownian motion induces an extra increase of
+the position variance of the gas. We study this effect by solving the dynamical
+equations for the Continuous Spontaneous Localizations (CSL) model, as well as
+for its non-Markovian and dissipative extensions. The resulting bounds, with a
+95% of confidence level, are beaten only by measurements of spontaneous X-ray
+emission and by experiments with cantilever (in the latter case, only for rC &gt;
+10^(-7) m, where rC is one of the two collapse parameters of the CSL model). We
+show that, contrary to the bounds given by X-ray measurements, non-Markovian
+effects do not change the bounds, for any reasonable choice of a frequency
+cutoff in the spectrum of the collapse noise. Therefore the bounds here
+considered are more robust. We also show that dissipative effects are
+unimportant for a large spectrum of temperatures of the noise, while for low
+temperatures the excluded region in the parameter space is the more reduced,
+the lower the temperature.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.03800</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.03800</id><created>2016-05-12</created><updated>2016-08-10</updated><authors><author><keyname>Huang</keyname><forenames>Wen</forenames></author><author><keyname>Scaffidi</keyname><forenames>Thomas</forenames></author><author><keyname>Sigrist</keyname><forenames>Manfred</forenames></author><author><keyname>Kallin</keyname><forenames>Catherine</forenames></author></authors><title>Leggett modes and multi-band superconductivity in Sr2RuO4</title><categories>cond-mat.supr-con</categories><comments>Published version, 9 pages, 2 figures</comments><journal-ref>Phys. Rev. B 94, 064508 (2016)</journal-ref><doi>10.1103/PhysRevB.94.064508</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Sr$_2$RuO$_4$ is a prototypical multi-band superconductor with three bands
+crossing the Fermi level. These bands exhibit distinct dimensional
+characteristics, with one quasi-2D $\gamma$-band and two quasi-1D $\alpha$- and
+$\beta$-bands. This leads to the expectation that the superconductivity on the
+$\gamma$-band may be only weakly Josephson-coupled to that on the other two
+bands. Based on an explicit microscopic weak coupling calculation appropriate
+for Sr$_2$RuO$_4$, we study the collective Leggett modes associated with the
+relative phase oscillations between the bands and show that a relatively soft
+Leggett mode exists due to the comparatively weaker inter-band Josephson
+coupling. These calculations also provide insight into why the superconducting
+gap magnitudes may be comparable on all three bands, despite the noticeable
+differences between the $\gamma$ and $\alpha, \beta$ bands. The analyses can be
+readily applied to other multi-band superconductors.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.05249</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.05249</id><created>2016-05-14</created><authors><author><keyname>Okninski</keyname><forenames>Andrzej</forenames></author></authors><title>Generalized solutions of the Dirac equation, W bosons, and beta decay</title><categories>physics.gen-ph</categories><comments>6 pages</comments><msc-class>35Q41</msc-class><journal-ref>Advances in High Energy Physics, Volume 2016 (2016), Article ID
+  2689742</journal-ref><doi>10.1155/2016/2689742</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the 7x7 Hagen-Hurley equations describing spin 1 particles. We split
+these equations, in the interacting case, into two Dirac equations with
+non-standard solutions. It is argued that these solutions describe decay of a
+virtual W boson in beta decay.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.08049</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.08049</id><created>2016-05-25</created><updated>2016-07-29</updated><authors><author><keyname>Garcia-Cely</keyname><forenames>Camilo</forenames></author><author><keyname>Heeck</keyname><forenames>Julian</forenames></author></authors><title>Indirect searches of dark matter via polynomial spectral features</title><categories>hep-ph astro-ph.HE</categories><comments>19 pages, modified title, added references, minor changes. To appear
+  in JCAP</comments><report-no>ULB-TH/16-07</report-no><journal-ref>JCAP08(2016)023</journal-ref><doi>10.1088/1475-7516/2016/08/023</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We derive the spectra arising from non-relativistic dark matter annihilations
+or decays into intermediary particles with arbitrary spin, which subsequently
+produce neutrinos or photons via two-body decays. Our approach is model
+independent and predicts spectral features restricted to a kinematic box. The
+overall shape within that box is a polynomial determined by the polarization of
+the decaying particle. We illustrate our findings with two examples. First,
+with the neutrino spectra arising from dark matter annihilations into the
+massive Standard Model gauge bosons. Second, with the gamma-ray and neutrino
+spectra generated by dark matter annihilations into hypothetical massive spin-2
+particles. Our results are in particular applicable to the 750 GeV diphoton
+excess observed at the LHC if interpreted as a spin-0 or spin-2 particle
+coupled to dark matter. We also derive limits on the dark matter annihilation
+cross section into this resonance from the non-observation of the associated
+gamma-ray spectral features by the H.E.S.S. telescope.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1606.01544</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1606.01544</id><created>2016-06-05</created><updated>2016-08-10</updated><authors><author><keyname>Zhu</keyname><forenames>Yichao</forenames></author><author><keyname>Niu</keyname><forenames>Xiaohua</forenames></author><author><keyname>Xiang</keyname><forenames>Yang</forenames></author></authors><title>Continuum dynamics of the formation, migration and dissociation of
+  self-locked dislocation structures on parallel slip planes</title><categories>cond-mat.mtrl-sci</categories><doi>10.1016/j.jmps.2016.08.003</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In continuum models of dislocations, proper formulations of short-range
+elastic interactions of dislocations are crucial for capturing various types of
+dislocation patterns formed in crystalline materials. In this article, the
+continuum dynamics of straight dislocations distributed on two parallel slip
+planes is modelled through upscaling the underlying discrete dislocation
+dynamics. Two continuum velocity field quantities are introduced to facilitate
+the discrete-to-continuum transition. The first one is the local migration
+velocity of dislocation ensembles which is found fully independent of the
+short-range dislocation correlations. The second one is the decoupling velocity
+of dislocation pairs controlled by a threshold stress value, which is proposed
+to be the effective flow stress for single slip systems. Compared to the almost
+ubiquitously adopted Taylor relationship, the derived flow stress formula
+exhibits two features that are more consistent with the underlying discrete
+dislocation dynamics: i) the flow stress increases with the in-plane component
+of the dislocation density only up to a certain value, hence the derived
+formula admits a minimum inter-dislocation distance within slip planes; ii) the
+flow stress smoothly transits to zero when all dislocations become
+geometrically necessary dislocations. A regime under which inhomogeneities in
+dislocation density grow is identified, and is further validated through
+comparison with discrete dislocation dynamical simulation results. Based on the
+findings in this article and in our previous works, a general strategy for
+incorporating short-range dislocation correlations in continuum models of
+dislocations is proposed.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1606.03389</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1606.03389</id><created>2016-06-10</created><authors><author><keyname>Reis</keyname><forenames>R. D. dos</forenames></author><author><keyname>Ajeesh</keyname><forenames>M. O.</forenames></author><author><keyname>Kumar</keyname><forenames>N.</forenames></author><author><keyname>Arnold</keyname><forenames>F.</forenames></author><author><keyname>Shekhar</keyname><forenames>C.</forenames></author><author><keyname>Naumann</keyname><forenames>M.</forenames></author><author><keyname>Schmidt</keyname><forenames>M.</forenames></author><author><keyname>Nicklas</keyname><forenames>M.</forenames></author><author><keyname>Hassinger</keyname><forenames>E.</forenames></author></authors><title>On the search for the chiral anomaly in Weyl semimetals: The negative
+  longitudinal magnetoresistance</title><categories>cond-mat.mtrl-sci cond-mat.mes-hall</categories><comments>13 pages, 6 figures</comments><journal-ref>New J. Phys. 18, 085006 (2016)</journal-ref><doi>10.1088/1367-2630/18/8/085006</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Recently, the existence of massless chiral (Weyl) fermions has been
+postulated in a class of semi-metals with a non-trivial energy dispersion.These
+materials are now commonly dubbed Weyl semi-metals (WSM).One predicted property
+of Weyl fermions is the chiral or Adler-Bell-Jackiw anomaly, a chirality
+imbalance in the presence of parallel magnetic and electric fields. In WSM, it
+is expected to induce a negative longitudinal magnetoresistance (NMR), the
+chiral magnetic effect.Here, we present experimental evidence that the
+observation of the chiral magnetic effect can be hindered by an effect called
+&quot;current jetting&quot;. This effect also leads to a strong apparent NMR, but it is
+characterized by a highly non-uniform current distribution inside the sample.
+It appears in materials possessing a large field-induced anisotropy of the
+resistivity tensor, such as almost compensated high-mobility semimetals due to
+the orbital effect.In case of a non-homogeneous current injection, the
+potential distribution is strongly distorted in the sample.As a consequence, an
+experimentally measured potential difference is not proportional to the
+intrinsic resistance.Our results on the MR of the WSM candidate materials NbP,
+NbAs, TaAs, TaP exhibit distinct signatures of an inhomogeneous current
+distribution, such as a field-induced &quot;zero resistance' and a strong dependence
+of the `measured resistance&quot; on the position, shape, and type of the voltage
+and current contacts on the sample. A misalignment between the current and the
+magnetic-field directions can even induce a &quot;negative resistance&quot;.
+Finite-element simulations of the potential distribution inside the sample,
+using typical resistance anisotropies, are in good agreement with the
+experimental findings. Our study demonstrates that great care must be taken
+before interpreting measurements of a NMR as evidence for the chiral anomaly in
+putative Weyl semimetals.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1606.03990</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1606.03990</id><created>2016-06-13</created><updated>2016-08-11</updated><authors><author><keyname>Aspelmeier</keyname><forenames>T.</forenames></author><author><keyname>Wang</keyname><forenames>Wenlong</forenames></author><author><keyname>Moore</keyname><forenames>M. A.</forenames></author><author><keyname>Katzgraber</keyname><forenames>Helmut G.</forenames></author></authors><title>Interface free-energy exponent in the one-dimensional Ising spin glass
+  with long-range interactions in both the droplet and broken replica symmetry
+  regions</title><categories>cond-mat.dis-nn</categories><comments>10 pages, 5 figures, 3 tables</comments><journal-ref>Phys. Rev. E 94, 022116 (2016)</journal-ref><doi>10.1103/PhysRevE.94.022116</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The one-dimensional Ising spin-glass model with power-law long-range
+interactions is a useful proxy model for studying spin glasses in higher space
+dimensions and for finding the dimension at which the spin-glass state changes
+from having broken replica symmetry to that of droplet behavior. To this end we
+have calculated the exponent that describes the difference in free energy
+between periodic and antiperiodic boundary conditions. Numerical work is done
+to support some of the assumptions made in the calculations and to determine
+the behavior of the interface free-energy exponent of the power law of the
+interactions. Our numerical results for the interface free-energy exponent are
+badly affected by finite-size problems.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1606.04174</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1606.04174</id><created>2016-06-13</created><authors><author><keyname>Martinello</keyname><forenames>M.</forenames></author><author><keyname>Grassellino</keyname><forenames>A.</forenames></author><author><keyname>Checchin</keyname><forenames>M.</forenames></author><author><keyname>Romanenko</keyname><forenames>A.</forenames></author><author><keyname>Melnychuck</keyname><forenames>O.</forenames></author><author><keyname>Sergatskov</keyname><forenames>D. A.</forenames></author><author><keyname>Posen</keyname><forenames>S.</forenames></author><author><keyname>Zasadzinski</keyname><forenames>J. F.</forenames></author></authors><title>Effect of interstitial impurities on the field dependent microwave
+  surface resistance of niobium</title><categories>physics.acc-ph</categories><journal-ref>Appl. Phys. Lett. 109, 062601 (2016)</journal-ref><doi>10.1063/1.4960801</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Previous work has demonstrated that the radio frequency surface resistance of
+niobium resonators is dramatically reduced when nitrogen impurities are
+dissolved as interstitial in the material. The origin of this effect is
+attributed to the lowering of the Mattis and Bardeen surface resistance
+contribution with increasing accelerating field. Meanwhile, an enhancement of
+the sensitivity to trapped magnetic field is typically observed for such
+cavities. In this paper we conduct the first systematic study on these
+different components contributing to the total surface resistance as a function
+of different levels of dissolved nitrogen, in comparison with standard surface
+treatments for niobium resonators. Adding these results together we are able to
+show for the first time which is the optimum surface treatment that maximizes
+the Q-factor of superconducting niobium resonators as a function of expected
+trapped magnetic field in the cavity walls. These results also provide new
+insights on the physics behind the change in the field dependence of the Mattis
+and Bardeen surface resistance, and of the trapped magnetic vortex induced
+losses in superconducting niobium resonators.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1606.06358</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1606.06358</id><created>2016-06-20</created><updated>2016-08-11</updated><authors><author><keyname>Lamm</keyname><forenames>Henry</forenames></author><author><keyname>Lebed</keyname><forenames>Richard</forenames></author></authors><title>High Resolution Nonperturbative Light-Front Simulations of the True
+  Muonium Atom</title><categories>hep-ph nucl-th physics.comp-ph</categories><comments>12 pages, 5 figures, Matches PRD version except for additional
+  references</comments><journal-ref>Phys. Rev. D 94, 016004 (2016)</journal-ref><doi>10.1103/PhysRevD.94.016004</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Through the development of a parallel code called TMSWIFT, an extensive
+light-front quantization study of the nonperturbative spectrum of the bound
+state $(\mu^+\mu^-)$, true muonium, has been performed. Using Pad\'{e}
+approximants, it has been possible to extract continuum and infinite-cutoff
+limits for the singlet and triplet states for a range of values of the coupling
+constant $\alpha$. This data set allows for an investigation of the $\alpha$
+dependence of the light-front spectra, the results of which are compared to
+standard calculations. Decay constants have also been obtained. Improved
+calculations have been undertaken for the energy shifts due to the presence of
+a second, lighter flavor ($e$). Finally, initial results for three-flavor ($e$,
+$\mu$, $\tau$) calculations are presented.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1607.05304</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1607.05304</id><created>2016-07-18</created><authors><author><keyname>Reithmann</keyname><forenames>Emanuel</forenames></author><author><keyname>Reese</keyname><forenames>Louis</forenames></author><author><keyname>Frey</keyname><forenames>Erwin</forenames></author></authors><title>A nonequilibrium diffusion and capture mechanism ensures
+  tip-localization of regulating proteins on dynamic filaments</title><categories>physics.bio-ph cond-mat.stat-mech q-bio.SC</categories><comments>6 pages, 4 figures, and 9 pages supplemental material (including 8
+  figures and 1 table)</comments><report-no>LMU-ASC 032/16</report-no><journal-ref>Phys. Rev. Lett. 117, 078102 (2016)</journal-ref><doi>10.1103/PhysRevLett.117.078102</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Diffusive motion of regulatory enzymes on biopolymers with eventual capture
+at a reaction site is a common feature in cell biology. Using a lattice gas
+model we study the impact of diffusion and capture for a microtubule polymerase
+and a depolymerase. Our results show that the capture mechanism localizes the
+proteins and creates large-scale spatial correlations. We develop an analytic
+approximation that globally accounts for relevant correlations and yields
+results that are in excellent agreement with experimental data. Our results
+show that diffusion and capture operates most efficiently at cellular enzyme
+concentrations which points to in vivo relevance.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1607.07619</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1607.07619</id><created>2016-07-26</created><updated>2016-08-11</updated><authors><author><keyname>Belloni</keyname><forenames>Diogo</forenames></author><author><keyname>Giersz</keyname><forenames>Mirek</forenames></author><author><keyname>Askar</keyname><forenames>Abbas</forenames></author><author><keyname>Leigh</keyname><forenames>Nathan</forenames></author><author><keyname>Hypki</keyname><forenames>Arkadiusz</forenames></author></authors><title>MOCCA-SURVEY database I. Accreting white dwarf binary systems in
+  globular clusters -- I. cataclysmic variables -- present-day population</title><categories>astro-ph.GA</categories><comments>21 pages, 5 figures, 2 tables; minor changes made to the text,
+  accepted for publication in MNRAS</comments><doi>10.1093/mnras/stw1841</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper, which is the first in a series of papers associated with
+cataclysmic variables and related objects, we introduce the CATUABA code, a
+numerical machinery written for analysis of the MOCCA simulations, and show
+some first results by investigating the present-day population of cataclysmic
+variables in globular clusters. Emphasis was given on their properties and the
+observational selection effects when observing and detecting them. In this work
+we analysed in this work six models, including three with Kroupa distributions
+of the initial binaries. We found that for models with Kroupa initial
+distributions, considering the standard value of the efficiency of the common
+envelope phase adopted in BSE, no single cataclysmic variable was formed only
+via binary stellar evolution, i. e., in order to form them, strong dynamical
+interactions have to take place. We show and explain why this is inconsistent
+with observational and theoretical results. Our results indicate that the
+population of cataclysmic variables in globular clusters is, mainly, in the
+last stage of their evolution and observational selection effects can
+drastically change the expected number of observed cataclysmic variables. We
+show that the probability of observing them during the outbursts is extremely
+small and conclude that the best way of looking for cataclysmic variables in
+globular clusters is by searching for variabilities during quiescence, instead
+of during outbursts. For that, one would need a very deep observation which
+could reach magnitudes $\gtrsim$ 27 mag. Finally, we argue that cataclysmic
+variables in globular clusters are not necessarily magnetic.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1607.08042</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1607.08042</id><created>2016-07-27</created><authors><author><keyname>Zimmermann</keyname><forenames>Bernd</forenames></author><author><keyname>Long</keyname><forenames>Nguyen H.</forenames></author><author><keyname>Mavropoulos</keyname><forenames>Phivos</forenames></author><author><keyname>Bl&#xfc;gel</keyname><forenames>Stefan</forenames></author><author><keyname>Mokrousov</keyname><forenames>Yuriy</forenames></author></authors><title>Influence of complex disorder on skew-scattering Hall effects in
+  $L1_0$-ordered FePt alloy</title><categories>cond-mat.mtrl-sci</categories><journal-ref>Phys. Rev. B 94, 060406(R) (2016)</journal-ref><doi>10.1103/PhysRevB.94.060406</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We show by first-principles calculations that the skew-scattering anomalous
+Hall and spin-Hall angles of L$1_0$-ordered FePt drastically depend on
+different types of disorder. A different sign of the AHE is obtained when
+slightly deviating from the stoichiometric ratio towards the Fe-rich side as
+compared to the Pt-rich side. For stoichiometric samples, short-range ordering
+of defects has a profound effect on the Hall angles and can change them by a
+factor of $2$ as compared to the case of uncorrelated disorder. This might
+explain the vast range of anomalous Hall angles measured in experiments, which
+undergo different preparation procedures and thus might differ in their
+crystallographic quality.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1607.08052</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1607.08052</id><created>2016-07-27</created><authors><author><keyname>Gorji</keyname><forenames>Mohammad Ali</forenames></author></authors><title>Late time cosmic acceleration from natural infrared cutoff?</title><categories>gr-qc astro-ph.CO hep-th</categories><comments>11 pages, 2 figures, accepted for publication in PLB</comments><journal-ref>Phys. Lett. B 760 (2016) 769</journal-ref><doi>10.1016/j.physletb.2016.07.064</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this paper, inspired by the ultraviolet deformation of the
+Friedmann-Lema\^{\i}tre-Robertson-Walker geometry in loop quantum cosmology, we
+formulate an infrared-modified cosmological model. We obtain the associated
+deformed Friedmann and Raychaudhuri equations and we show that the late time
+cosmic acceleration can be addressed by the infrared corrections. As a
+particular example, we applied the setup to the case of matter dominated
+universe. This model has the same number of parameters as $\Lambda$CDM, but a
+dynamical dark energy generates in the matter dominated era at the late time.
+According to our model, as the universe expands, the energy density of the cold
+dark matter dilutes and when the Hubble parameter approaches to its minimum,
+the infrared effects dominate such that the effective equation of state
+parameter smoothly changes from $w_{_{\rm eff}}=0$ to $w_{_{\rm eff}}=-2$.
+Interestingly and nontrivially, the unstable de Sitter phase with $w_{_{\rm
+eff}}=-1$ is corresponding to $\Omega_m=\Omega_d =0.5$ and the universe crosses
+the phantom divide from the quintessence phase with $w_{_{\rm eff}}&gt;-1$ and
+$\Omega_m&gt; \Omega_d$ to the phantom phase with $w_{_{\rm eff}}&lt;-1$ and $
+\Omega_m&lt;\Omega_d$ which shows that the model is observationally viable. The
+results show that the universe finally ends up in a big rip singularity for a
+finite time proportional to the inverse of the minimum of the Hubble parameter.
+Moreover, we consider the dynamical stability of the model and we show that the
+universe starts from the matter dominated era at the past attractor with
+$w_{_{\rm eff}}=0$ and ends up in a future attractor at the big rip with
+$w_{_{\rm eff}}=-2$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.01215</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.01215</id><created>2016-08-03</created><updated>2016-08-11</updated><authors><author><keyname>Galal</keyname><forenames>Hossam</forenames></author></authors><title>Plasmons and terahertz devices in graphene</title><categories>physics.ins-det physics.optics</categories><comments>The contents of this Master thesis has been formulated into the
+  following research papers, submitted to Arxiv: 1) Multi-resonance split ring
+  resonator structures at sub-terahertz frequencies (arXiv:1608.02729). 2)
+  Split ring resonator resonance assisted terahertz antennas (arXiv:1608.01841)</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We introduce a novel scheme for efficient manipulation and detection of
+terahertz (THz) radiation. Our work consists of two parts; with a focus on
+proving the concept of our novel scheme, and the exploitation of graphene's
+peculiar properties.
+  For the first part, we report on the successful demonstration of two
+multiresonance Split Ring Resonator (SRR) designs, for efficient modulation of
+THz frequency beams. The two designs are based on SRR intracoupling, with
+multiple predefined resonances covering the bandwidth 40-300 GHz. The
+simulation results obtained have been experimentally verified.
+  The second part of the work reports on the computational development of novel
+architectures of low-impedance broadband antennas, for efficient detection of
+THz frequency beams. The conceived Split Ring Resonator-Resonance Assisted
+(SRR-RA) antennas are based on both a capacitive and inductive scheme,
+exploiting a 200 $\Omega$ and 400 $\Omega$ impedance, respectively. Moreover,
+the impedance is tunable by varying the geometry's coupling parameters,
+allowing for better matching with the detector circuit for maximum power
+extraction. Our results have been obtained at simulation level for a 1.5 THz
+operation frequency.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03089</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03089</id><created>2016-08-10</created><authors><author><keyname>Qin</keyname><forenames>Hui-Hui</forenames></author><author><keyname>Fei</keyname><forenames>Shao-Ming</forenames></author><author><keyname>Li-Jost</keyname><forenames>Xianqing</forenames></author></authors><title>Multi-observable Uncertainty Relations in Product Form of Variances</title><categories>quant-ph</categories><comments>7 pages, 3 figures in Scientific Reports 2016</comments><journal-ref>Scientific Reports 6 (2016) 31192</journal-ref><doi>10.1038/srep31192</doi><license>http://creativecommons.org/licenses/by-nc-sa/4.0/</license><abstract>  We investigate the product form uncertainty relations of variances for
+$n\,(n\geq 3)$ quantum observables. In particular, tight uncertainty relations
+satisfied by three observables has been derived, which is shown to be better
+than the ones derived from the strengthened Heisenberg and the generalized
+Schr\&quot;{o}dinger uncertainty relations, and some existing uncertainty relation
+for three spin-half operators. Uncertainty relation of arbitrary number of
+observables is also derived. As an example, the uncertainty relation satisfied
+by the eight Gell-Mann matrices is presented.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03295</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03295</id><created>2016-08-09</created><authors><author><keyname>Malijevsk&#xfd;</keyname><forenames>Alexandr</forenames></author></authors><title>Povrchov\'e f\'azov\'e p\v{r}echody a kritick\'e jevy</title><categories>cond-mat.stat-mech</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Brief introduction to the theory of surface phase transitions at planar
+interfaces, such as wetting phenomena (in Czech).
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03320</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03320</id><created>2016-08-10</created><authors><author><keyname>Bolognesi</keyname><forenames>Tommaso</forenames><affiliation>Istituto di Scienza e Tecnologie dell'Informazione &quot;A. Faedo&quot;, Consiglio Nazionale delle Ricerche</affiliation></author><author><keyname>Ciancia</keyname><forenames>Vincenzo</forenames><affiliation>Istituto di Scienza e Tecnologie dell'Informazione &quot;A. Faedo&quot;, Consiglio Nazionale delle Ricerche</affiliation></author></authors><title>Nominal Cellular Automata</title><categories>cs.FL cs.LO nlin.CG</categories><comments>In Proceedings ICE 2016, arXiv:1608.03131</comments><proxy>EPTCS</proxy><journal-ref>EPTCS 223, 2016, pp. 24-35</journal-ref><doi>10.4204/EPTCS.223.2</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The emerging field of Nominal Computation Theory is concerned with the theory
+of Nominal Sets and its applications to Computer Science. We investigate here
+the impact of nominal sets on the definition of Cellular Automata and on their
+computational capabilities, with a special focus on the emergent behavioural
+properties of this new model and their significance in the context of
+computation-oriented interpretations of physical phenomena. A preliminary
+investigation of the relations between Nominal Cellular Automata and Wolfram's
+Elementary Cellular Automata is also carried out.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03332</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03332</id><created>2016-08-10</created><authors><author><keyname>Shen</keyname><forenames>Zhizhang</forenames></author><author><keyname>Liu</keyname><forenames>Yun</forenames></author><author><keyname>Brown</keyname><forenames>Philip E.</forenames></author><author><keyname>Szlufarska</keyname><forenames>Izabela</forenames></author><author><keyname>Xu</keyname><forenames>Huifang</forenames></author></authors><title>Modeling the Effect of Dissolved Hydrogen Sulfide on Mg2+-water Complex
+  on Dolomite {104} Surfaces</title><categories>physics.geo-ph</categories><journal-ref>The Journal of Physical Chemistry C 118.29 (2014): 15716-15722</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The key kinetic barrier to dolomite formation is related to the surface
+Mg2+-H2O complex, which hinders binding of surface Mg2+ ions to the CO3 2- ions
+in solution. It has been proposed that this reaction can be catalyzed by
+dissolved hydrogen sulfide. To characterize the role of dissolved hydrogen
+sulfide in the dehydration of surface Mg 2+ ions, ab initio simulations based
+on density functional theory (DFT) were carried out to study the thermodynamics
+of competitive adsorption of hydrogen sulfide and water on dolomite (104)
+surfaces from solution. We find that water is thermodynamically more stable on
+the surface with the difference in adsorption energy of -13.6 kJ/mol (in
+vacuum) and -12.8 kJ/mol (in aqueous solution). However, aqueous hydrogen
+sulfide adsorbed on the surface increases the Mg2+-H2O distances on surrounding
+surface sites. Two possible mechanisms were proposed for the catalytic effects
+of adsorbed hydrogen sulfide on the anhydrous Ca-Mg-carbonate crystallization
+at low temperature.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03357</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03357</id><created>2016-08-10</created><authors><author><keyname>Nishihaya</keyname><forenames>Shinichi</forenames></author><author><keyname>Uchida</keyname><forenames>Masaki</forenames></author><author><keyname>Kozuka</keyname><forenames>Yusuke</forenames></author><author><keyname>Iwasa</keyname><forenames>Yoshihiro</forenames></author><author><keyname>Kawasaki</keyname><forenames>Masashi</forenames></author></authors><title>Evolution of Insulator-Metal Phase Transitions in Epitaxial Tungsten
+  Oxide Films during Electrolyte-Gating</title><categories>cond-mat.mtrl-sci</categories><comments>25 pages, 6 figures, ACS Applied Matter. in press</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  An interface between an oxide and an electrolyte gives rise to various
+processes as exemplified by electrostatic charge accumulation/depletion and
+electrochemical reactions such as intercalation/decalation under electric
+field. Here we directly compare typical device operations of those in electric
+double layer transistor geometry by adopting ${A}$-site vacant perovskite
+WO$_3$ epitaxial thin films as a channel material and two different
+electrolytes as gating agent. $\textit{In situ}$ measurements of x-ray
+diffraction and channel resistance performed during the gating revealed that in
+both the cases WO$_3$ thin film reaches a new metallic state through multiple
+phase transitions, accompanied by the change in out-of-plane lattice constant.
+Electrons are electrostatically accumulated from the interface side with an
+ionic liquid, while alkaline metal ions are more uniformly intercalated into
+the film with a polymer electrolyte. We systematically demonstrate this
+difference in the electrostatic and electrochemical processes, by comparing
+doped carrier density, lattice deformation behavior, and time constant of the
+phase transitions.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03358</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03358</id><created>2016-08-10</created><authors><author><keyname>Shen</keyname><forenames>Zhizhang</forenames></author><author><keyname>Brown</keyname><forenames>Philip E.</forenames></author><author><keyname>Szlufarska</keyname><forenames>Izabela</forenames></author><author><keyname>Xu</keyname><forenames>Huifang</forenames></author></authors><title>Investigation of the role of polysaccharide in the dolomite growth at
+  low temperature by using atomistic simulations</title><categories>physics.geo-ph</categories><journal-ref>Langmuir 31.38 (2015): 10435-10442</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Dehydration of water from surface Mg2+ is most likely the rate-limiting step
+in the dolomite growth at low temperature. Here, we investigate the role of
+polysaccharide in this step using classical molecular dynamics (MD)
+calculations. Free energy (potential of mean force, PMF) calculations have been
+performed for water molecules leaving the first two hydration layers above the
+dolomite (104) surface under the following three conditions: without catalyst,
+with monosaccharide (mannose) and with oligosaccharide (three units of
+mannose). MD simulations reveal that there is no obvious effect of
+monosaccharide in lowering the dehydration barrier for surface Mg2+. However,
+we found that there are metastable configurations of oligosaccharide, which can
+decrease the dehydration barrier of surface Mg2+ by about 0.7-1.1 kcal/mol. In
+these configurations, the molecule lies relatively flat on the surface and
+forms a bridge shape. The hydrophobic space near the surface created by the
+non-polar -CH groups of the oligosaccharide in the bridge conformation is the
+reason for the observed reduction of dehydration barrier.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03361</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03361</id><created>2016-08-11</created><authors><author><keyname>Shen</keyname><forenames>Zhizhang</forenames></author><author><keyname>Konishi</keyname><forenames>Hiromi</forenames></author><author><keyname>Szlufarska</keyname><forenames>Izabela</forenames></author><author><keyname>Brown</keyname><forenames>Philip E</forenames></author><author><keyname>Xu</keyname><forenames>Huifang</forenames></author></authors><title>Z-contrast imaging and ab initio study on &quot;d&quot; superstructure in
+  sedimentary dolomite</title><categories>physics.geo-ph</categories><journal-ref>American Mineralogist 99.7 (2014): 1413-1419</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Nano-precipitates with tripled periodicity along the c-axis are observed in a
+Ca-rich dolomite sample from Proterozoic carbonate rocks with &quot;molar tooth&quot;
+structure. This observation is consistent with previous description of d
+reflections. High-angle annular dark-field STEM imaging (or Z-contrast imaging)
+that avoids dynamic diffraction as seen in electron diffraction and
+high-resolution TEM imaging modes, confirms that d reflections correspond to
+nanoscale precipitates aligned parallel to (001) of the host dolomite. The
+lamellae precipitates have a cation ordering sequence of Ca-Ca-Mg-Ca-Ca- Mg
+along the c direction resulting in a chemical composition of Ca0.67Mg0.33CO3.
+This superstructure is attributed to the extra or d reflections, thus is
+referred to as the d superstructure in this study. The structure can be simply
+described as interstratified calcite/dolomite. The crystal structure of the d
+superstructure calculated from density functional theory (DFT) has a space
+group of P31c and has a and c unit-cell parameters of 4.879 and 16.260 {\AA},
+respectively, values between those of dolomite and calcite. The detailed
+structural characteristics and parameters obtained from ab initio calculations
+are also reported in this paper. The method of combining Z-contrast imaging and
+ab initio calculations can be used for solving structures of other
+nano-precipitates and nano-phases.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03363</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03363</id><created>2016-08-11</created><authors><author><keyname>Shen</keyname><forenames>Zhizhang</forenames></author><author><keyname>Konishi</keyname><forenames>Hiromi</forenames></author><author><keyname>Brown</keyname><forenames>Philip E</forenames></author><author><keyname>Xu</keyname><forenames>Huifang</forenames></author></authors><title>STEM investigation of exsolution lamellae and &quot;c&quot; reflections in Ca-rich
+  dolomite from the Platteville Formation, western Wisconsin</title><categories>physics.geo-ph</categories><journal-ref>American Mineralogist 98.4 (2013): 760-766</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Dolomite crystals in partially dolomitized limestone from the Platteville
+Formation are both compositionally and microstructurally heterogeneous. A
+single dolomite crystal usually contains three phases: the host Ca-rich
+dolomite [Ca1.14Mg0.86(CO3)2], an Fe-bearing dolomite
+[Ca1.06Mg0.80Fe0.14(CO3)2], and calcite inclusions. These three phases show
+similar orientations. The Ca-rich dolomite exhibits modulated microstructures
+with wavelength ranging from 7 to 30 nm. The modulated microstructures are not
+evident in Fe-bearing dolomite. Modulations in the Ca-rich dolomite have three
+predominant orientation ranges in the studied sample: from (205) to (104), from
+(001) to (-101), and ~(110), which are consistent with previous studies.
+Bright-field (BF) and high-angle annular dark-field (HAADF) images confirm that
+these modulations are due to chemical variation rather than strain or
+diffraction contrast. The Ca-rich lamellae are Mg-rich calcite with
+compositions ranging from Ca0.85Mg0.15CO3 to Ca0.70Mg0.30CO3. The observed
+results indicate that these Ca-rich exsolution lamellae formed during
+diagenesis. In this study, three kinds of &quot;c&quot;-reflections, which are weak spots
+in the halfway position between the principal reflections along the (104)*,
+(112)*, and (110)* directions, have been found in the diffraction patterns of
+some Ca-rich dolomite. Mg-Ca ordering in x-y planes was not observed directly
+in Z-contrast images. FFT patterns from the Z-contrast images do not show
+&quot;c&quot;-reflections. STEM images confirm that the &quot;c&quot;-reflections could result from
+multiple diffraction between the host dolomite and twinned Mg-calcite
+nano-lamellae under TEM imaging and diffraction modes.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03364</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03364</id><created>2016-08-11</created><authors><author><keyname>Wang</keyname><forenames>Yibo</forenames></author><author><keyname>Surendran</keyname><forenames>Prince</forenames></author><author><keyname>Jose</keyname><forenames>Smitha</forenames></author><author><keyname>Tran</keyname><forenames>Tien</forenames></author><author><keyname>Herrera</keyname><forenames>Ivan</forenames></author><author><keyname>Whitlock</keyname><forenames>Shannon</forenames></author><author><keyname>McLean</keyname><forenames>Russell</forenames></author><author><keyname>Sidorov</keyname><forenames>Andrei</forenames></author><author><keyname>Hannaford</keyname><forenames>Peter</forenames></author></authors><title>Magnetic lattices for ultracold atoms and degenerate quantum gases</title><categories>cond-mat.quant-gas</categories><comments>10 pages, 8 figures</comments><journal-ref>Science Bulletin (2016) 61(14):1097-1106</journal-ref><doi>10.1007/s11434-016-1123-x</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We review recent developments in the use of magnetic lattices as a
+complementary tool to optical lattices for trapping periodic arrays of
+ultracold atoms and degenerate quantum gases. Recent advances include the
+realisation of Bose-Einstein condensation in multiple sites of a magnetic
+lattice of one-dimensional microtraps, the trapping of ultracold atoms in
+square and triangular magnetic lattices, and the fabrication of magnetic
+lattice structures with sub-micron period suitable for quantum tunnelling
+experiments. Finally, we describe a proposal to utilise long-range interacting
+Rydberg atoms in a large spacing magnetic lattice to create interactions
+between atoms on neighbouring sites.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03366</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03366</id><created>2016-08-11</created><authors><author><keyname>Chen</keyname><forenames>Pei</forenames></author><author><keyname>Sun</keyname><forenames>Xiucong</forenames></author><author><keyname>Han</keyname><forenames>Chao</forenames></author></authors><title>Gravity Gradient Tensor Eigendecomposition for Spacecraft Positioning</title><categories>astro-ph.IM cs.IT math.IT</categories><comments>18 pages, 9 figures</comments><journal-ref>Journal of Guidance, Control, and Dynamics, Vol. 38, No. 11, 2015,
+  pp.2200-2206</journal-ref><doi>10.2514/1.G001195</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this Note, a new approach to spacecraft positioning based on GGT inversion
+is presented. The gravity gradient tensor is initially measured in the
+gradiometer reference frame (GRF) and then transformed to the Earth-Centered
+Earth-Fixed (ECEF) frame via attitude information as well as Earth rotation
+parameters. Matrix Eigen-Decomposition is introduced to directly translate GGT
+into position based on the fact that the eigenvalues and eigenvectors of GGT
+are simplespecific functions of spherical coordinates of the observation
+position. without the need of an initial position. Unlike the strategy of
+inertial navigation aiding, no prediction or first guess of the spacecraft
+position is needed. The method makes use of the J2 gravity model, and is
+suitable for space navigation where higher frequency terrain contributions to
+the GGT signals can be neglected.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03367</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03367</id><created>2016-08-11</created><authors><author><keyname>Sun</keyname><forenames>Xiucong</forenames></author><author><keyname>Chen</keyname><forenames>Pei</forenames></author><author><keyname>Macabiau</keyname><forenames>Christophe</forenames></author><author><keyname>Han</keyname><forenames>Chao</forenames></author></authors><title>Low-Earth Orbit Determination from Gravity Gradient Measurements</title><categories>astro-ph.IM cs.IT math.IT</categories><comments>34 pages, 8 figures</comments><journal-ref>Acta Astronautica,Vol.123, 2016, pp.350-362</journal-ref><doi>10.1016/j.actaastro.2016.03.012</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  An innovative orbit determination method which makes use of gravity gradients
+for Low-Earth-Orbiting satellites is proposed. The measurement principle of
+gravity gradiometry is briefly reviewed and the sources of measurement error
+are analyzed. An adaptive hybrid least squares batch filter based on
+linearization of the orbital equation and unscented transformation of the
+measurement equation is developed to estimate the orbital states and the
+measurement biases. The algorithm is tested with the actual flight data from
+the European Space Agency Gravity field and steady-state Ocean Circulation
+Explorer. The orbit determination results are compared with the GPS-derived
+orbits. The radial and cross-track position errors are on the order of tens of
+meters, whereas the along-track position error is over one order of magnitude
+larger. The gravity gradient based orbit determination method is promising for
+potential use in GPS-denied spacecraft navigation.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03436</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03436</id><created>2016-08-11</created><authors><author><keyname>Karsten</keyname><forenames>Sven</forenames></author><author><keyname>Ivanov</keyname><forenames>Sergei D.</forenames></author><author><keyname>Aziz</keyname><forenames>Saadullah G.</forenames></author><author><keyname>Bokarev</keyname><forenames>Sergey I.</forenames></author><author><keyname>K&#xfc;hn</keyname><forenames>Oliver</forenames></author></authors><title>Nuclear dynamical correlation effects in X-ray spectroscopy from a
+  time-domain perspective</title><categories>physics.chem-ph</categories><comments>5 pages, 4 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  To date X-ray spectroscopy has become a routine tool that can reveal highly
+local and element-specific information on the electronic structure of atoms in
+complex environments. Here, we focus on nuclear dynamical effects in X-ray
+spectra and develop a rigorous time-correlation method employing ground state
+molecular dynamics simulations. The importance of nuclear correlation phenomena
+is demonstrated by comparison against the results from the conventional
+sampling approach for gas phase water. In contrast to the first-order
+absorption, second-order resonant inelastic scattering spectra exhibit
+pronounced fingerprints of nuclear motions. The developed methodology does not
+depend on the accompanying electronic structure method in principle as well as
+on the spectral range and, thus, can be applied to, e.g., UV and X-ray
+photo-electron and Auger spectroscopies.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03453</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03453</id><created>2016-08-11</created><authors><author><keyname>Denisov</keyname><forenames>Dmitri</forenames></author><author><keyname>Evdokimov</keyname><forenames>Valery</forenames></author><author><keyname>Luki&#x107;</keyname><forenames>Strahinja</forenames></author><author><keyname>Uji&#x107;</keyname><forenames>Predrag</forenames></author></authors><title>Muon Beam at the Fermilab Test Beam Area</title><categories>physics.acc-ph hep-ex physics.ins-det</categories><comments>10 pages, 8 figures</comments><report-no>FERMILAB-TM-2627-E</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The intensities and profiles of the muon beam behind the beam dump of the
+Fermilab test beam area when the facility is running in the &quot;pion&quot; beam mode
+are measured and summarized in this note. This muon beam with momenta in the
+range 10 - 50 GeV/c provides an opportunity to perform various measurements in
+parallel with other users of the test beam area.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03454</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03454</id><created>2016-08-11</created><authors><author><keyname>Schmidt</keyname><forenames>R.</forenames><affiliation>CERN</affiliation></author></authors><title>Proceedings of the 2014 Joint International Accelerator School: Beam
+  Loss and Accelerator Protection (JAS 2014), Newport Beach, CA, USA, 5-14 Nov
+  2014</title><categories>physics.acc-ph</categories><comments>17 lectures, 440 pages, published as CERN Yellow Report
+  https://cds.cern.ch/record/1641418</comments><proxy>Scientific Information Service Cern</proxy><report-no>CERN-2016-002</report-no><doi>10.5170/CERN-2016-002</doi><license>http://creativecommons.org/licenses/by/4.0/</license><abstract>  Many particle accelerators operate with very high beam power and very high
+energy stored in particle beams as well as in magnet systems. In the future,
+the beam power in high intensity accelerators will further increase. The
+protection of the accelerator equipment from the consequences of uncontrolled
+release of the energy is essential. This was the motivation for organizing a
+first school on beam losses and accelerator protection (in general referred to
+as machine protection). During the school the methods and technologies to
+identify, mitigate, monitor and manage the technical risks associated with the
+operation of accelerators with high-power beams or subsystems with large stored
+energy were presented. At the completion of the school the participants should
+have been able to understand the physical phenomena that can damage machine
+subsystems or interrupt operations and to analyze an accelerator facility to
+produce a register of technical risks and the corresponding risk mitigation and
+management strategies.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03466</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03466</id><created>2016-08-11</created><authors><author><keyname>Kumar</keyname><forenames>Mukesh</forenames></author><author><keyname>von Buddenbrock</keyname><forenames>Stefan</forenames></author><author><keyname>Chakrabarty</keyname><forenames>Nabarun</forenames></author><author><keyname>Cornell</keyname><forenames>Alan S.</forenames></author><author><keyname>Kar</keyname><forenames>Deepak</forenames></author><author><keyname>Mandal</keyname><forenames>Tanumoy</forenames></author><author><keyname>Mellado</keyname><forenames>Bruce</forenames></author><author><keyname>Mukhopadhyaya</keyname><forenames>Biswarup</forenames></author><author><keyname>Reed</keyname><forenames>Robert G.</forenames></author><author><keyname>Ruan</keyname><forenames>Xifeng</forenames></author></authors><title>Phenomenology of additional scalar bosons at the LHC</title><categories>hep-ph</categories><comments>5 pages, 2 tables, submitted to SAIP 2016, South Africa proceedings</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The confirmation of the Higgs boson in Run I data at the Large Hadron
+Collider (LHC) and the excesses in recent Run II data suggest scenarios beyond
+the Standard Model (SM). We pursue a study in a minimal model which is an
+extension of a scalar doublet in the SM known as two-Higgs doublet model
+(THDM). Following earlier suggestions two real scalars $\chi$ and $S$ have been
+introduced in the THDM where $\chi$ is treated as a candidate for dark matter.
+$\chi$ does not receive any vacuum expectation value ($vev$) in the model
+whereas the Higgs-like scalar $S$ acquires $vev$. This allows small mixing
+between the $CP$-even scalars of the THDM, $h$, $H$ and $S$. In this study the
+mass spectrum of new scalars is taken to be $2 m_h &lt; m_H &lt; 2 m_t$, $m_\chi &lt;
+m_h/2$, $m_h \lesssim m_S \lesssim m_H - m_h$, $m_A &gt; 2 m_t$ and $m_H^\pm &lt;
+m_A$, where $m_h$ and $m_t$ is masses of the SM Higgs and top-quark
+respectively, $m_H, m_A$ and $m_{H^\pm}$ are the masses of the heavy $CP$-even
+scalar $H$, $CP$-odd scalar $A$, and charged Higgs $H^\pm$, respectively. A
+partial list of potential search channels at the LHC has been provided with
+possible phenomenological consequences. The expected phenomenology and
+constraints on parameters are also discussed in a model-independent approach .
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03467</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03467</id><created>2016-08-10</created><authors><author><keyname>van Kessenich</keyname><forenames>L. Michiels</forenames></author><author><keyname>de Arcangelis</keyname><forenames>L.</forenames></author><author><keyname>Herrmann</keyname><forenames>H. J.</forenames></author></authors><title>Synaptic plasticity and neuronal refractory time cause scaling behaviour
+  of neuronal avalanches</title><categories>q-bio.NC nlin.AO</categories><comments>9 pages, 4 figures, to be published in Scientific Reports</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Neuronal avalanches measured in vitro and in vivo in different cortical
+networks consistently exhibit power law behaviour for the size and duration
+distributions with exponents typical for a mean field self-organized branching
+process. These exponents are also recovered in neuronal network simulations
+implementing various neuronal dynamics on different network topologies. They
+can therefore be considered a very robust feature of spontaneous neuronal
+activity. Interestingly, this scaling behaviour is also observed on regular
+lattices in finite dimensions, which raises the question about the origin of
+the mean field behaviour observed experimentally. In this study we provide an
+answer to this open question by investigating the effect of activity dependent
+plasticity in combination with the neuronal refractory time in a neuronal
+network. Results show that the refractory time hinders backward avalanches
+forcing a directed propagation. Hebbian plastic adaptation plays the role of
+sculpting these directed avalanche patterns into the topology of the network
+slowly changing it into a branched structure where loops are marginal.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03479</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03479</id><created>2016-08-11</created><authors><author><keyname>Lang</keyname><forenames>Christian</forenames></author><author><keyname>Kohlbrecher</keyname><forenames>Joachim</forenames></author><author><keyname>Porcar</keyname><forenames>Lionel</forenames></author><author><keyname>Lettinga</keyname><forenames>Minne Paul</forenames></author></authors><title>The connection between shear thinning and biaxial orientation for
+  quasi-ideal rods</title><categories>cond-mat.soft</categories><doi>10.3390/polym8080291</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The complete orientational ordering tensor of quasi-ideal colloidal rods is
+obtained as a function of shear rate by performing rheo-SANS (rheology with
+small angle neutron scattering) measurements on isotropic fd-virus suspensions
+in the two relevant scattering planes, the flow-gradient (1-2) and the
+flow-vorticity (1-3) plane. Microscopic ordering can be identified as the
+origin of the observed shear thinning. A qualitative description of the
+rheological response by Smoluchowski, as well as Doi--Edwards--Kuzuu theory is
+possible, as we obtain a master curve for different concentrations, scaling the
+shear rate with the apparent collective rotational diffusion coefficient.
+However, the observation suggests that the interdependence of ordering and
+shear thinning at small shear rates is stronger than predicted. The extracted
+zero-shear viscosity matches the concentration dependence of the self-diffusion
+of rods in semi-dilute solutions, while the director tilts close towards the
+flow direction already at very low shear rates. In contrast, we observe a
+smaller dependence on the shear rate in the overall ordering at high shear
+rates, as well as an ever-increasing biaxiality.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03481</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03481</id><created>2016-08-03</created><authors><author><keyname>Bertoldi</keyname><forenames>D. S.</forenames></author><author><keyname>Guillermet</keyname><forenames>A. Fern&#xe1;ndez</forenames></author><author><keyname>Miranda</keyname><forenames>E. N.</forenames></author></authors><title>The Einstein nanocrystal</title><categories>physics.gen-ph</categories><journal-ref>Revista Mexicana de Fisica E 62 60-65 (2016)</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We study the simplest possible model of nanocrystal consisting in a simple
+cubic lattice with a small number of atoms (NA ~ 10-10^3), where each atom is
+linked to its nearest neighbor by a quantum harmonic potential. Some properties
+(entropy, temperature, specific heat) of the nanocrystal are calculated
+numerically but exactly within the framework of the microcanonical ensemble. We
+find that the presence of a surface in the nanocrystal modifies the
+thermostatistic properties to a greater extent than the small number of atoms
+in the system. The specific heat Cv behaves similarly to the Einstein solid,
+with an asymptotic value for high temperatures that differs from that of the
+Dulong-Petit law by a term of the order of NA^(-1/3) and that can be explained
+easily in terms of the surface. The entropy is non-additive, but this is due to
+the presence of the surface and we show that the additivity is recovered in the
+thermodynamic limit. Finally, we find that, when calculations follow the
+canonical ensemble, results differ little for small systems (NA = 27) and are
+inexistent for larger systems (NA = 1000).
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03484</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03484</id><created>2016-08-11</created><authors><author><keyname>Correia</keyname><forenames>Alexandre C. M.</forenames></author><author><keyname>Bou&#xe9;</keyname><forenames>Gwena&#xeb;l</forenames></author><author><keyname>Laskar</keyname><forenames>Jacques</forenames></author></authors><title>Secular and tidal evolution of circumbinary systems</title><categories>astro-ph.EP astro-ph.IM math.DS</categories><comments>40 pages, 18 figures</comments><journal-ref>Celestial Mechanics and Dynamical Astronomy 2016</journal-ref><doi>10.1007/s10569-016-9709-9</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We investigate the secular dynamics of three-body circumbinary systems under
+the effect of tides. We use the octupolar non-restricted approximation for the
+orbital interactions, general relativity corrections, the quadrupolar
+approximation for the spins, and the viscous linear model for tides. We derive
+the averaged equations of motion in a simplified vectorial formalism, which is
+suitable to model the long-term evolution of a wide variety of circumbinary
+systems in very eccentric and inclined orbits. In particular, this vectorial
+approach can be used to derive constraints for tidal migration, capture in
+Cassini states, and stellar spin-orbit misalignment. We show that circumbinary
+planets with initial arbitrary orbital inclination can become coplanar through
+a secular resonance between the precession of the orbit and the precession of
+the spin of one of the stars. We also show that circumbinary systems for which
+the pericenter of the inner orbit is initially in libration present chaotic
+motion for the spins and for the eccentricity of the outer orbit. Because our
+model is valid for the non-restricted problem, it can also be applied to any
+three-body hierarchical system such as star-planet-satellite systems and triple
+stellar systems.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03488</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03488</id><created>2016-08-11</created><authors><author><keyname>Hattam</keyname><forenames>Laura</forenames></author></authors><title>Travelling wave solutions of the perturbed mKdV equation that represent
+  traffic congestion</title><categories>math.DS nlin.PS</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A well-known optimal velocity (OV) model describes vehicle motion along a
+single lane road, which reduces to a perturbed modified Korteweg-de Vries
+(mKdV) equation within the unstable regime. Steady travelling wave solutions to
+this equation are then derived with a multi-scale perturbation technique. The
+first order solution in the hierarchy is written in terms of slow and fast
+variables. At the following order, a system of differential equations are
+highlighted that govern the slowly evolving properties of the leading solution.
+Then, it is shown that the critical points of this system signify travelling
+waves without slow variation. As a result, a family of steady waves with
+constant amplitude and period are identified. When periodic boundary conditions
+are satisfied, these solutions' parameters are associated with the driver's
+sensitivity, $\hat{a}$, which appears in the OV model. For some given
+$\hat{a}$, solutions of both an upward and downward form exist, with the
+downward type corresponding to traffic congestion. Numerical simulations are
+used to validate the asymptotic analysis and also to examine the long-time
+behaviour of our solutions.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03489</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03489</id><created>2016-08-10</created><authors><author><keyname>Melissinos</keyname><forenames>Adrian</forenames></author></authors><title>Use of the gravitational-wave interferometers to test Lorentz invariance
+  violation</title><categories>gr-qc</categories><comments>Presented at the Seventh Meeting on CPT and Lorentz Symmetry,
+  Bloomington, Indiana, June 20-24, 2016</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Currently operating gravitational-wave interferometers are Michelson
+interferometers with effective arm length L ~ 4x10e5 m. While the
+interferometer remains in lock, data at the fsr sideband frequency encode
+information on slow phase changes in the f ~ 10e-5 Hz range, with a fringe
+sensitivity ~ 10e-10. Preliminary LIGO data presented in 2009 show no Lorentz
+violating signal at the second harmonic of the Earth's sidereal frequency. This
+sets a limit on a possible change in refractine index, dn/n &lt; 2x10e-22, an
+improvement of more than three orders of magnitude over existing limits.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03503</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03503</id><created>2016-08-11</created><authors><author><keyname>Baldini</keyname><forenames>Edoardo</forenames></author><author><keyname>Mann</keyname><forenames>Andreas</forenames></author><author><keyname>Borroni</keyname><forenames>Simone</forenames></author><author><keyname>Arrell</keyname><forenames>Christopher</forenames></author><author><keyname>van Mourik</keyname><forenames>Frank</forenames></author><author><keyname>Carbone</keyname><forenames>Fabrizio</forenames></author></authors><title>A Versatile Setup for Ultrafast Broadband Optical Spectroscopy of
+  Coherent Collective Modes in Strongly Correlated Quantum Systems</title><categories>physics.ins-det physics.optics</categories><comments>16 pages, 4 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A femtosecond pump-probe setup is described that is optimised for broadband
+transient reflectivity experiments on solid samples over a wide range of
+temperatures. By combining a temporal resolution of 45 fs and a broad detection
+range between 1.75 and 2.85 eV, this apparatus can provide insightful
+information on the interplay between coherent collective modes and high-energy
+electronic excitations, which is one of the distinctive characteristics of
+strongly interacting and correlated quantum systems. The use of a single-shot
+readout CMOS array detector at frame rates up to 10 kHz allows to resolve
+coherent oscillations with amplitudes below 10$^{-4}$ in $\Delta$R/R. We
+demonstrate the operation of this setup on the prototypical charge-transfer
+insulator La$_2$CuO$_4$, revealing the presence of coherent optical phonons
+with frequencies as high as 13 THz.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03540</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03540</id><created>2016-08-11</created><authors><author><keyname>Dullemond</keyname><forenames>Cornelis Petrus</forenames></author><author><keyname>Harsono</keyname><forenames>Daniel</forenames></author><author><keyname>Stammler</keyname><forenames>Sebastian Markus</forenames></author><author><keyname>Johansen</keyname><forenames>Anders</forenames></author></authors><title>Forming chondrules in impact splashes - II Volatile retention</title><categories>astro-ph.EP</categories><comments>Accepted for publication in ApJ</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Solving the mystery of the origin of chondrules is one of the most elusive
+goals in the field of meteoritics. Recently the idea of planet(esimal)
+collisions releasing splashes of lava droplets, long considered out of favor,
+has been reconsidered as a possible origin of chondrules by several papers. One
+of the main problems with this idea is the lack of quantitative and simple
+models that can be used to test this scenario by directly comparing to the many
+known observables of chondrules. In Paper I of this series we presented a
+simple thermal evolution model of a spherically symmetric expanding cloud of
+molten lava droplets that is assumed to emerge from a collision between two
+planetesimals. In the present paper, number II of this series, we use this
+model to calculate whether or not volatile elements such as Na and K will
+remain abundant in these droplets or whether they will get depleted due to
+evaporation. The high density of the droplet cloud (e.g. small distance between
+adjacent droplets) causes the vapor to quickly reach saturation pressure and
+thus shutting down further evaporation. We show to which extent, and under
+which conditions, this keeps the abundances of these elements high, as is seen
+in chondrules. We find that for most parameters of our model (cloud mass,
+expansion velocity, initial temperature) the volatile elements Mg, Si and Fe
+remain entirely in the chondrules. The Na and K abundances inside the droplets
+will initially stay mostly at their initial values due to the saturation of the
+vapor pressure, but at some point start to drop due to the cloud expansion.
+However, as soon as the temperature starts to decrease, most or all of the
+vapor recondenses again. At the end the Na and K elements retain most of their
+initial abundances, albeit occasionally somewhat reduced, depending on the
+parameters of the expanding cloud model.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03559</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03559</id><created>2016-08-11</created><authors><author><keyname>Sales</keyname><forenames>Jorge Henrique</forenames></author><author><keyname>Suzuki</keyname><forenames>Alfredo Takashi</forenames></author><author><keyname>Thibes</keyname><forenames>Ronaldo</forenames></author></authors><title>Revisiting fermion helicity flip in Podolsky's Electromagnetism</title><categories>hep-ph</categories><comments>5 pages, 2 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The spin projection of a massive particle onto its direction of motion is
+called helicity (or &quot;handedness&quot;). It can therefore be positive or negative.
+When a particle's helicity changes from positive to negative (or vice-versa)
+due to its interaction with other particles or fields, we say there is a
+helicity flip. In this work we show that such helicity flip can be seen for an
+electron of $20 MeV$ of energy interacting with a charged scalar meson through
+the exchange of a virtual photon. This photon {\it does not} necessarily need
+to be Podolsky's proposed photon; in fact, it is independent of it.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03561</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03561</id><created>2016-08-11</created><authors><author><keyname>Leppert</keyname><forenames>Linn</forenames></author><author><keyname>Reyes-Lillo</keyname><forenames>Sebastian E.</forenames></author><author><keyname>Neaton</keyname><forenames>Jeffrey B.</forenames></author></authors><title>Electric field and strain induced Rashba effect in hybrid halide
+  perovskites</title><categories>cond-mat.mtrl-sci</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Using first principles density functional theory calculations, we show how
+Rashba-type energy band splitting in the hybrid organic-inorganic halide
+perovskites APbX$_3$ (A=CH$_3$NH$_3^+$, CH(NH$_2$)$_2^+$, Cs$^+$ and X=I, Br)
+can be tuned and enhanced with electric fields and anisotropic strain. In
+particular, we demonstrate that the magnitude of the Rashba splitting of
+tetragonal (CH$_3$NH$_3$)PbI$_3$ grows with increasing macroscopic alignment of
+the organic cations and electric polarization, indicating appreciable
+tunability with experimentally-feasible applied fields, even at room
+temperature. Further, we quantify the degree to which this effect can be tuned
+via chemical substitution at the A and X sites, which alters amplitudes of
+different polar distortion patterns of the inorganic PbX$_3$ cage that directly
+impact Rashba splitting. In addition, we predict that polar phases of CsPbI$_3$
+and (CH$_3$NH$_3$)PbI$_3$ with $R3c$ symmetry possessing considerable Rashba
+splitting might be accessible at room temperature via anisotropic strain
+induced by epitaxy, even in the absence of electric fields.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03573</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03573</id><created>2016-08-11</created><authors><author><keyname>Varela</keyname><forenames>J.</forenames></author><author><keyname>Pantellini</keyname><forenames>F.</forenames></author><author><keyname>Moncuquet</keyname><forenames>M.</forenames></author></authors><title>Effect of the interplanetary magnetic field orientation and intensity in
+  the mass and energy deposition on the Hermean surface</title><categories>astro-ph.EP physics.space-ph</categories><doi>10.1016/j.pss.2016.06.009</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The aim of the present study is to simulate the interaction between the solar
+wind and the Hermean magnetosphere. We use the MHD code PLUTO in spherical
+coordinates with an axisymmetric multipolar expansion of the Hermean magnetic
+field, to perform a set of simulations with different interplanetary magnetic
+field orientations and intensities. We fix the hydrodynamic parameters of the
+solar wind to study the distortions driven by the interplanetary magnetic field
+in the topology of the Hermean magnetosphere, leading to variations of the mass
+and energy deposition distributions, the integrated mass deposition, the oval
+aperture, the area covered by open magnetic field lines and the regions of
+efficient particle sputtering on the planet surface. The simulations show a
+correlation between the reconnection regions and the local maxima of plasma
+inflow and energy deposition on the planet surface.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.03576</identifier>
+ <datestamp>2016-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.03576</id><created>2016-08-11</created><authors><author><keyname>Joshi</keyname><forenames>Himanshu</forenames></author><author><keyname>Kaushik</keyname><forenames>Atul</forenames></author><author><keyname>Seeman</keyname><forenames>Nadrian C.</forenames></author><author><keyname>Maiti</keyname><forenames>Prabal K.</forenames></author></authors><title>Nanoscale Structure and Elasticity of Pillared DNA Nanotubes</title><categories>cond-mat.soft physics.bio-ph physics.chem-ph</categories><comments>Published in ACS Nano</comments><journal-ref>ACS Nano, July 2016</journal-ref><doi>10.1021/acsnano.6b03360</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We present an atomistic model of pillared DNA nanotubes (DNTs) and their
+elastic properties which will facilitate further studies of these nanotubes in
+several important nanotechnological and biological applications. In particular,
+we introduce a computational design to create an atomistic model of a 6-helix
+DNT (6HB) along with its two variants, 6HB flanked symmetrically by two double
+helical DNA pillars (6HB+2) and 6HB flanked symmetrically by three double
+helical DNA pillars (6HB+3). Analysis of 200 ns all-atom simulation
+trajectories in the presence of explicit water and ions shows that these
+structures are stable and well behaved in all three geometries. Hydrogen
+bonding is well maintained for all variants of 6HB DNTs. We calculate the
+persistence length of these nanotubes from their equilibrium bend angle
+distributions. The values of persistence length are ~10 {\mu}m, which is 2
+orders of magnitude larger than that of dsDNA. We also find a gradual increase
+of persistence length with an increasing number of pillars, in quantitative
+agreement with previous experimental findings. To have a quantitative
+understanding of the stretch modulus of these tubes we carried out
+nonequilibrium Steered Molecular Dynamics (SMD). The linear part of the force
+extension plot gives stretch modulus in the range of 6500 pN for 6HB without
+pillars which increases to 11,000 pN for tubes with three pillars. The values
+of the stretch modulus calculated from contour length distributions obtained
+from equilibrium MD simulations are similar to those obtained from
+nonequilibrium SMD simulations. The addition of pillars makes these DNTs very
+rigid.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

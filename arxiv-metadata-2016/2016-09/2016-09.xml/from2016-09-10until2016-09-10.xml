@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T23:11:16Z</responseDate>
+<request verb="ListRecords" until="2016-09-10" from="2016-09-10" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:astro-ph/9610094</identifier>
+ <datestamp>2016-09-10</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>astro-ph/9610094</id><created>1996-10-14</created><authors><author><keyname>Tegmark</keyname><forenames>Max</forenames><affiliation>IAS</affiliation></author></authors><title>An icosahedron-based method for pixelizing the celestial sphere</title><categories>astro-ph</categories><comments>13 pages, with 3 figures included. Source code and color figures at
+  http://www.sns.ias.edu/~max/icosahedron.html (faster from the US), from
+  http://www.mpa-garching.mpg.de/~max/icosahedron.html (faster from Europe) or
+  from max@ias.edu</comments><journal-ref>ApJ Letters, 470, L81-84 (1996)</journal-ref><doi>10.1086/310310</doi><abstract>  For power spectrum estimation
+  it's important that the pixelization
+  of a CMB sky map be
+  smooth and regular to high degree.
+  With this criterion in mind
+  the ``COBE sky cube&quot; was defined.
+  This paper has as central theme
+  to further improve on this elegant scheme
+  which uses a cube as projective base
+  -- here an icosahedron is used in its place.
+  Although the sky cube is excellent,
+  a further reduction of 20 percent
+  of the number of pixels can be obtained
+  while the pixel distance is maintained,
+  and without any degradation
+  of accuracy for integration.
+  The pixels are rounder in this scheme, where
+  they are hexagonal rather than square,
+  and the faces are small in this implementation
+  which simplifies area-equalization.
+  The reason distortion is lessened is that
+  the faces are smaller and therefore more flat.
+  To use the method, you can get
+  a FORTRAN code from the Internet.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

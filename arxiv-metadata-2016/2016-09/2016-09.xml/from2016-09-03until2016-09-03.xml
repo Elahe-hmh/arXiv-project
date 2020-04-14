@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T23:08:32Z</responseDate>
+<request verb="ListRecords" until="2016-09-03" from="2016-09-03" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.08207</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.08207</id><created>2016-08-28</created><authors><author><keyname>Boshkayev</keyname><forenames>Kuantay</forenames></author></authors><title>Uniformly rotating neutron stars</title><categories>astro-ph.HE astro-ph.SR gr-qc</categories><comments>30 pages, 20 figures. arXiv admin note: substantial text overlap with
+  arXiv:1307.2836; text overlap with arXiv:1202.6500 by other authors</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this chapter we review the recent results on the equilibrium
+configurations of static and uniformly rotating neutron stars within the Hartle
+formalism. We start from the Einstein-Maxwell-Thomas-Fermi equations formulated
+and extended by Belvedere et al. (2012, 2014). We demonstrate how to conduct
+numerical integration of these equations for different central densities ${\it
+\rho}_c$ and angular velocities $\Omega$ and compute the static $M^{stat}$ and
+rotating $M^{rot}$ masses, polar $R_p$ and equatorial $R_{\rm eq}$ radii,
+eccentricity $\epsilon$, moment of inertia $I$, angular momentum $J$, as well
+as the quadrupole moment $Q$ of the rotating configurations. In order to
+fulfill the stability criteria of rotating neutron stars we take into
+considerations the Keplerian mass-shedding limit and the axisymmetric secular
+instability. Furthermore, we construct the novel mass-radius relations,
+calculate the maximum mass and minimum rotation periods (maximum frequencies)
+of neutron stars. Eventually, we compare and contrast our results for the
+globally and locally neutron star models.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.08389</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.08389</id><created>2016-08-30</created><authors><author><keyname>Suomi</keyname><forenames>Visa</forenames></author><author><keyname>Edwards</keyname><forenames>David</forenames></author><author><keyname>Cleveland</keyname><forenames>Robin</forenames></author></authors><title>Optical quantification of harmonic acoustic radiation force excitation
+  in a tissue-mimicking phantom</title><categories>physics.med-ph physics.optics</categories><journal-ref>Ultrasound in medicine &amp; biology 41.12 (2015): 3216-3232</journal-ref><doi>10.1016/j.ultrasmedbio.2015.07.018</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Optical tracking was used to characterize acoustic radiation force (ARF)
+induced displacements in a tissue-mimicking phantom. Amplitude modulated (AM)
+3.3 MHz ultrasound was used to induce ARF in the phantom which was embedded
+with 10 {\mu}m microspheres that were tracked using a microscope objective and
+high speed camera. For sine and square AM the harmonic components of the
+fundamental and second and third harmonic frequencies were measured. The
+displacement amplitudes were found to increase linearly with ARF up to 10
+{\mu}m with sine modulation having 19.5% lower peak-to-peak amplitude values
+than square modulation. Square modulation produced almost no second harmonic
+but energy was present in the third harmonic. For the sine modulation energy
+was present in the second harmonic and low energy in the third harmonic. A
+finite element model was used to simulate the deformation and was both
+qualitatively and quantitatively in agreement with the measurements.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.08403</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.08403</id><created>2016-08-30</created><authors><author><keyname>Akinci</keyname><forenames>Umit</forenames></author><author><keyname>Vatansever</keyname><forenames>Erol</forenames></author><author><keyname>Yuksel</keyname><forenames>Yusuf</forenames></author></authors><title>Thermal entanglement properties of N-qubit quantum Heisenberg chain in a
+  two-component magnetic field</title><categories>cond-mat.stat-mech quant-ph</categories><comments>6 pages, 4 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We elucidate the finite temperature entanglement properties of $N=9$ qubits
+Heisenberg $XX$ and $XXZ$ models under the presence of a polarized magnetic
+field in $xz$ plane by means of concurrence concept. We perform a systematic
+analysis for a wide range of the system parameters. Our results suggest that
+the global phase regions which separate the entangled and non-entangled regions
+sensitively depend upon the spin-spin interaction term of the $z-$ component of
+two neighboring spins $J_{z}/J_{x}$, temperature as well as polarized magnetic
+field components. Thereby, we think that polarized magnetic field can be used a
+control parameter to determine the amount of thermal entanglement between pair
+of qubits for different temperatures and spin-spin interaction terms. Moreover,
+it has been found that the nearest-neighbor pair of qubits does not point out a
+re-entrant type entanglement character when one only deals with the
+nearest-neighbor pair of qubits. However, as one considers next-nearest
+neighbor pair of qubits, it is possible to see the evidences of re-entrant type
+entanglement behaviors.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.08523</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.08523</id><created>2016-08-30</created><authors><author><keyname>Asratyan</keyname><forenames>A. E.</forenames></author><author><keyname>Matveev</keyname><forenames>V. A.</forenames></author></authors><title>Search for $\Theta^+(1540)$ emission in hadron--nucleus collisions at
+  400--700 GeV</title><categories>hep-ex nucl-ex</categories><comments>12 pages, 8 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The data on hadron--nucleus collisions at 400--700 GeV, collected by the
+SELEX experiment at Fermilab, are analyzed for formation of the exotic
+pentaquark baryon $\Theta^+(1540)$. A narrow enhancement near 1539 MeV is
+observed in the mass spectrum of the $pK^0_S$ system emitted at small $x_F$
+from hadron collisions with copper nuclei. The statistical significance of the
+peak is near 9 standard deviations. Fitted width of the observed $pK^0_S$
+resonance is consistent with being entirely due to experimental resolution, and
+its intrinsic width is restricted to $\Gamma &lt; 3$ MeV at 90\% CL. The data
+favor positive rather than negative strangeness for the $pK^0_S$ resonance
+observed in $h$Cu collisions. At the same time, the $pK^0_S$ mass spectrum for
+collisions in carbon is featureless. The yield of $\Theta^+$ baryons per $h$C
+collision is restricted to be $&lt; 24$\% of the yield per $h$Cu collision.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1608.08945</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1608.08945</id><created>2016-08-31</created><authors><author><keyname>Palatini</keyname><forenames>Attilio</forenames></author></authors><title>On the bending of light from the Newtonian point of view</title><categories>physics.hist-ph gr-qc</categories><comments>Plain TeX, 9 pages</comments><journal-ref>Mem. Soc. Astr. Ital, vol. 2, pp. 371-379 (1923)</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Within the framework of modified Newtonian gravity it is shown that the
+corrected Newtonian scheme can't explain both Mercury's perihelion advance and
+the bending of light at the same time.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1609.00112</identifier>
+ <datestamp>2016-09-03</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1609.00112</id><created>2016-09-01</created><authors><author><keyname>Padhy</keyname><forenames>Bholanath</forenames></author></authors><title>Analytic Evaluation of Three Different Five-Electron Atomic Integrals
+  Involving Exponentially Correlated Functions of $r_{ij}$ With $r_{ij}$'s Not
+  Forming A Closed Loop</title><categories>physics.atom-ph physics.chem-ph</categories><comments>7 pages</comments><journal-ref>Orissa Journal of Physics, Vol. 20, No.1, pp. 11-17, February 2013</journal-ref><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The simple method outlined in our earlier paper [B.Padhy, Orissa Journal of
+Physics, vol.19, No.1, p.1, February 2012] has been utilized here for analytic
+evaluation of three different five-electron atomic integrals with integrands
+involving products of s Slater-type orbitals and exponentially correlated
+functions of the form $r_{ij} exp(-\lambda_{ij} r_{ij})$. Only products of
+those $r_{ij}$'s which do not form a closed loop by themselves, are considered.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

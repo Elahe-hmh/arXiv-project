@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T22:06:11Z</responseDate>
+<request verb="ListRecords" until="2016-04-24" from="2016-04-23" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:physics/0601009</identifier>
+ <datestamp>2016-04-24</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>physics/0601009</id><created>2006-01-03</created><updated>2013-10-14</updated><authors><author><keyname>Rajasekar</keyname><forenames>S.</forenames></author><author><keyname>Philominathan</keyname><forenames>P.</forenames></author><author><keyname>Chinnathambi</keyname><forenames>V.</forenames></author></authors><title>Research Methodology</title><categories>physics.gen-ph</categories><comments>23 pages, no figure</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In this manuscript various components of research are listed and briefly
+discussed. The topics considered in this write-up cover a part of the research
+methodology paper of Master of Philosophy (M.Phil.) course and Doctor of
+Philosophy (Ph.D.) course. The manuscript is intended for students and research
+scholars of science subjects such as mathematics, physics, chemistry,
+statistics, biology and computer science. Various stages of research are
+discussed in detail. Special care has been taken to motivate the young
+researchers to take up challenging problems. Ten assignment works are given.
+For the benefit of young researchers a short interview with three eminent
+scientists is included at the end of the manuscript.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

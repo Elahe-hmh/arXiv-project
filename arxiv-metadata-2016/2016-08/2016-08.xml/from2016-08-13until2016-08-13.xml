@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-11T22:51:19Z</responseDate>
+<request verb="ListRecords" until="2016-08-13" from="2016-08-13" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1607.06920</identifier>
+ <datestamp>2016-08-13</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1607.06920</id><created>2016-07-23</created><authors><author><keyname>Buki</keyname><forenames>A. Yu.</forenames></author><author><keyname>Timchenko</keyname><forenames>I. S.</forenames></author></authors><title>Manifestation of nuclear cluster structure in Coulomb sums</title><categories>nucl-ex nucl-th</categories><comments>10 pages, 6 figures</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Experimental Coulomb sum values of 6^Li and 7^Li nuclei have been obtained,
+extending the earlier reported momentum transfer range of Coulomb sums for
+these nuclei up to q = 0.750 ... 1.625 fm^-1. The dependence of the Coulomb
+sums on the momentum transfers of 6^Li and 7^Li is shown to differ
+substantially from similar dependences for all the other nuclei investigated.
+Relationship between the nuclear cluster structure and Coulomb sums has been
+considered. The momentum transfer value, above which the Coulomb sum becomes
+constant, is found to be related to the cluster isolation parameter x, which
+characterizes the degree of nuclear clusterization.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>
