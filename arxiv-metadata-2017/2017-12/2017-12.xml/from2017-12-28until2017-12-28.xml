@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T12:42:28Z</responseDate>
+<request verb="ListRecords" until="2017-12-28" from="2017-12-28" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1703.03936</identifier>
+ <datestamp>2017-12-28</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1703.03936</id><created>2017-03-11</created><authors><author><keyname>Requardt</keyname><forenames>Manfred</forenames></author></authors><title>Subspaces of Z^n or R^n having Dimension (n-\varepsilon) in the
+  (n-\varepsilon)-Expansion</title><categories>hep-th cond-mat.stat-mech math-ph math.MP</categories><comments>16 pages, Latex</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  In the following we construct spaces of dimension $(n\pm \varepsilon)$ lying
+in the neighborhood of $\mathbb{Z}^n, \mathbb{Z}^n$ in the context of the
+$(n-\varepsilon)$-expansion. We provide means and criteria to deform the spaces
+of integer dimension into this neighborhood. We argue that the field theoretic
+models living on these deformed spaces are the continuation of the models
+defined on the corresponding integer valued spaces. Furthermore we perform the
+continuum limit of subgraphs of $\mathbb{Z}^n$ having non-integer dimension to
+the corresponding (fractal) subspaces of $\mathbb{Z}^n$. We make sense of a
+fractal volume measure like $d^{(n-\varepsilon)}x$.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1710.01390</identifier>
+ <datestamp>2017-12-28</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1710.01390</id><created>2017-10-02</created><updated>2017-12-23</updated><authors><author><keyname>Trachenko</keyname><forenames>K.</forenames></author></authors><title>Lagrangian formulation and symmetrical description of liquid dynamics</title><categories>cond-mat.stat-mech cond-mat.soft</categories><comments>Physical Review E 96, 062134 (2017)</comments><journal-ref>Phys. Rev. E 96, 062134 (2017)</journal-ref><doi>10.1103/PhysRevE.96.062134</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  Theoretical description of liquids has been primarily based on the
+hydrodynamic approach and its generalization to the solid-like regime. We show
+that the same liquid properties can be derived starting from solid-like
+equations and generalizing them to account for the hydrodynamic flow. Both
+approaches predict propagating shear waves with the notable gap in $k$-space.
+This gives an important symmetry of liquids regarding their description. We
+subsequently construct a two-field Lagrangian of liquid dynamics where the
+dissipative hydrodynamic and solid-like terms are treated on equal footing. The
+Lagrangian predicts two gapped waves propagating in opposite space-time
+directions. The dissipative and mass terms compete by promoting gaps in
+$k$-space and energy, respectively. When bare mass is close to the field
+hopping frequency, both gaps close and the dissipative term annihilates the
+bare mass.
+</abstract></arXiv>
+</metadata>
+</record>
+<record>
+<header>
+ <identifier>oai:arXiv.org:physics/0609099</identifier>
+ <datestamp>2017-12-28</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>physics/0609099</id><created>2006-09-12</created><updated>2006-11-02</updated><authors><author><keyname>Wang</keyname><forenames>Xiao-Song</forenames></author></authors><title>Derivation of Coulomb's Law of Forces Between Static Electric Charges
+  Based on Spherical Source and Sink Model of Particles</title><categories>physics.gen-ph</categories><comments>8 pages, 0 figures, Version 4.0 of REVTeX. arXiv admin note: text
+  overlap with arXiv:physics/0506062</comments><abstract>  We speculate that the universe may be filled with a continuum which may be
+called aether. Based on a spherical source and sink model of electric charges,
+we derive Coulomb's law of interactions between static electric charges in
+vacuum by methods of hydrodynamics. A reduced form of the Lorentz's force law
+of static electric charges is derived based on a definition of electric field.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

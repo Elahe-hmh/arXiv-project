@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T11:38:29Z</responseDate>
+<request verb="ListRecords" until="2017-08-12" from="2017-08-12" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1707.09421</identifier>
+ <datestamp>2017-08-12</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1707.09421</id><created>2017-07-28</created><authors><author><keyname>Jackson</keyname><forenames>Scott I.</forenames></author></authors><title>Scaling of the Detonation Product State with Reactant Kinetic Energy</title><categories>physics.flu-dyn cond-mat.soft</categories><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  This submissions has been withdrawn by arXiv administrators because the
+submitter did not have the right to agree to our license.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

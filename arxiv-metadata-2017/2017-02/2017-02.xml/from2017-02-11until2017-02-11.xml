@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T00:14:46Z</responseDate>
+<request verb="ListRecords" until="2017-02-11" from="2017-02-11" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1603.06628</identifier>
+ <datestamp>2017-02-11</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1603.06628</id><created>2016-03-21</created><authors><author><keyname>Raphaelian</keyname><forenames>Mark L.</forenames></author></authors><title>Coupling Multiple SU(2) Groups Into A SU(3) Group Structure</title><categories>physics.gen-ph</categories><comments>10 pages</comments><report-no>DOE/NV/25946-2699</report-no><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  A specific algebraic coupling model involving multiple quantization axes is
+presented in which previously indistinguishable SU(2) symmetry groups become
+distinguishable when coupled into a SU(3) group structure. The model reveals
+new intrinsic angular momentum (or isospin) eigenvectors whose structural
+symmetries are detailed, some of which are not available for groups having only
+one quantization axis available for configurations. Additionally, an intrinsic
+cyclic ordering of the quantization axes and internal geometric phase relations
+between the basis states naturally fall out from the algebraic properties of
+the group. The nature of the coupling into a SU(3) symmetry group also allows
+for the definition of both positive and negative basis states along each
+quantization axis relative to the center of the group. These basis states
+configurations mimic those observed in color-charge and electroweak theories.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

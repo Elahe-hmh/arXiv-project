@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T10:37:47Z</responseDate>
+<request verb="ListRecords" until="2017-04-09" from="2017-04-09" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.09072</identifier>
+ <datestamp>2017-04-09</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.09072</id><created>2016-05-29</created><updated>2016-08-15</updated><authors><author><keyname>Adorno</keyname><forenames>T. C.</forenames></author><author><keyname>Gavrilov</keyname><forenames>S. P.</forenames></author><author><keyname>Gitman</keyname><forenames>D. M.</forenames></author></authors><title>Particle creation by peak electric field</title><categories>hep-th</categories><comments>New version with typos and a misprint corrected. Accepted in EPJC. 28
+  pages, 1 figure. arXiv admin note: substantial text overlap with
+  arXiv:1512.01288</comments><journal-ref>Eur. Phys. J. C (2016) 76:447</journal-ref><doi>10.1140/epjc/s10052-016-4289-0</doi><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  The particle creation by the so-called peak electric field is considered. The
+latter field is a combination of two exponential parts, one exponentially
+increasing and another exponentially decreasing. We find exact solutions of the
+Dirac equation with the field under consideration with appropriate asymptotic
+conditions and calculate all the characteristics of particle creation effect,
+in particular, differential mean numbers of created particle, total number of
+created particles, and the probability for a vacuum to remain a vacuum.
+Characteristic asymptotic regimes are discussed in detail and a comparison with
+the pure asymptotically decaying field is considered.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

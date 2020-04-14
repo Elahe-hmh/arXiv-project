@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T10:19:28Z</responseDate>
+<request verb="ListRecords" until="2017-03-18" from="2017-03-18" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1703.04927</identifier>
+ <datestamp>2017-03-18</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1703.04927</id><created>2017-03-15</created><authors><author><keyname>Goswami</keyname><forenames>Partha</forenames></author></authors><title>Ultra-confined q2/3- plasmons and optical properties of
+  graphene-transition metal dichalcogenide heterostructures</title><categories>cond-mat.mes-hall cond-mat.mtrl-sci</categories><comments>8 pages, 1 figure. arXiv admin note: substantial text overlap with
+  arXiv:1612.02359</comments><license>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</license><abstract>  We report the interesting possibilities related to the plasmonics and the key
+parameters of optoelectronics, such as the absorbance and the transmittance, in
+Van der Waals heterostructures of graphene monolayer on 2D transition metal
+dichalcogenide (GrTMD) substrate here. We obtain the gapped bands with a Rashba
+spin-orbit coupling dependent pseudo Zeeman field due to the interplay of
+substrate induced interactions. This enables us to obtain an expression of the
+dielectric function in the finite doping case ignoring the spin-flip scattering
+events completely. We observe that the relative strength of screening is nearly
+a constant with relative to the changes in the the carrier density.The stronger
+confinement capability of GrTMD Plasmon(tunable)compared to that of standalone
+graphene is a major outcome of our analysis;the plasmon dispersion yields the
+q2/3 behavior and not the well known q1/2 behavior. We also find that the
+absorbance and the transmittance are increasing functions of the frequency and
+the gate voltage. This outcome is useful for devices utilizing
+photoconductivity and the photo-electric effect.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>

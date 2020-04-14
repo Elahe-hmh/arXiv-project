@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2020-04-12T10:16:12Z</responseDate>
+<request verb="ListRecords" until="2017-03-04" from="2017-03-04" metadataPrefix="arXiv" set="physics">http://export.arxiv.org/oai2</request>
+<ListRecords>
+<record>
+<header>
+ <identifier>oai:arXiv.org:1605.07228</identifier>
+ <datestamp>2017-03-04</datestamp>
+ <setSpec>physics</setSpec>
+</header>
+<metadata>
+ <arXiv xmlns="http://arxiv.org/OAI/arXiv/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://arxiv.org/OAI/arXiv/ http://arxiv.org/OAI/arXiv.xsd">
+ <id>1605.07228</id><created>2016-05-23</created><authors><author><keyname>Collins</keyname><forenames>HM</forenames></author><author><keyname>Ginsparg</keyname><forenames>P</forenames></author><author><keyname>Reyes-Galindo</keyname><forenames>L</forenames></author></authors><title>A note concerning Primary Source Knowledge</title><categories>physics.soc-ph cs.DL</categories><comments>9 pages</comments><journal-ref>JASIST Dec 2016</journal-ref><doi>10.1002/asi.23753</doi><license>http://creativecommons.org/licenses/by-nc-sa/4.0/</license><abstract>  We add a small increment to understanding the notion of Primary Source
+Knowledge, knowledge that the non-expert and the citizen can acquire by
+assiduously reading the primary scientific journal literature without being
+embedded in the cultural life of the corresponding technical specialty. This
+comes from exposing four papers to the automated computer filters used by the
+physics preprint server arXiv. These filters are used to flag papers in need of
+further review by human assessors before being promulgated on the server;
+papers not flagged by the algorithm are generally posted on arXiv without
+further review. After the filtering, human moderators decide whether papers
+should be posted based on a relatively low bar of whether they are of interest,
+relevance and value to the research communities that populate arXiv.
+</abstract></arXiv>
+</metadata>
+</record>
+</ListRecords>
+</OAI-PMH>
